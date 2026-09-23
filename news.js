@@ -114,8 +114,18 @@ newsFilters.addEventListener("click", (event) => {
 // ----- 記事1つ分のカード -----
 function newsCardHtml(n) {
   const isNew = !newsSeen.has(n.id);
+
+  // 写真：記事の代表写真 → Bingの小さな写真 → どちらもなければ、キーワード名の四角
+  const mainImage = n.image || n.thumb;
+  const backupImage = n.image && n.thumb ? n.thumb : "";
+  const photo = isSafeUrl(mainImage)
+    ? `<img class="news-photo" src="${escapeHtml(mainImage)}" data-backup="${escapeHtml(backupImage)}"
+         alt="" loading="lazy" referrerpolicy="no-referrer" onerror="photoFailed(this)">`
+    : `<div class="news-photo news-photo-none">${escapeHtml(n.keyword)}</div>`;
+
   return `
     <li class="card news-card" data-id="${escapeHtml(n.id)}">
+      ${photo}
       <div class="card-top">
         <span class="badge badge-keyword">${escapeHtml(n.keyword)}</span>
         <span class="news-date">
@@ -124,6 +134,7 @@ function newsCardHtml(n) {
         </span>
       </div>
       <h2 class="news-title">${escapeHtml(n.title)}</h2>
+      ${n.summary ? `<p class="news-summary">${escapeHtml(n.summary)}</p>` : ""}
       <p class="card-shop">${escapeHtml(n.source)}</p>
       <div class="news-buttons">
         <button class="btn-hide">非表示</button>
@@ -134,6 +145,16 @@ function newsCardHtml(n) {
       </div>
     </li>
   `;
+}
+
+// ----- 写真が読み込めなかったとき：予備の写真に替える。予備もなければ写真の場所を隠す -----
+function photoFailed(img) {
+  if (img.dataset.backup) {
+    img.src = img.dataset.backup;
+    img.dataset.backup = ""; // 予備は1回だけ使う
+  } else {
+    img.hidden = true;
+  }
 }
 
 // ----- 赤い数字（まだ見ていない記事の数）を更新する -----

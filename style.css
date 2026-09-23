@@ -439,3 +439,37 @@ body {
   font-weight: normal;
   opacity: 0.8;
 }
+
+/* ----- 新着カードの写真とあらすじ ----- */
+.news-photo {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;   /* 横16：縦9 の形にそろえる */
+  object-fit: cover;      /* 形が違う写真も、はみ出た部分を切ってぴったり収める */
+  margin-bottom: 12px;
+  border-radius: 10px;
+  background: #f0f0f3;
+}
+
+/* 写真がない記事は、キーワード名を書いた四角を代わりに出す */
+.news-photo-none {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 16 / 5;   /* 写真より低くして、場所をとらないようにする */
+  background: #fde8f3;
+  color: #b0246c;
+  font-weight: bold;
+}
+
+/* あらすじは3行まで。それ以上は「…」で省略する */
+.news-summary {
+  margin: 6px 0 4px;
+  color: var(--text);
+  font-size: 14px;
+  line-height: 1.5;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
