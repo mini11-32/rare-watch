@@ -13,6 +13,7 @@ const sheetTitle = document.getElementById("sheet-title");    // 登録画面の
 const deleteButton = document.getElementById("btn-delete");   // 削除ボタン
 
 const tabs = document.getElementById("tabs");                 // 絞り込みタブ
+const newsSection = document.getElementById("news-section");  // 新着記事の場所
 
 // 今編集している商品の背番号（新しく登録するときは null ＝「なし」）
 let editingId = null;
@@ -47,6 +48,11 @@ itemList.addEventListener("click", (event) => {
   if (!card) return;
 
   const item = items.find((i) => i.id === card.dataset.id);
+  openEditSheet(item, "商品を編集");
+});
+
+// ----- 編集画面を開く（新着から追加したときにも使う） -----
+function openEditSheet(item, title) {
   editingId = item.id;
 
   // 入力欄に、今の内容を入れておく
@@ -55,10 +61,10 @@ itemList.addEventListener("click", (event) => {
     addForm.elements[name].value = item[name] || "";
   }
 
-  sheetTitle.textContent = "商品を編集";
+  sheetTitle.textContent = title;
   deleteButton.hidden = false;
   addSheet.showModal();
-});
+}
 
 // ----- 削除ボタンを押したら、確認してから消す -----
 deleteButton.addEventListener("click", () => {
@@ -168,6 +174,16 @@ function loadItems() {
 // 一覧を画面に描く
 // =========================================
 function render() {
+  // 「新着」タブのときは、商品一覧を隠して新着記事を表示する（news.js の担当）
+  const isNews = currentTab === "news";
+  itemList.hidden = isNews;
+  newsSection.hidden = !isNews;
+  if (isNews) {
+    emptyMessage.hidden = true;
+    renderNews();
+    return;
+  }
+
   // 今のタブに合う商品だけを取り出す
   const shown = items.filter(matchesTab);
 

@@ -35,6 +35,10 @@
     <!-- ===== 絞り込みタブ ===== -->
     <!-- data-tab に、どのタブかを見分けるための名前を付けておく -->
     <nav class="tabs" id="tabs">
+      <!-- 新着タブ。まだ見ていない記事の数を赤い丸で表示する -->
+      <button class="tab" data-tab="news">
+        新着 <span class="tab-badge" id="news-badge" hidden></span>
+      </button>
       <button class="tab is-active" data-tab="all">すべて</button>
       <button class="tab" data-tab="watch">気になる</button>
       <button class="tab" data-tab="applied">応募済み</button>
@@ -49,6 +53,13 @@
     <p class="empty" id="empty-message">
       まだ登録がありません。<br>右下の「＋」から追加しましょう。
     </p>
+
+    <!-- ===== 新着記事（「新着」タブを選んだときだけ表示） ===== -->
+    <!-- 中身はJavaScript（news.js）が自動で作ります -->
+    <section id="news-section" hidden>
+      <p class="news-updated" id="news-updated"></p>
+      <ul class="item-list" id="news-list"></ul>
+    </section>
   </main>
 
   <!-- ===== 追加ボタン（右下に浮かぶ丸いボタン） ===== -->
@@ -116,5 +127,6 @@
 
   <!-- 動きをつけるJavaScriptファイルを読み込む -->
   <script src="app.js"></script>
+  <script src="news.js"></script>
 </body>
 </html>

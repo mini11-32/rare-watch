@@ -328,3 +328,83 @@ body {
 .card {
   cursor: pointer;
 }
+
+/* hidden が付いた部品は、必ず隠す（display の設定より優先させる） */
+[hidden] {
+  display: none !important;
+}
+
+/* =========================================
+   新着タブ
+   ========================================= */
+
+/* タブの横の赤い数字 */
+.tab-badge {
+  display: inline-block;
+  min-width: 20px;
+  margin-left: 2px;
+  padding: 0 6px;
+  border-radius: 999px;
+  background: var(--urgent);
+  color: #fff;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 20px;
+  text-align: center;
+}
+
+.news-updated {
+  margin: 0 0 12px;
+  color: var(--sub);
+  font-size: 12px;
+}
+
+/* 新着カードはタップしても編集画面を開かないので、普通の矢印に戻す */
+.news-card {
+  cursor: default;
+}
+
+.badge-keyword { background: #fde8f3; color: #b0246c; }
+
+.news-date {
+  color: var(--sub);
+  font-size: 13px;
+}
+
+.new-label {
+  margin-right: 4px;
+  color: var(--urgent);
+  font-weight: bold;
+}
+
+.news-title {
+  margin: 8px 0 2px;
+  font-size: 16px;
+  line-height: 1.45;
+}
+
+.news-buttons {
+  display: flex;
+  gap: 8px;
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid var(--line);
+}
+
+.btn-hide,
+.btn-sub,
+.btn-pick {
+  flex: 1;
+  padding: 10px 4px;
+  border-radius: 10px;
+  border: none;
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+}
+
+.btn-hide { background: #f0f0f3; color: var(--sub); }
+.btn-sub  { background: #ece9ff; color: var(--main); }
+.btn-pick { background: var(--main); color: #fff; }
