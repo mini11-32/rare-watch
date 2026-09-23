@@ -15,6 +15,11 @@ const NEWS_SEEN_KEY = "rare-watch-news-seen"; // 一度見た記事（NEWの印�
 const newsList = document.getElementById("news-list");
 const newsUpdated = document.getElementById("news-updated");
 const newsBadge = document.getElementById("news-badge");
+const newsFilters = document.getElementById("news-filters");
+
+// 今選んでいる絞り込み（"all" ＝ すべて、それ以外はキーワード名）
+const NEWS_FILTER_KEY = "rare-watch-news-filter";
+let newsFilter = localStorage.getItem(NEWS_FILTER_KEY) || "all";
 
 // ----- 記事の入れ物 -----
 let newsItems = [];          // 読み込んだ記事
@@ -48,7 +53,15 @@ async function fetchNews() {
 // 「新着」タブの中身を描く（app.js の render() から呼ばれる）
 // =========================================
 function renderNews() {
-  const shown = newsItems.filter((n) => !newsDone.has(n.id));
+  const remaining = newsItems.filter((n) => !newsDone.has(n.id));
+
+  // 絞り込みボタンを描く
+  renderNewsFilters(remaining);
+
+  // 選んでいるキーワードの記事だけにする
+  const shown = newsFilter === "all"
+    ? remaining
+    : remaining.filter((n) => n.keyword === newsFilter);
 
   // 最終更新の時刻
   newsUpdated.textContent = newsUpdatedAt
@@ -71,6 +84,32 @@ function renderNews() {
   saveIds(NEWS_SEEN_KEY, newsSeen);
   updateNewsBadge();
 }
+
+// ----- 絞り込みボタン（件数付き） -----
+function renderNewsFilters(remaining) {
+  // 記事に出てくるキーワードを、重ならないように集める
+  const labels = [...new Set(remaining.map((n) => n.keyword))];
+
+  // 選んでいたキーワードの記事がなくなっていたら「すべて」に戻す
+  if (newsFilter !== "all" && !labels.includes(newsFilter)) newsFilter = "all";
+
+  const chip = (value, text, count) => `
+    <button class="chip ${value === newsFilter ? "is-active" : ""}" data-filter="${escapeHtml(value)}">
+      ${escapeHtml(text)} <span class="chip-count">${count}</span>
+    </button>`;
+
+  newsFilters.innerHTML =
+    chip("all", "すべて", remaining.length) +
+    labels.map((l) => chip(l, l, remaining.filter((n) => n.keyword === l).length)).join("");
+}
+
+newsFilters.addEventListener("click", (event) => {
+  const chip = event.target.closest(".chip");
+  if (!chip) return;
+  newsFilter = chip.dataset.filter;
+  localStorage.setItem(NEWS_FILTER_KEY, newsFilter); // 次に開いたときも同じ絞り込みにする
+  renderNews();
+});
 
 // ----- 記事1つ分のカード -----
 function newsCardHtml(n) {

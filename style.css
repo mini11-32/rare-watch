@@ -408,3 +408,34 @@ body {
 .btn-hide { background: #f0f0f3; color: var(--sub); }
 .btn-sub  { background: #ece9ff; color: var(--main); }
 .btn-pick { background: var(--main); color: #fff; }
+
+/* ----- 新着の絞り込みボタン ----- */
+.chips {
+  display: flex;
+  gap: 6px;
+  overflow-x: auto;   /* はみ出したら横にスクロール */
+  margin-bottom: 10px;
+}
+
+.chip {
+  flex-shrink: 0;
+  padding: 6px 12px;
+  border: 1px solid #f3c4dc;
+  border-radius: 999px;
+  background: var(--card);
+  color: #b0246c;
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.chip.is-active {
+  background: #b0246c;
+  border-color: #b0246c;
+  color: #fff;
+}
+
+.chip-count {
+  font-weight: normal;
+  opacity: 0.8;
+}
