@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T03:10:12.078Z",
+  "updatedAt": "2026-09-23T03:17:19.184Z",
   "items": [
     {
       "id": "CBMif0FVX3lxTFBlSmZTRHJrR1N5YVRuazUtVlpsUFltN28ySUY4WDhoTVU1aWVsOXBib0xYYlRkZF81b1lmQlBQNWZ3aFQtRmJmMW43V2J4UjdLZGhCOTN0MHd5cFdXZlFZeVpQTWJUVDNlWHMxQkw5dG0wcGJjUC1UMlllUVJOY2s",
@@ -46,7 +46,7 @@
       "thumb": "",
       "date": "2026-09-22T19:06:05.000Z",
       "image": "",
-      "imageTried": true
+      "imageTries": 1
     },
     {
       "id": "bing:https://www.msn.com/ja-jp/lifestyle/other/%E3%82%A4%E3%83%B4-%E3%82%B5%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%B3%E3%83%95%E3%83%AC2026-%E3%83%90%E3%83%BC%E3%82%AC%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%81%A8%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%81%8C%E7%85%8C%E3%82%81%E3%81%8F%E4%B8%96%E7%95%8C/ar-AA2cMkbY",
@@ -57,8 +57,7 @@
       "link": "https://www.msn.com/ja-jp/lifestyle/other/%E3%82%A4%E3%83%B4-%E3%82%B5%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%B3%E3%83%95%E3%83%AC2026-%E3%83%90%E3%83%BC%E3%82%AC%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%81%A8%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%81%8C%E7%85%8C%E3%82%81%E3%81%8F%E4%B8%96%E7%95%8C/ar-AA2cMkbY",
       "thumb": "https://www.bing.com/th?id=ONUT.xybGX0cVgZgqoiKc38mwxw&pid=News&w=480&h=270&c=7",
       "date": "2026-09-22T17:13:36.000Z",
-      "image": "",
-      "imageTried": true
+      "image": ""
     },
     {
       "id": "bing:https://www.excite.co.jp/news/article/Inside_188134/",
@@ -70,7 +69,7 @@
       "thumb": "https://www.bing.com/th?id=ONUT.bW0YdLR8WdbZHmuaWWdvAw&pid=News&w=480&h=270&c=7",
       "date": "2026-09-22T10:01:00.000Z",
       "image": "",
-      "imageTried": true
+      "imageTries": 1
     },
     {
       "id": "CBMif0FVX3lxTE9fWl9md0h5d01CRnZTZExUa2dBSmM4dzMydkRfSElGNTk5RC1JdGxibG1kbFp0YTYxWmNhdEdhMWRMMlBTZUwwZ2Y5UHdQd3JLNC1OSzAzWDA5eFhYeGVlbHBWS3pWaUF4NEdzQjlrWUM3Q2JxS3VaN2hOdWQ1RWs",
@@ -91,8 +90,7 @@
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBxa0V6THZiSXF3cnBTcUtnbmFZS3VmWUViblhrWlR3REpDUVhSWjNid19vNTlMSlJFRVp1dF85YTRLLXlOWVE?oc=5",
       "date": "2026-09-22T09:00:00.000Z",
       "thumb": "https://www.bing.com/th?id=ONUT.YV3amgeeT1ErEFtv0IDgFw&pid=News&w=480&h=270&c=7",
-      "image": "",
-      "imageTried": true
+      "image": ""
     },
     {
       "id": "CBMiRkFVX3lxTE1LblNRT0lqQ1F2bVU5bkM1aXZBYjFTQVRQRjNWc3BybVFVd05HTlV4elFiaGdST0xrUHNLTXl3UVIzNU5SWWc",
@@ -103,7 +101,7 @@
       "date": "2026-09-22T08:00:00.000Z",
       "thumb": "",
       "image": "",
-      "imageTried": true
+      "imageTries": 1
     },
     {
       "id": "CBMiRkFVX3lxTE54QmFNWExvZzhubG1OeEYzWHVURmJYcF9zVVJRaC01ZFhQODhPbEVVN3lfM3FwQzRpb1pOY3pFTUZ0ZTZ6V0E",
@@ -123,7 +121,9 @@
       "source": "Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYnpaMF9IeEdiWWpiemp2SnFWWkhZa01MNHN1UkpWeWhndkk5bVpZeUxYaEdsUE9YQXBOUDJwYlU1QjMzWmRpZXB0ek9OVWhiOUJPekpvVzN2ZjVTcnNYOVVUdUE4R2JsS1pvS0hXZXE1enc1SGxTUG1ZMWJnMmZQSHpOYlgxQTFqdFU2UWR3?oc=5",
       "date": "2026-09-22T02:18:12.000Z",
-      "imageTried": true
+      "thumb": "https://www.bing.com/th?id=ONUT.Qnu0aVHuvv0WjezQFfI1rw&pid=News&w=480&h=270&c=7",
+      "image": "https://contents.oricon.co.jp/upimg/article/3/3384/3384979/thumb/img660/4ae632dc86483340a68d00ccaf6114e6298121dbd54a11df18c7eb8667e223be.jpg",
+      "imageTries": 1
     },
     {
       "id": "CBMiU0FVX3lxTE1uWTNOMVVvczlPSmdYR1RlQ2RIUzZJY0lCZi1GS2NNUlJBU0lOX2NNNlNDRVNiV29EWTBtMGs4cG9LUUs5RmxhOXBVV0dVQ1lHa25j",
@@ -169,18 +169,19 @@
       "thumb": "https://www.bing.com/th?id=ONUT.QuYEiA0LDLQ1yb9oLnxGfw&pid=News&w=480&h=270&c=7",
       "date": "2026-09-21T19:00:00.000Z",
       "image": "",
-      "imageTried": true
+      "imageTries": 1
     },
     {
-      "id": "CBMiRkFVX3lxTE9VNlk1Rk1mN3hxdWFzUTlFNzRmXzhJSGtBb2ZYNjZjLTlDeUlqaWdBUHZWSGVfcHRTYzRDRXMtTG5VaUZkMnc",
+      "id": "bing:https://topics.smt.docomo.ne.jp/article/voce/life/voce-5148076",
       "keyword": "クリスマスコフレ",
-      "title": "【メナードのクリスマスコフレ2026】特別感あふれる香りの限定コフレをご紹介",
-      "source": "VOCE",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9VNlk1Rk1mN3hxdWFzUTlFNzRmXzhJSGtBb2ZYNjZjLTlDeUlqaWdBUHZWSGVfcHRTYzRDRXMtTG5VaUZkMnc?oc=5",
-      "date": "2026-09-21T08:00:00.000Z",
-      "thumb": "https://www.bing.com/th?id=ONUT.nPrFqvcCujumJiw2feEwig&pid=News&w=480&h=270&c=7",
-      "image": "",
-      "imageTried": true
+      "title": "【ニールズヤード レメディーズのクリスマスコフレ2026】予約日",
+      "summary": "【ニールズヤード レメディーズのクリスマスコフレ2026】予約日・発売日ごとに限定コフレを紹介 今年のホリデーシーズンもニールズヤード レメディーズ（NEAL'S YARD REMEDIES）から待望のクリスマスコフレが登場！2026年は、人気の「フランキンセンス」や「ワイルドロ",
+      "source": "dメニューニュース",
+      "link": "https://topics.smt.docomo.ne.jp/article/voce/life/voce-5148076",
+      "thumb": "",
+      "date": "2026-09-21T06:00:00.000Z",
+      "image": "https://img.topics.smt.news.goo.ne.jp/picture/voce/m_voce-5148076.jpg",
+      "imageTries": 1
     },
     {
       "id": "bing:https://animeanime.jp/article/2026/09/21/103124.html",
@@ -195,15 +196,16 @@
       "imageTried": true
     },
     {
-      "id": "CBMiRkFVX3lxTE9IVUpqX3VacG1wS2VSR01zOHZzN25Ib3BUUE42SWliSTFTQkdMTjhEUmlJV0hrbmdpQktod0JNbWwycnVXd3c",
+      "id": "bing:https://www.msn.com/ja-jp/lifestyle/other/%E3%83%A1%E3%83%8A%E3%83%BC%E3%83%89%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%B3%E3%83%95%E3%83%AC2026-%E7%89%B9%E5%88%A5%E6%84%9F%E3%81%82%E3%81%B5%E3%82%8C%E3%82%8B%E9%A6%99%E3%82%8A%E3%81%AE%E9%99%90%E5%AE%9A%E3%82%B3%E3%83%95%E3%83%AC%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B/ar-AA2cEAOY",
       "keyword": "クリスマスコフレ",
-      "title": "【ニールズヤード レメディーズのクリスマスコフレ2026】予約日・発売日ごとに限定コフレを紹介",
-      "source": "VOCE",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9IVUpqX3VacG1wS2VSR01zOHZzN25Ib3BUUE42SWliSTFTQkdMTjhEUmlJV0hrbmdpQktod0JNbWwycnVXd3c?oc=5",
-      "date": "2026-09-21T04:00:00.000Z",
-      "thumb": "https://www.bing.com/th?id=ONUT.x-ob0Se_N1F4utamv3wiUQ&pid=News&w=480&h=270&c=7",
+      "title": "【メナードのクリスマスコフレ2026】特別感あふれる香りの限定",
+      "summary": "今年のホリデーシーズンも【メナード】から待望のクリスマスコフレが登場！ 2026年は特別な香りのアイテムが詰まった豪華なセットがラインナップ。毎年大人気で即完売する注目アイテムを、発売日とあわせて詳しくチェックしてみましょう。",
+      "source": "VOCE on MSN",
+      "link": "https://www.msn.com/ja-jp/lifestyle/other/%E3%83%A1%E3%83%8A%E3%83%BC%E3%83%89%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%B3%E3%83%95%E3%83%AC2026-%E7%89%B9%E5%88%A5%E6%84%9F%E3%81%82%E3%81%B5%E3%82%8C%E3%82%8B%E9%A6%99%E3%82%8A%E3%81%AE%E9%99%90%E5%AE%9A%E3%82%B3%E3%83%95%E3%83%AC%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B/ar-AA2cEAOY",
+      "thumb": "https://www.bing.com/th?id=ONUT.nPrFqvcCujumJiw2feEwig&pid=News&w=480&h=270&c=7",
+      "date": "2026-09-21T01:00:00.000Z",
       "image": "",
-      "imageTried": true
+      "imageTries": 1
     },
     {
       "id": "CBMiTEFVX3lxTFBTZmZ5NGVmY3hmclYtb0ZIYWpNVlZVWkl3d1BISU1YX1JLYUNwelN5OXFQY2xOUWZjM3VRN0pDZWdXS2F4ZGdPbm14dkg",
@@ -223,7 +225,9 @@
       "source": "famitsu.com",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WdldzME1TYW1UMm1Ra3JXSUwxa3I0WUJMRV9kWW5LQUwwM2R2aS02SVAxOE15c3FwRG1KekNSVjRfaWk3aGNZZTJQclNsWWNNc3NkUlRqZw?oc=5",
       "date": "2026-09-20T11:30:00.000Z",
-      "imageTried": true
+      "thumb": "https://www.bing.com/th?id=ONUT.yjrIfCJzJHli_mVCwSgomA&pid=News&w=480&h=270&c=7",
+      "image": "https://cimg.kgl-systems.io/camion/files/88456/thumbnail_Gxxo.jpg?x=1280",
+      "imageTries": 1
     },
     {
       "id": "CBMiYkFVX3lxTFB3OHZwWkdtbEs3VFBRS25kenp1OWFoajl2OG1tZXREVGRRUDY3MUVqYmJscWVKUHhfUGlWRm9TREkzbnNwZ3dscTRZZzlUYVJWeFFtc1BpbldYUjdPdDh5bUNR",
@@ -234,7 +238,7 @@
       "date": "2026-09-20T10:00:00.000Z",
       "thumb": "",
       "image": "",
-      "imageTried": true
+      "imageTries": 1
     },
     {
       "id": "bing:https://www.elle.com/jp/beauty/makeup-skincare/g73509649/2026christmascoffret-nd-pd-2609-hns/",
@@ -301,7 +305,7 @@
       "date": "2026-09-19T15:00:00.000Z",
       "thumb": "",
       "image": "",
-      "imageTried": true
+      "imageTries": 1
     },
     {
       "id": "CBMiY0FVX3lxTE5TeGlYUksyeTRoUE5RQzl5dHU5R1lrWmVnamtsM25KQUNqNndwcGJmbmhvcHVYNTZIZklfWnNvVWdLdzJHbEJTV082ekxmWmpEanhGVFU0aDZ5dzBtLVhnQWd0TQ",
@@ -310,7 +314,7 @@
       "source": "コンビニ チェッカー",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TeGlYUksyeTRoUE5RQzl5dHU5R1lrWmVnamtsM25KQUNqNndwcGJmbmhvcHVYNTZIZklfWnNvVWdLdzJHbEJTV082ekxmWmpEanhGVFU0aDZ5dzBtLVhnQWd0TQ?oc=5",
       "date": "2026-09-19T07:00:00.000Z",
-      "imageTried": true
+      "imageTries": 1
     },
     {
       "id": "CBMif0FVX3lxTE5meUtmNktxQ0JHVjI1ejNxMWpyLXVpZlRlTC1zRW44OG4xQS1fT2VreHdkbWptanQ1NUg3WmtWRTV4VzVIV2xGWk9ieFVlSEpYcmJuYXpmYXVtcERFTlFSNk4tczJUV04waEJGbEt5NE9kX3FpUDhmbGh4c0laalE",
@@ -330,7 +334,7 @@
       "source": "VOCE",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9yNHI2dmsxNmFPREp1WGJQZHpGemdTMHdmTVdjbDNEODNBRWhDOGNOYXkwaUhITEx2U0Z1Q1JjLTNDWUkwTFE?oc=5",
       "date": "2026-09-19T03:00:00.000Z",
-      "imageTried": true
+      "imageTries": 1
     },
     {
       "id": "bing:https://www.msn.com/ja-jp/news/other/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%B3%E3%83%95%E3%83%AC2026-%E3%83%99%E3%83%BC%E3%82%B9%E3%83%A1%E3%82%A4%E3%82%AF%E3%81%AE%E3%83%9B%E3%83%AA%E3%83%87%E3%83%BC%E9%99%90%E5%AE%9A%E5%93%81%E3%82%92%E7%89%B9%E9%9B%86-%E3%82%B3%E3%82%B9%E3%83%A1%E3%83%87%E3%82%B3%E3%83%AB%E3%83%86%E3%82%84%E3%82%AF%E3%83%AC-%E3%83%89-%E3%83%9D%E3%83%BC-%E3%83%9C%E3%83%BC%E3%83%86-%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%E3%81%AA%E3%81%A9%E4%BB%8A%E5%B9%B4%E3%81%AE%E6%B3%A8%E7%9B%AE%E3%81%AF/ar-AA2cyHbv",
@@ -342,7 +346,7 @@
       "thumb": "",
       "date": "2026-09-19T02:30:00.000Z",
       "image": "",
-      "imageTried": true
+      "imageTries": 2
     },
     {
       "id": "CBMiTEFVX3lxTE9xMURoZGhuVmZKMThyMWdOaTkzVlJ1MU5BeWV2b3Z6ZGFzbFpNb2plODJjSVZhaU1xRzZLV09JXzdPdHdrZW5VcGw4OHU",
@@ -351,7 +355,9 @@
       "source": "Precious.jp",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xMURoZGhuVmZKMThyMWdOaTkzVlJ1MU5BeWV2b3Z6ZGFzbFpNb2plODJjSVZhaU1xRzZLV09JXzdPdHdrZW5VcGw4OHU?oc=5",
       "date": "2026-09-19T00:00:00.000Z",
-      "imageTried": true
+      "thumb": "https://www.bing.com/th?id=ONUT.RTWd_se_X05SEZEVbc9TjQ&pid=News&w=480&h=270&c=7",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-02497423-wwdjapan-000-1-view.jpg?exp=10800",
+      "imageTries": 1
     },
     {
       "id": "CBMiYkFVX3lxTE1jdGZFbGNFT3NvMkROblAwRHJTOVUtQXZIZkxfcjVwTzZkYWJEZkl1Z0lkSnZWVUUycVBJNjBiaE9uMWxVZ3pEVTZQVWk0R0FRbXg1a3JnbGhzOTBIWUN1MmVB",
@@ -362,7 +368,7 @@
       "date": "2026-09-18T22:00:00.000Z",
       "thumb": "",
       "image": "",
-      "imageTried": true
+      "imageTries": 1
     },
     {
       "id": "bing:https://hobby.watch.impress.co.jp/docs/news/2141221.html",
@@ -411,6 +417,17 @@
       "imageTried": true
     },
     {
+      "id": "CBMif0FVX3lxTE1SaldaSjNHNEdPV282M3FMV2gwZUhTR0JiRVJnU29UNzhUUkMzOWlRejZ0bE40bU9YN3dmZ1pwMGxWaVd1MUVoY3NRcGQzZ213S0tOVk93TDZraTVNMzlpN0VKOFY3YUc3cmNIUUVNNENxcGgyRXpCVWJGNTlUUVU",
+      "keyword": "クリスマスコフレ",
+      "title": "【2026年クリスマスコフレ】「サボン」が“ゴールデン・シトラス”香る全21品を発売 アドベントカレンダーも",
+      "source": "Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SaldaSjNHNEdPV282M3FMV2gwZUhTR0JiRVJnU29UNzhUUkMzOWlRejZ0bE40bU9YN3dmZ1pwMGxWaVd1MUVoY3NRcGQzZ213S0tOVk93TDZraTVNMzlpN0VKOFY3YUc3cmNIUUVNNENxcGgyRXpCVWJGNTlUUVU?oc=5",
+      "date": "2026-09-18T15:00:00.000Z",
+      "thumb": "https://www.bing.com/th?id=ONUT.ceUWHwdu_Sa30e2qdjBkhA&pid=News&w=480&h=270&c=7",
+      "image": "https://media.wwdjapan.com/wp-content/uploads/2026/09/18163512/OG-130.jpg",
+      "imageTried": true
+    },
+    {
       "id": "CBMiZ0FVX3lxTE1OckNETVJzekhqTzMtc0ZtekV5a25scjYzWm1NdEgyVlo1aFQ4Y3hidUZ0U0ZoZlRHWlhjRnRzd0FiQkpoQ05lenNYUWRmTVF2a0xjdGRzNnBTeWxPbGdwSWpoZGVjaGM",
       "keyword": "一番くじ",
       "title": "「一番くじ 学園アイドルマスター Part6」9月19日順次発売！",
@@ -419,15 +436,6 @@
       "date": "2026-09-18T15:00:00.000Z",
       "thumb": "",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260919-00000004-imphbw-000-1-view.jpg?exp=10800",
-      "imageTried": true
-    },
-    {
-      "id": "CBMif0FVX3lxTFByblhHU28wdTJteHZDWko3eVhianhmaWQ1SUd3ay1ENjh2OEFieWRVQmpLM2lJdVJLRndrYTA3QXByeDVpUE0xRHBVaUdMVnc0VklkZ3dhYzlHZXk1bjctYVlEbGp3SXlkdXVheVpVSWFsZ1lfUXdtNExuUVowVk0",
-      "keyword": "クリスマスコフレ",
-      "title": "【2026年クリスマスコフレ】「ディオール」ホリデーはジンジャーブレッドハウスの世界観を表現 “メダリオン”をあしらった限定デザインも",
-      "source": "Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByblhHU28wdTJteHZDWko3eVhianhmaWQ1SUd3ay1ENjh2OEFieWRVQmpLM2lJdVJLRndrYTA3QXByeDVpUE0xRHBVaUdMVnc0VklkZ3dhYzlHZXk1bjctYVlEbGp3SXlkdXVheVpVSWFsZ1lfUXdtNExuUVowVk0?oc=5",
-      "date": "2026-09-18T15:00:00.000Z",
       "imageTried": true
     },
     {
@@ -449,19 +457,18 @@
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wMjdMeDRSZy1Qak14RS13VTh5MG9UOThnOExjWnhyMVVhNVVaQjRyOXlNcnZiR0U2WDhKQTR0UzJQVGJxc0pzNkNsY1ZIMWxEaE0w?oc=5",
       "date": "2026-09-18T15:00:00.000Z",
       "thumb": "https://www.bing.com/th?id=ONUT.enLQbbltMMbrLn1fYTNpxg&pid=News&w=480&h=270&c=7",
-      "image": "",
-      "imageTried": true
+      "image": ""
     },
     {
-      "id": "CBMif0FVX3lxTE1SaldaSjNHNEdPV282M3FMV2gwZUhTR0JiRVJnU29UNzhUUkMzOWlRejZ0bE40bU9YN3dmZ1pwMGxWaVd1MUVoY3NRcGQzZ213S0tOVk93TDZraTVNMzlpN0VKOFY3YUc3cmNIUUVNNENxcGgyRXpCVWJGNTlUUVU",
+      "id": "CBMif0FVX3lxTFByblhHU28wdTJteHZDWko3eVhianhmaWQ1SUd3ay1ENjh2OEFieWRVQmpLM2lJdVJLRndrYTA3QXByeDVpUE0xRHBVaUdMVnc0VklkZ3dhYzlHZXk1bjctYVlEbGp3SXlkdXVheVpVSWFsZ1lfUXdtNExuUVowVk0",
       "keyword": "クリスマスコフレ",
-      "title": "【2026年クリスマスコフレ】「サボン」が“ゴールデン・シトラス”香る全21品を発売 アドベントカレンダーも",
+      "title": "【2026年クリスマスコフレ】「ディオール」ホリデーはジンジャーブレッドハウスの世界観を表現 “メダリオン”をあしらった限定デザインも",
       "source": "Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SaldaSjNHNEdPV282M3FMV2gwZUhTR0JiRVJnU29UNzhUUkMzOWlRejZ0bE40bU9YN3dmZ1pwMGxWaVd1MUVoY3NRcGQzZ213S0tOVk93TDZraTVNMzlpN0VKOFY3YUc3cmNIUUVNNENxcGgyRXpCVWJGNTlUUVU?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByblhHU28wdTJteHZDWko3eVhianhmaWQ1SUd3ay1ENjh2OEFieWRVQmpLM2lJdVJLRndrYTA3QXByeDVpUE0xRHBVaUdMVnc0VklkZ3dhYzlHZXk1bjctYVlEbGp3SXlkdXVheVpVSWFsZ1lfUXdtNExuUVowVk0?oc=5",
       "date": "2026-09-18T15:00:00.000Z",
       "thumb": "https://www.bing.com/th?id=ONUT.ceUWHwdu_Sa30e2qdjBkhA&pid=News&w=480&h=270&c=7",
-      "image": "https://media.wwdjapan.com/wp-content/uploads/2026/09/18163512/OG-130.jpg",
-      "imageTried": true
+      "image": "https://media.wwdjapan.com/wp-content/uploads/2026/09/16001800/20260916dior-og.jpg",
+      "imageTries": 1
     },
     {
       "id": "bing:https://animeanime.jp/article/2026/09/18/103060.html",
@@ -485,7 +492,7 @@
       "thumb": "https://www.bing.com/th?id=ONUT.bW0YdLR8WdbZHmuaWWdvAw&pid=News&w=480&h=270&c=7",
       "date": "2026-09-18T11:45:00.000Z",
       "image": "",
-      "imageTried": true
+      "imageTries": 1
     },
     {
       "id": "CBMif0FVX3lxTE5ValFCdldGb1FHSWgxcVdDMVpvaWEtb2pmVTdhbUlqUG5nbkdyakc0ZUl3Wk9SR2lES3l6aDFRVWZTNUNKczQwZ0l4VzlZclhVdVpOUnBVOU41X2xDT1VQb0Itdm9heXlYeGpEYUJMOG5wWVpiRGNUdmp2aEVPb3M",
@@ -495,8 +502,7 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ValFCdldGb1FHSWgxcVdDMVpvaWEtb2pmVTdhbUlqUG5nbkdyakc0ZUl3Wk9SR2lES3l6aDFRVWZTNUNKczQwZ0l4VzlZclhVdVpOUnBVOU41X2xDT1VQb0Itdm9heXlYeGpEYUJMOG5wWVpiRGNUdmp2aEVPb3M?oc=5",
       "date": "2026-09-18T09:06:00.000Z",
       "thumb": "https://www.bing.com/th?id=ONUT.alMe9yYS8mk2EbxiYGtaYQ&pid=News&w=480&h=270&c=7",
-      "image": "",
-      "imageTried": true
+      "image": ""
     },
     {
       "id": "CBMiigFBVV95cUxNSjV4ZWc3Qmcyc2t3OENSTEJkUDhBa1hMZVlmZTBVN1NIN2FlTll5dm04TW4yMlJ5M1N6X2VlZ2tmdlhvMUlyVU4xVkRTR01LNDFnbWQ5aV9NRmFEWTZsSHV5Z3ZJd3kwQWRWVTZGVEdHWFprN3hjZHBEeFlVNFg0TEgyYXhMU2QyS1E",
@@ -510,22 +516,13 @@
       "imageTried": true
     },
     {
-      "id": "CBMijgFBVV95cUxPQzBwdW1GcWVsWUt2RXVuX294UUNlUjg2R2EyRkpoQUtGNkFmblo4WFNFanhJc2EtODJ0QW1TV29QU2Z2dVh5ZUo0WGl2WW9CSXZQcXVxc3dJRl9SWmxSX0lDTzJkSF9ydENkVVVmTHo5cUdNRFpQNDVIQ3NEQlBfYVNSMkhZai1WaXV6MEtB",
-      "keyword": "クリスマスコフレ",
-      "title": "【2026年クリスマスコフレ】「RMK」のホリデーはシャンパンゴールドとモーブが主役 限定キットなどを発売",
-      "source": "Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQzBwdW1GcWVsWUt2RXVuX294UUNlUjg2R2EyRkpoQUtGNkFmblo4WFNFanhJc2EtODJ0QW1TV29QU2Z2dVh5ZUo0WGl2WW9CSXZQcXVxc3dJRl9SWmxSX0lDTzJkSF9ydENkVVVmTHo5cUdNRFpQNDVIQ3NEQlBfYVNSMkhZai1WaXV6MEtB?oc=5",
-      "date": "2026-09-18T08:30:00.000Z",
-      "imageTried": true
-    },
-    {
       "id": "CBMiRkFVX3lxTE9ac01WSGhMdzl0bFNTSERNaU50YnhwQWRsWmpMOTdhTmd2UzVCVWRFRjRUUVZQcDJSYUZ5SndxQmdKd2Y0cWc",
       "keyword": "クリスマスコフレ",
       "title": "【SABON×クリスマスコフレ2026】発売日＆予約日は？｜“真冬のレモンティー”の香りやアドベントカレンダーが登場",
-      "source": "美的",
+      "source": "美的.com",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ac01WSGhMdzl0bFNTSERNaU50YnhwQWRsWmpMOTdhTmd2UzVCVWRFRjRUUVZQcDJSYUZ5SndxQmdKd2Y0cWc?oc=5",
       "date": "2026-09-18T07:06:29.000Z",
-      "imageTried": true
+      "imageTries": 1
     },
     {
       "id": "CBMiUEFVX3lxTE5VU1hvZHVydmRHcmlIcTkyQWZCTGZBb3ZDM2pnaV9pbDA0eXRtWjNNV0dtU1RvM1dEMTFhVTdHRlNRaHRwLUwwdVBCOGk0Vlh1",
@@ -579,16 +576,18 @@
       "source": "ホビーステーション",
       "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE96OU1EZnExTUFZSWFPUWI5cUhlNjl1X2xvTk55ZDRUNUZXNS12RkFDSXhnamxfRFRNXzlRZ3hmd2hCMUxG?oc=5",
       "date": "2026-09-18T03:03:53.000Z",
-      "imageTried": true
+      "thumb": "",
+      "image": "https://www.4gamer.net/games/256/G025620/20260908013/SS/004.webp",
+      "imageTries": 1
     },
     {
       "id": "CBMiRkFVX3lxTE9LMFh2MGcyOFVNdDQ0YmVQNlAwdzFoWmVIWGFsRnd4MmZIcEVybXhPNW13azF4MkVGajhudUJqYVVSTjB1M3c",
       "keyword": "クリスマスコフレ",
       "title": "【シンピュルテ×クリスマスコフレ2026】予約日＆発売日は？｜ CENEとのコラボアイテムや人気フレグランスのアソートセットはギフトにも",
-      "source": "美的",
+      "source": "美的.com",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9LMFh2MGcyOFVNdDQ0YmVQNlAwdzFoWmVIWGFsRnd4MmZIcEVybXhPNW13azF4MkVGajhudUJqYVVSTjB1M3c?oc=5",
       "date": "2026-09-18T03:03:35.000Z",
-      "imageTried": true
+      "imageTries": 1
     },
     {
       "id": "CBMiakFVX3lxTE5mNEw4VDJaeHVBQ2NVbnZfdGhhS2ZhNUFNS1M4dG5BWmNKT2lqS0RIS1NqZ2RGWkpxc3p3R29lbVBrNDJaZklucFlVc0dmNmdQVEtrRDUxTDZmMVoxeEdVUFloRndqWHVYTkE",
@@ -608,7 +607,7 @@
       "source": "ELLE",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbFhYMUpOeWczQ3FJcTVDUFkxdXVaNHpFV2x1WW90Z0RGOFpxRTFnSEVHMjNfa0Nqb2dJdE9wQlpIMzJseGZhbEJBR293OC1vbDY0TFlHQUphYnZ1MXc4blNwdlU2cFExWEtCQk01ZWI1VGRmVC1KRFMzX0t6dzU2ek9RM3owTUFWODRWWlNqY3djWnZKVjZPRmF3?oc=5",
       "date": "2026-09-18T02:08:29.000Z",
-      "imageTried": true
+      "imageTries": 1
     },
     {
       "id": "CBMiRkFVX3lxTE9PZ1NOU1BZX0ZMeXVFLWdRNEEwTm8tTnh5QURpUGdrVFQtaDlBc083cTZlMTJ6NnZVaWNlVklaUEFGNkFlZEE",
@@ -625,10 +624,10 @@
       "id": "CBMiRkFVX3lxTE9kdTliN3VZanNVWjZ0ZkJvNGd3NGdZNUxpY3djR2c2TnNyQ1k5VUhHMklmTXAtemNXS3BoTC1idW5SMkE5NlE",
       "keyword": "クリスマスコフレ",
       "title": "【オルビス×クリスマスコフレ2026】スペシャル炭酸マスク＆人気のオフクリームからリッチタイプが登場",
-      "source": "美的",
+      "source": "美的.com",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9kdTliN3VZanNVWjZ0ZkJvNGd3NGdZNUxpY3djR2c2TnNyQ1k5VUhHMklmTXAtemNXS3BoTC1idW5SMkE5NlE?oc=5",
       "date": "2026-09-18T02:03:25.000Z",
-      "imageTried": true
+      "imageTries": 1
     },
     {
       "id": "bing:https://www.famitsu.com/article/202609/88391",
@@ -650,8 +649,19 @@
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tY2czSm41YlEwdTVid29fUFhXb0hzZVBxSEhPamxnRGFLZWExSEVVVmphNFlYQUhpaGhTbUQ3UmdkMDRPOFJMMkNtOGRHdU9qd0NWRHhENHh5MlF1M1NET21B?oc=5",
       "date": "2026-09-18T02:00:00.000Z",
       "thumb": "https://www.bing.com/th?id=ONUT.MfiGdihZpfwgcFIeCfdr8w&pid=News&w=480&h=270&c=7",
-      "image": "",
-      "imageTried": true
+      "image": ""
+    },
+    {
+      "id": "bing:https://www.wwdjapan.com/articles/2500915",
+      "keyword": "クリスマスコフレ",
+      "title": "【2026年クリスマスコフレ】「RMK」のホリデーはシャンパンゴールド",
+      "summary": "「RMK」は10月30日と11月13日の2回に分け、2026年のホリデーコレクションを数量限定で発売する。第1弾は5アイテム全6商品を、第2弾は11月13日に3アイテム全3商品を発売。予約は10月16日から受け付ける。コレクションのテーマは“アフター・アワーズ・ヌード（AFTER",
+      "source": "WWDJAPAN",
+      "link": "https://www.wwdjapan.com/articles/2500915",
+      "thumb": "https://www.bing.com/th?id=ONUT.nk999eUnIZylKS7gu0ovjQ&pid=News&w=480&h=270&c=7",
+      "date": "2026-09-18T01:30:00.000Z",
+      "image": "https://media.wwdjapan.com/wp-content/uploads/2026/09/18153651/20260918_rmk_og.jpg",
+      "imageTries": 1
     },
     {
       "id": "CBMiRkFVX3lxTE9JNVNmMXFGUVQtSUhsNEV1MzV1WVZWNTFrVl84WnFra01lNTAwM0ZhOWoyWlBxU3d1TzRhLU94emxMZ1JsbFE",
@@ -684,7 +694,7 @@
       "date": "2026-09-18T01:00:00.000Z",
       "thumb": "",
       "image": "",
-      "imageTried": true
+      "imageTries": 1
     },
     {
       "id": "bing:https://magmix.jp/post/377280",
@@ -716,7 +726,7 @@
       "source": "電撃ホビーウェブ",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sU2otcEo4dTZYOXdzUDdwanBPSU9jdkwyNTliZWdvZDBmMkVLczNmVzJWT1pyOGhRQm9iZE8tcUd5UkFxbm1JeXRQd3k3QWFY?oc=5",
       "date": "2026-09-17T10:27:26.000Z",
-      "imageTried": true
+      "imageTries": 1
     },
     {
       "id": "CBMif0FVX3lxTE9peC1nX0xNbEl1WkFKWm9SdDNkeWFtamdOR3I1RGY1bVNiMnNmUlk2OHktVzZrTW1JVWdOZHZzVE1zLUtENnY3eUM3Y2pEWHhGTWNlT0RhV1N0eFRCbk1GT2taSmRBNEhuX21Lci1kNjZJaVNFWGJPSmtLblpGQ1E",
@@ -726,8 +736,7 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9peC1nX0xNbEl1WkFKWm9SdDNkeWFtamdOR3I1RGY1bVNiMnNmUlk2OHktVzZrTW1JVWdOZHZzVE1zLUtENnY3eUM3Y2pEWHhGTWNlT0RhV1N0eFRCbk1GT2taSmRBNEhuX21Lci1kNjZJaVNFWGJPSmtLblpGQ1E?oc=5",
       "date": "2026-09-17T09:45:03.000Z",
       "thumb": "https://www.bing.com/th?id=ONUT.8_vV9keHwqj1D6BMYJZfjA&pid=News&w=480&h=270&c=7",
-      "image": "",
-      "imageTried": true
+      "image": ""
     },
     {
       "id": "CBMiRkFVX3lxTE15ZVNoTGwta2pES3h0cFZhdzkwZl9ubXdyZW9pRHAxb0pYTVlQWjhqeTlBN3FCN3pma0d1NGNpcTZTRDd6bnc",
@@ -737,19 +746,7 @@
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE15ZVNoTGwta2pES3h0cFZhdzkwZl9ubXdyZW9pRHAxb0pYTVlQWjhqeTlBN3FCN3pma0d1NGNpcTZTRDd6bnc?oc=5",
       "date": "2026-09-17T08:00:00.000Z",
       "thumb": "https://www.bing.com/th?id=ONUT.fXeMCJIswN8Z70ocNjOrfg&pid=News&w=480&h=270&c=7",
-      "image": "",
-      "imageTried": true
-    },
-    {
-      "id": "CBMiogFBVV95cUxNZFdmRWJHVDZ0RUhqWjVGRjYwa3U5dnhsUHdjRnNpbWh5Rlo1ZEVpYVpDZVhQVEMxQ2xFbkRFM0FuUzEybTR4cHEtQnJuSHFCR05JMm45TGd2dU4yVkVLOHAtWTJhZW9LU1cyZnR0ZFVBTDlNU1BXZWIwLXhYZzF0cVo5R2pSNnY5U0I2MHFDb09Ud0V0cUVHZ05YWXVXM0lncFE",
-      "keyword": "クリスマスコフレ",
-      "title": "【2026年クリスマスコフレ】「YSL」「コスメデコルテ」など人気ブランドのホリデーコレクション限定コスメ・コフレ一覧",
-      "source": "ELLE",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZFdmRWJHVDZ0RUhqWjVGRjYwa3U5dnhsUHdjRnNpbWh5Rlo1ZEVpYVpDZVhQVEMxQ2xFbkRFM0FuUzEybTR4cHEtQnJuSHFCR05JMm45TGd2dU4yVkVLOHAtWTJhZW9LU1cyZnR0ZFVBTDlNU1BXZWIwLXhYZzF0cVo5R2pSNnY5U0I2MHFDb09Ud0V0cUVHZ05YWXVXM0lncFE?oc=5",
-      "date": "2026-09-17T07:00:00.000Z",
-      "thumb": "",
-      "image": "",
-      "imageTried": true
+      "image": ""
     },
     {
       "id": "CBMiRkFVX3lxTE9xMl9Rb0c1a0NwaVZfZmdNaERwWDRic1JlSkE5bi14ZnM2VjZpNkEyWWRvZzVXcE14WDVScDVja0c3X19uVFE",
@@ -761,6 +758,17 @@
       "thumb": "",
       "image": "https://www.fashion-press.net/img/news/149340/top.jpg?1785474657",
       "imageTried": true
+    },
+    {
+      "id": "CBMiogFBVV95cUxNZFdmRWJHVDZ0RUhqWjVGRjYwa3U5dnhsUHdjRnNpbWh5Rlo1ZEVpYVpDZVhQVEMxQ2xFbkRFM0FuUzEybTR4cHEtQnJuSHFCR05JMm45TGd2dU4yVkVLOHAtWTJhZW9LU1cyZnR0ZFVBTDlNU1BXZWIwLXhYZzF0cVo5R2pSNnY5U0I2MHFDb09Ud0V0cUVHZ05YWXVXM0lncFE",
+      "keyword": "クリスマスコフレ",
+      "title": "【2026年クリスマスコフレ】「YSL」「コスメデコルテ」など人気ブランドのホリデーコレクション限定コスメ・コフレ一覧",
+      "source": "ELLE",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZFdmRWJHVDZ0RUhqWjVGRjYwa3U5dnhsUHdjRnNpbWh5Rlo1ZEVpYVpDZVhQVEMxQ2xFbkRFM0FuUzEybTR4cHEtQnJuSHFCR05JMm45TGd2dU4yVkVLOHAtWTJhZW9LU1cyZnR0ZFVBTDlNU1BXZWIwLXhYZzF0cVo5R2pSNnY5U0I2MHFDb09Ud0V0cUVHZ05YWXVXM0lncFE?oc=5",
+      "date": "2026-09-17T07:00:00.000Z",
+      "thumb": "",
+      "image": "",
+      "imageTries": 1
     },
     {
       "id": "bing:https://www.inside-games.jp/article/2026/09/17/187876.html",
@@ -778,10 +786,10 @@
       "id": "CBMiRkFVX3lxTE5PXy1lTkxfTDNvbEFrOWw1Y0V0Z3Z2aExrREhySDRXVGdxanlDemJSOXRVeUhvTjV6R0RrNmFfYlBoRGVRWlE",
       "keyword": "クリスマスコフレ",
       "title": "【SUQQU×クリスマスコフレ2026】発売日＆予約日は？｜アイシャドウとフェイスカラーがセットになった限定コンパクト、さらに人気フェイスパウダーの限定カラーも",
-      "source": "美的",
+      "source": "美的.com",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5PXy1lTkxfTDNvbEFrOWw1Y0V0Z3Z2aExrREhySDRXVGdxanlDemJSOXRVeUhvTjV6R0RrNmFfYlBoRGVRWlE?oc=5",
       "date": "2026-09-17T03:32:51.000Z",
-      "imageTried": true
+      "imageTries": 1
     },
     {
       "id": "CBMinAFBVV95cUxONUhCeGs2MVg5amZXZDJNTjQtSVZ4U1lFZFlqWUN1Y0xTbDFLaGoydUdJRzFBZ0tBelRDQ2IxNkpoUFJ3RzlrWWx5VkpSUTRLZ1FodGwwV1BRcUk5SkpoNVFSdGp6ODJqY0phdGxET1lOdWpWUm5vTXFoM0I4bVFDUzl3aGNySVlYdzdQUERKbEMzZDVrU1Z5dW0yWXY",
@@ -791,8 +799,7 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONUhCeGs2MVg5amZXZDJNTjQtSVZ4U1lFZFlqWUN1Y0xTbDFLaGoydUdJRzFBZ0tBelRDQ2IxNkpoUFJ3RzlrWWx5VkpSUTRLZ1FodGwwV1BRcUk5SkpoNVFSdGp6ODJqY0phdGxET1lOdWpWUm5vTXFoM0I4bVFDUzl3aGNySVlYdzdQUERKbEMzZDVrU1Z5dW0yWXY?oc=5",
       "date": "2026-09-17T03:03:22.000Z",
       "thumb": "https://www.bing.com/th?id=ONUT.vkxlBFQ2T69f7X1pDnIMGQ&pid=News&w=480&h=270&c=7",
-      "image": "",
-      "imageTried": true
+      "image": ""
     },
     {
       "id": "CBMiS0FVX3lxTE5aOTJJck4wMkRHc1F6ZkJxbVZRS2Q0Q3VVYWpkX2ZVUGw0bnExS09lQ250aDNxalEtODMzYU5SaXFHWkJZRmY3Q3N3OA",
@@ -812,7 +819,7 @@
       "source": "VOCE",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBsc0kyb3I3Yl9famdzWXlRZ3NqQkt6V0lycHJZRy1VRnVuQ1V1LVJPa2RlWWtZNUZpVmk5SExQUGxONmpod3c?oc=5",
       "date": "2026-09-17T02:00:00.000Z",
-      "imageTried": true
+      "imageTries": 1
     },
     {
       "id": "CBMiogFBVV95cUxOTmNEN1FtWTRUUGlDV0tlZndseGlUNHF4T04zeUlSYzBNeldiaGs0Q1N2TmFkUWJtTVhldDl0WHE5eGxPbWdFbGh4RERwM1hzSVhoZERfazBmRXhJLVFDTkNmUHM0Q1NiOHQ2S0FQUXF6dmp3NEtNcTJ5YVptenpsdWM2T0pWWnZNM1phY2RDd2Ixa0F3Y3BhSEY1YU9qdHl4S2c",
@@ -876,9 +883,7 @@
       "source": "玩具人 TOY PEOPLE",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LaENaRVlVSFUzRlAtb2pmN0tuMC00MHYtUWRIMFZ5WVVmcC1fc1lSSVduclF4TkFnRnl6aVhlYnFCcjk4N21FeHV1WTVWeUZs?oc=5",
       "date": "2026-09-16T10:10:28.000Z",
-      "thumb": "",
-      "image": "",
-      "imageTried": true
+      "imageTries": 1
     },
     {
       "id": "CBMieEFVX3lxTE1PSVhVcGRBT2JOcE1nZDR6MHlPVVNBUGhGdUtXOE1oVDNkVV9PblRBUUJjVExzUTdlcHhtTUExcjEwRjhxSXNHSzRTNzY4anVfMUpxb3IzSC1TZG42Qno2UmRPbWx1eW9zZmpMTEwzQlVqRFZVNy1HUQ",
@@ -899,8 +904,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sSUp0ZEY5YVk1SGdMY01rM2U4QjdEZGIwVDVuQUpTUFBJNkl1eEVFdUVkV2dhMmJKaWVUZGJaVkVlaFZ6R2FhdjEwX0VSQm0w?oc=5",
       "date": "2026-09-16T09:35:00.000Z",
       "thumb": "https://www.bing.com/th?id=ONUT.bW0YdLR8WdbZHmuaWWdvAw&pid=News&w=480&h=270&c=7",
-      "image": "",
-      "imageTried": true
+      "image": ""
     },
     {
       "id": "CBMid0FVX3lxTE5JZnpvNG1Ba1lRajNrQm9ZSXhaSXdKem9ZYV9lOUd2NmE1R3lFckpESjVUYXdnUHoxNkhYVVpvWTFMcnRnbGtSRnNjTWU0QVdCMl90VlNOSG1ITXRLTVd2TW1Tc2ZyMS1XX0dkeXlsQ2tSVkVUSlhZ",
@@ -954,8 +958,7 @@
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ZNFFXUzJENW1RS3JzY2pFTzNuSmJvZkdTLUlIa3hiTExNekY4TjRuWjd5c1NGVTJSbllPMUNiRmg1SVFrY3c?oc=5",
       "date": "2026-09-16T08:00:00.000Z",
       "thumb": "https://www.bing.com/th?id=ONUT.58id6IaoPW8aOd4K1YJXcQ&pid=News&w=480&h=270&c=7",
-      "image": "",
-      "imageTried": true
+      "image": ""
     },
     {
       "id": "CBMif0FVX3lxTFBxQW4wSkhfYndkTDc5b1dQUkFIdE1FYmZzQmRwRTVrN19MMVJCMUZGTC1ESFJ4Zkhldmw4TmlsWThBdE5GeUloTnZydS1MX254RkVRSEtnbDRBME1qQVNRRFVkeFRRcDlObG1mU1dla0Fpbzk0aTNRSm1yT2pGN1k",
@@ -966,7 +969,7 @@
       "date": "2026-09-16T07:15:03.000Z",
       "thumb": "",
       "image": "",
-      "imageTried": true
+      "imageTries": 1
     },
     {
       "id": "CBMiYkFVX3lxTE5FQlltdzZMZVVVOFpuekRpMWwtWkk4Q245WnJfa3BobWpJdlY3S3NEbnFFMWxrQmtSVmUyTmZCRmlsNHlKN0xPSm16c0h6eE1tMy1WWm5BcF9CTWlJamRVX0hn",
@@ -976,8 +979,7 @@
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FQlltdzZMZVVVOFpuekRpMWwtWkk4Q245WnJfa3BobWpJdlY3S3NEbnFFMWxrQmtSVmUyTmZCRmlsNHlKN0xPSm16c0h6eE1tMy1WWm5BcF9CTWlJamRVX0hn?oc=5",
       "date": "2026-09-16T07:00:00.000Z",
       "thumb": "https://www.bing.com/th?id=ONUT.g2NcnZOeKdmSN2vhAUzJ6g&pid=News&w=480&h=270&c=7",
-      "image": "",
-      "imageTried": true
+      "image": ""
     },
     {
       "id": "CBMingFBVV95cUxQTXhSS0ExWDZ3THN6ZzJkTmRRR1Z1WU9TSFZMYnA4WGlqRkVyTWJoRENuakRKem5uUXgwREpSS2pKMFdaallHeEhON2VHSERod0hNOGtwbERNcVFSblBoWmtfTUZ2M3BLVWV5VVllbDlIRU1LR2pzWHRrSVFPWGEyMTFlMzRXdnQyYlI2clhOUGxiRDU0VU9tRlFwUVFVdw",
@@ -987,8 +989,7 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTXhSS0ExWDZ3THN6ZzJkTmRRR1Z1WU9TSFZMYnA4WGlqRkVyTWJoRENuakRKem5uUXgwREpSS2pKMFdaallHeEhON2VHSERod0hNOGtwbERNcVFSblBoWmtfTUZ2M3BLVWV5VVllbDlIRU1LR2pzWHRrSVFPWGEyMTFlMzRXdnQyYlI2clhOUGxiRDU0VU9tRlFwUVFVdw?oc=5",
       "date": "2026-09-16T07:00:00.000Z",
       "thumb": "https://www.bing.com/th?id=ONUT.Q4yAqG9CjC51sSlEYxIddg&pid=News&w=480&h=270&c=7",
-      "image": "",
-      "imageTried": true
+      "image": ""
     },
     {
       "id": "CBMimAFBVV95cUxNcG4zajhrbzVWZnhSZmRtTXliUUlkaFNLbkhzcU5PWFFIOC1wNlBrWkYwQ1BzV21uZ0Jqd2o2RnZTRF8tZF9tNjFEd254S09DcEJ1dkJONS14aHN4Qi1weXZBNS1vZEpfTXdGN2hkajgzRkN1cnBKZHh5eER6N2dWWWtodExMMmxxanlqeXdHU2lVc1AwZkxhQg",
@@ -1010,7 +1011,7 @@
       "date": "2026-09-16T04:41:19.000Z",
       "thumb": "",
       "image": "",
-      "imageTried": true
+      "imageTries": 1
     },
     {
       "id": "CBMiYkFVX3lxTE1lZG42dUZXeUlhazNSMlFzczVQeFE2YzV1dEw4dS04QjY0bVdhQUFKa05jVWRCMVFBRG5MSi1tQWw5OW9ZNDg0X0lsSXV2eU9zVWtwVkdCUXkzcm9QTDFWeWRR",
@@ -1018,7 +1019,10 @@
       "title": "【クリスマスコフレ2026】M·A·Cのホリデーコレクションを一挙公開！ 心躍る華やかな限定アイテムがずらり",
       "source": "MAQUIA",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lZG42dUZXeUlhazNSMlFzczVQeFE2YzV1dEw4dS04QjY0bVdhQUFKa05jVWRCMVFBRG5MSi1tQWw5OW9ZNDg0X0lsSXV2eU9zVWtwVkdCUXkzcm9QTDFWeWRR?oc=5",
-      "date": "2026-09-16T04:05:00.000Z"
+      "date": "2026-09-16T04:05:00.000Z",
+      "thumb": "https://www.bing.com/th?id=ONUT.l7yf9y6JTBJu7HwcrFd7oQ&pid=News&w=480&h=270&c=7",
+      "image": "",
+      "imageTries": 1
     },
     {
       "id": "CBMiUEFVX3lxTFB2eTJPY2tHWnYyU1d4emRia3RQYXdlSF9nc2Vub0tmcFFsQzlRVHZMbE5OYk1mNVp0Vmp5b2N3T1RuSHFFdlJKUTNud3hWQkpV",
@@ -1026,7 +1030,10 @@
       "title": "『一番くじ リメンバー・ミー Colorful Memories』全ラインナップ公開！ミゲル＆ヘクターのジオラマフィギュアやプロジェクターライトが10月登場！",
       "source": "玩具人 TOY PEOPLE",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2eTJPY2tHWnYyU1d4emRia3RQYXdlSF9nc2Vub0tmcFFsQzlRVHZMbE5OYk1mNVp0Vmp5b2N3T1RuSHFFdlJKUTNud3hWQkpV?oc=5",
-      "date": "2026-09-16T04:04:39.000Z"
+      "date": "2026-09-16T04:04:39.000Z",
+      "thumb": "https://www.bing.com/th?id=ONUT.KODtx5tNLl0vEsmnX4mlcw&pid=News&w=480&h=270&c=7",
+      "image": "https://p.potaufeu.asahi.com/0217-p/picture/31338539/13829a10c0c0ef2dff4f7f1b1e8ef43c.jpg",
+      "imageTries": 1
     },
     {
       "id": "CBMihAFBVV95cUxNVkZjMTZIZ3FMbFpJRzY4eEI2a2RZWm1lbVRHd2tjaFpsWUhxdWw5STAyNUpBLW5fRVFPRXJhdzJFeVdTME1rVEJfTEVFOHZvUVRwQVBPcFc2TUhGb2oxR2REZ0ktbkZYWG5ydGxZdDhXendmNFd3X1NxYzF2Z1ZmWDBnTUc",
@@ -1034,7 +1041,8 @@
       "title": "ポケモンカードゲーム MEGA 拡張パック「30th CELEBRATION」の抽選販売について",
       "source": "ポケットモンスターオフィシャルサイト",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVkZjMTZIZ3FMbFpJRzY4eEI2a2RZWm1lbVRHd2tjaFpsWUhxdWw5STAyNUpBLW5fRVFPRXJhdzJFeVdTME1rVEJfTEVFOHZvUVRwQVBPcFc2TUhGb2oxR2REZ0ktbkZYWG5ydGxZdDhXendmNFd3X1NxYzF2Z1ZmWDBnTUc?oc=5",
-      "date": "2026-09-16T04:01:49.000Z"
+      "date": "2026-09-16T04:01:49.000Z",
+      "imageTries": 1
     },
     {
       "id": "CBMiakFVX3lxTFBWSGZ2dTRKMWZYMXZTTW5ocUpVdGZySDN0S0s5TDl2bFU4bG5XenBrdmpkeE5tRzJRV2Z1Yld0UkVTeFFWMTU3OURaa0dkZUlLaElmWGE2aTZZTFRmaWlTX2RONHZpdE5iVGc",
@@ -1042,7 +1050,22 @@
       "title": "「リメンバー・ミー」新作一番くじの全ラインナップ公開！A賞は死者の国を背景に、ミゲルとヘクターが語り合うシーンフィギュア",
       "source": "インサイド",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWSGZ2dTRKMWZYMXZTTW5ocUpVdGZySDN0S0s5TDl2bFU4bG5XenBrdmpkeE5tRzJRV2Z1Yld0UkVTeFFWMTU3OURaa0dkZUlLaElmWGE2aTZZTFRmaWlTX2RONHZpdE5iVGc?oc=5",
-      "date": "2026-09-16T03:35:03.000Z"
+      "date": "2026-09-16T03:35:03.000Z",
+      "thumb": "https://www.bing.com/th?id=ONUT.BnZvVL0zTEcanWqSKVDZIQ&pid=News&w=480&h=270&c=7",
+      "image": "",
+      "imageTries": 1
+    },
+    {
+      "id": "bing:https://www.sankei.com/pressrelease/prtimes/NEPTRUY225L3NOY6RJZBF25GUY/",
+      "keyword": "クリスマスコフレ",
+      "title": "【数量限定】SHIRORU、2026年クリスマスコフレを11月1日（日）に発売",
+      "summary": "SHIRORU株式会社（本社：東京都中央区）は、クリスマスコフレ「SHIRORU クリスマスコフレ2026」を2026年11月1日（日）に数量限定で発売いたします。 2026年冬、SHIRORUから「秘密の鍵」をテーマに、輝く透明感を贈る特別なギフトがお目見え。 ブランドのヒーロ",
+      "source": "産経ニュース",
+      "link": "https://www.sankei.com/pressrelease/prtimes/NEPTRUY225L3NOY6RJZBF25GUY/",
+      "thumb": "https://www.bing.com/th?id=ONUT.ZAVCeSe9u-COlluHCx1Alw&pid=News&w=480&h=270&c=7",
+      "date": "2026-09-15T04:00:00.000Z",
+      "image": "https://www.sankei.com/resizer/v2/https%3A%2F%2Fdpgdieoe6npux.cloudfront.net%2Fprtimes%2F3ALFAGPTYJM2TJQLLX55655ICA?auth=8208f5a781fd3b7b72823fda8e8f5b4c856a7bb3278f842c04840708e66d1b96&quality=50&smart=true&width=1200&height=675",
+      "imageTries": 1
     },
     {
       "id": "bing:https://coco-tte.jp/2026/09/post_627146.html",
@@ -1078,7 +1101,7 @@
       "thumb": "https://www.bing.com/th?id=ONUT.QKI3bkAzlYkp-Q-ZQtU0yA&pid=News&w=480&h=270&c=7",
       "date": "2026-09-13T08:00:00.000Z",
       "image": "",
-      "imageTried": true
+      "imageTries": 1
     },
     {
       "id": "bing:https://www.famitsu.com/article/202609/87660",
