@@ -240,6 +240,7 @@ function isWanted(item, config) {
   const inText = (words = []) => words.some((w) => text.includes(w));
 
   if (inTitle(config.excludeAll) || inTitle(keyword.exclude)) return false; // 捨てる言葉が入っている
+  if (/\d+選/.test(title)) return false; // 「おすすめ5選」のような、まとめ記事は捨てる
   if (keyword.include && !inText(keyword.include)) return false;           // 残す言葉が1つも入っていない
   // require：まとまりごとに、どれか1つは入っていないといけない（例：「抽選」と「BOX」の両方）
   if (keyword.require && !keyword.require.every((group) => inText(group))) return false;
@@ -254,7 +255,24 @@ function isWanted(item, config) {
   const updated = title.match(/(\d{1,2})[月/](\d{1,2})日?更新/);
   if (updated && daysSince(Number(updated[1]), Number(updated[2])) > 30) return false;
 
+  // 「5/27発売」「9月19日発売」の発売日が1週間以上過ぎていたら、もう買えない商品なので捨てる
+  // （「9/4・9/12・9/25発売」のように複数あるときは、「発売」の直前の日付＝最後の発売日で判断する）
+  const release = title.match(/(\d{1,2})(?:\/|月)(\d{1,2})日?(?:\([^)]*\)|（[^）]*）)?\s*(?:より|から)?(?:順次)?発売/);
+  if (release && releasePassed(Number(release[1]), Number(release[2]))) return false;
+
   return true;
+}
+
+// 発売日（月と日だけ）が、1週間以上前に過ぎているか
+// 例：9月に「1/20発売」とあれば、来年1月の話なので「過ぎていない」とみなす
+function releasePassed(month, day) {
+  const now = new Date();
+  const weekAgo = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000);
+  const thisYear = new Date(now.getFullYear(), month - 1, day);
+  if (thisYear >= weekAgo) return false; // 今年のこれから（または最近）の発売
+  const nextYear = new Date(now.getFullYear() + 1, month - 1, day);
+  const fiveMonthsLater = new Date(now.getTime() + 150 * 24 * 60 * 60 * 1000);
+  return nextYear > fiveMonthsLater; // 5か月以内なら来年の発売、それより先なら過ぎた発売日
 }
 
 // 「〇月〇日」が今日から何日前かを数える（未来の日付になるなら、去年のこととみなす）
@@ -269,6 +287,8 @@ function daysSince(month, day) {
 // 例：「〇〇 2枚目の写真・画像」「〇〇（インサイド）」「〇〇...」→ 同じ記事とみなす
 function titleKey(title, length = 20) {
   return title
+    // 先頭の「【画像】」「＜画像4 / 12＞」「[Gallery]」などを取る
+    .replace(/^\s*(\[Gallery\]|【画像】|[＜<]?画像\s*\d+\s*\/\s*\d+\s*[＞>])\s*/i, "")
     .replace(/\s*\d+枚目の写真・画像$/, "")
     .replace(/\s*[（(][^）)]*[）)]$/, "")
     .replace(/[\s　☆！!「」『』【】“”"]/g, "")
