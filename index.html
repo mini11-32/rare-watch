@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <!-- スマホの画面幅に合わせて表示するための設定 -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>レアものウォッチ</title>
+
+  <!-- ===== iPhoneのホーム画面に追加したときの設定 ===== -->
+  <!-- ホーム画面から開いたとき、アドレスバーなしの全画面で表示する -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <!-- 画面上部（時計や電池の部分）の文字を白くする -->
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <!-- ホーム画面のアイコンの下に表示される名前 -->
+  <meta name="apple-mobile-web-app-title" content="レアもの">
+  <!-- ホーム画面のアイコン -->
+  <link rel="apple-touch-icon" href="icon-180.png">
+  <!-- アプリの基本情報をまとめたファイル -->
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#5b4bdb">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ===== ヘッダー（画面の一番上） ===== -->
+  <header class="header">
+    <h1 class="app-title">レアものウォッチ</h1>
+    <p class="app-subtitle">抽選・限定・再販をまとめて管理</p>
+  </header>
+
+  <main class="main">
+
+    <!-- ===== 絞り込みタブ ===== -->
+    <!-- data-tab に、どのタブかを見分けるための名前を付けておく -->
+    <nav class="tabs" id="tabs">
+      <button class="tab is-active" data-tab="all">すべて</button>
+      <button class="tab" data-tab="watch">気になる</button>
+      <button class="tab" data-tab="applied">応募済み</button>
+      <button class="tab" data-tab="result">結果</button>
+    </nav>
+
+    <!-- ===== 商品の一覧 ===== -->
+    <!-- 中身はJavaScript（app.js）が自動で作ります -->
+    <ul class="item-list" id="item-list"></ul>
+
+    <!-- 1件も登録がないときに表示するメッセージ -->
+    <p class="empty" id="empty-message">
+      まだ登録がありません。<br>右下の「＋」から追加しましょう。
+    </p>
+  </main>
+
+  <!-- ===== 追加ボタン（右下に浮かぶ丸いボタン） ===== -->
+  <button class="btn-add" id="btn-add" aria-label="商品を追加">＋</button>
+
+  <!-- ===== 登録画面（＋ボタンを押すと下から出てくる） ===== -->
+  <dialog class="sheet" id="add-sheet">
+    <form class="form" id="add-form">
+      <h2 class="sheet-title" id="sheet-title">商品を登録</h2>
+
+      <label class="field">
+        <span>商品名 <em>必須</em></span>
+        <input type="text" name="name" required placeholder="例：限定コラボフィギュア">
+      </label>
+
+      <label class="field">
+        <span>種類</span>
+        <select name="type">
+          <option>抽選</option>
+          <option>先着</option>
+          <option>再販</option>
+          <option>予約</option>
+        </select>
+      </label>
+
+      <label class="field">
+        <span>お店・サイト</span>
+        <input type="text" name="shop" placeholder="例：公式オンラインストア">
+      </label>
+
+      <label class="field">
+        <span>締め切り</span>
+        <input type="datetime-local" name="deadline">
+      </label>
+
+      <label class="field">
+        <span>当選発表日</span>
+        <input type="date" name="resultDate">
+      </label>
+
+      <label class="field">
+        <span>応募ページのURL</span>
+        <input type="url" name="url" placeholder="https://...">
+      </label>
+
+      <label class="field">
+        <span>ジャンル</span>
+        <input type="text" name="genre" placeholder="例：フィギュア、スニーカー">
+      </label>
+
+      <label class="field">
+        <span>メモ</span>
+        <textarea name="memo" rows="3"></textarea>
+      </label>
+
+      <div class="sheet-buttons">
+        <button type="button" class="btn-cancel" id="btn-cancel">キャンセル</button>
+        <button type="submit" class="btn-save">保存</button>
+      </div>
+
+      <!-- 編集のときだけ表示する削除ボタン -->
+      <button type="button" class="btn-delete" id="btn-delete" hidden>この商品を削除</button>
+    </form>
+  </dialog>
+
+  <!-- 動きをつけるJavaScriptファイルを読み込む -->
+  <script src="app.js"></script>
+</body>
+</html>

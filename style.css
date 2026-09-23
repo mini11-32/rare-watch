@@ -1,0 +1,330 @@
+/* =========================================
+   レアものウォッチ 見た目の設定
+   ========================================= */
+
+/* ----- 色をまとめて決めておく（あとで変えやすくするため） ----- */
+:root {
+  --bg: #f4f5f7;          /* 背景 */
+  --card: #ffffff;        /* カードの背景 */
+  --text: #1c1c1e;        /* 文字 */
+  --sub: #6b6b73;         /* 薄い文字 */
+  --main: #5b4bdb;        /* アプリのメインカラー（紫） */
+  --urgent: #e5383b;      /* 締め切りが近いときの赤 */
+  --line: #e3e3e8;        /* 区切り線 */
+}
+
+/* ----- 全体 ----- */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  /* iPhoneの標準フォントを使う */
+  font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* ----- ヘッダー ----- */
+.header {
+  background: var(--main);
+  color: #fff;
+  /* iPhoneの画面上部（時計や電池の部分）に重ならないようにする */
+  padding: calc(env(safe-area-inset-top) + 20px) 20px 20px;
+}
+
+.app-title {
+  margin: 0;
+  font-size: 24px;
+}
+
+.app-subtitle {
+  margin: 4px 0 0;
+  font-size: 13px;
+  opacity: 0.85;
+}
+
+/* ----- メイン部分 ----- */
+.main {
+  padding: 16px;
+  /* 右下の＋ボタンに一覧が隠れないよう、下に余白をとる */
+  padding-bottom: 120px;
+}
+
+/* ----- 絞り込みタブ ----- */
+.tabs {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;   /* 画面からはみ出したら横にスクロール */
+  margin-bottom: 16px;
+}
+
+.tab {
+  flex-shrink: 0;
+  border: 1px solid var(--line);
+  background: var(--card);
+  color: var(--text);
+  border-radius: 999px;
+  padding: 8px 16px;
+  font-size: 14px;
+}
+
+.tab.is-active {
+  background: var(--main);
+  border-color: var(--main);
+  color: #fff;
+}
+
+/* ----- 商品一覧 ----- */
+.item-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+/* ----- カード（商品1つ分の枠） ----- */
+.card {
+  background: var(--card);
+  border-radius: 16px;
+  padding: 16px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  border-left: 6px solid transparent;
+}
+
+/* 締め切りが近いカードは、左側に赤い線を付ける */
+.card.is-urgent {
+  border-left-color: var(--urgent);
+}
+
+.card-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card-title {
+  margin: 8px 0 2px;
+  font-size: 18px;
+}
+
+.card-shop {
+  margin: 0;
+  color: var(--sub);
+  font-size: 14px;
+}
+
+/* 締め切り・発表日 */
+.card-dates {
+  margin: 12px 0;
+  display: flex;
+  gap: 20px;
+  font-size: 14px;
+}
+
+.card-dates dt {
+  color: var(--sub);
+  font-size: 12px;
+}
+
+.card-dates dd {
+  margin: 0;
+  font-weight: bold;
+}
+
+.card-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 1px solid var(--line);
+  padding-top: 12px;
+}
+
+/* ----- 種類のラベル（抽選・再販・先着） ----- */
+.badge {
+  font-size: 12px;
+  font-weight: bold;
+  padding: 3px 10px;
+  border-radius: 6px;
+}
+
+.badge-lottery { background: #ece9ff; color: #4a3cc0; }
+.badge-restock { background: #e3f4ea; color: #1f7a45; }
+.badge-first   { background: #fff1dc; color: #a45f00; }
+.badge-reserve { background: #e6f4f7; color: #1a6d80; }
+
+/* ----- 残り日数 ----- */
+.deadline {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.card.is-urgent .deadline {
+  color: var(--urgent);
+}
+
+.deadline.is-done {
+  color: var(--sub);
+}
+
+/* ----- 状態（気になる・応募済み・当選） ----- */
+/* タップすると選択肢が出る。iPhone標準の見た目を消して、丸いラベル風にする */
+.status {
+  -webkit-appearance: none;
+  appearance: none;
+  border: none;
+  font-family: inherit;
+  font-size: 16px;      /* 16px以上にすると、iPhoneで勝手に拡大されない */
+  padding: 6px 28px 6px 14px;
+  border-radius: 999px;
+  font-weight: bold;
+  /* 右側に小さな「▼」を付けて、選べることがわかるようにする */
+  background-image: linear-gradient(45deg, transparent 50%, currentColor 50%),
+                    linear-gradient(135deg, currentColor 50%, transparent 50%);
+  background-position: right 14px center, right 9px center;
+  background-size: 5px 5px;
+  background-repeat: no-repeat;
+}
+
+.status-watch   { background-color: #f0f0f3; color: #555; }
+.status-applied { background-color: #e3efff; color: #1e5bb8; }
+.status-won     { background-color: #ffe7ef; color: #c2185b; }
+.status-lost    { background-color: #eeeeee; color: #888; }
+.status-bought  { background-color: #e3f4ea; color: #1f7a45; }
+
+/* ----- 応募ページへボタン ----- */
+.btn-go {
+  background: var(--main);
+  color: #fff;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 10px 16px;   /* 指で押しやすい大きさにする */
+  border-radius: 10px;
+}
+
+/* ----- 右下の＋ボタン ----- */
+.btn-add {
+  position: fixed;   /* スクロールしても同じ場所に留まる */
+  right: 20px;
+  bottom: calc(env(safe-area-inset-bottom) + 20px);
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  border: none;
+  background: var(--main);
+  color: #fff;
+  font-size: 32px;
+  box-shadow: 0 4px 12px rgba(91, 75, 219, 0.4);
+}
+
+/* ----- 登録画面（下から出てくるシート） ----- */
+.sheet {
+  width: 100%;
+  max-width: 560px;
+  max-height: 90vh;
+  margin: auto auto 0;      /* 画面の下にくっつける */
+  border: none;
+  border-radius: 20px 20px 0 0;
+  padding: 20px 20px calc(env(safe-area-inset-bottom) + 20px);
+  background: var(--card);
+  color: var(--text);
+}
+
+/* シートの後ろを暗くする */
+.sheet::backdrop {
+  background: rgba(0, 0, 0, 0.4);
+}
+
+.sheet-title {
+  margin: 0 0 16px;
+  font-size: 20px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 14px;
+  color: var(--sub);
+}
+
+.field em {
+  font-style: normal;
+  font-size: 11px;
+  color: var(--urgent);
+}
+
+/* 入力欄。文字を16px以上にすると、iPhoneで勝手に拡大されない */
+.field input,
+.field select,
+.field textarea {
+  font-size: 16px;
+  padding: 12px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: #fafafa;
+  color: var(--text);
+  font-family: inherit;
+  width: 100%;
+}
+
+.sheet-buttons {
+  display: flex;
+  gap: 12px;
+  margin-top: 8px;
+}
+
+.btn-cancel,
+.btn-save {
+  flex: 1;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 14px;
+  border-radius: 12px;
+  border: none;
+}
+
+.btn-cancel {
+  background: #f0f0f3;
+  color: var(--text);
+}
+
+.btn-save {
+  background: var(--main);
+  color: #fff;
+}
+
+/* ----- 登録がないときのメッセージ ----- */
+.empty {
+  text-align: center;
+  color: var(--sub);
+  margin-top: 60px;
+}
+
+/* ----- 削除ボタン ----- */
+.btn-delete {
+  margin-top: 4px;
+  padding: 12px;
+  border: none;
+  background: none;
+  color: var(--urgent);
+  font-size: 15px;
+  font-weight: bold;
+}
+
+/* カードはタップで編集できるので、指のマークにする */
+.card {
+  cursor: pointer;
+}
