@@ -9,7 +9,7 @@ import { readFile, writeFile } from "node:fs/promises";
 
 const KEEP_DAYS = 30;        // 何日前までの記事を残しておくか
 const MAX_ITEMS = 150;       // 最大で何件まで残しておくか
-const MAX_PAGE_VISITS = 40;  // 写真を探しに記事のページを見に行く回数の上限（1回の実行あたり）
+const MAX_PAGE_VISITS = 80;  // 写真を探す記事の数の上限（1回の実行あたり）
 const BROWSER = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15";
 
 // ----- キーワードと「ふるい」の設定を読み込む -----
@@ -64,16 +64,28 @@ for (const item of candidates) {
 items.sort((a, b) => new Date(b.date) - new Date(a.date));
 items.splice(MAX_ITEMS);
 
-// ----- 写真がまだない記事は、記事のページを見に行って写真を探す -----
+// ----- 写真がまだない記事は、写真を探しに行く -----
 let visits = 0;
 for (const item of items) {
-  if (item.image || item.imageTried || !isRealArticle(item.link)) continue;
+  if (item.image || item.imageTried) continue;
   if (visits >= MAX_PAGE_VISITS) break;
   visits++;
-  item.image = await findPageImage(item.link);
+
+  if (isRealArticle(item.link)) {
+    // 元の記事のURLがわかる → そのページの写真を使う
+    item.image = await findPageImage(item.link);
+  } else if (!item.thumb) {
+    // Googleの記事（元のURLがわからない）→ 同じタイトルでBingを検索して、よく似た記事の写真を借りる
+    const twin = await findTwinOnBing(item);
+    if (twin) {
+      item.thumb = twin.thumb;
+      item.image = await findPageImage(twin.link);
+    }
+    await wait(500); // Bingに続けて何度も頼みすぎないよう、少し間をあける
+  }
   item.imageTried = true; // 見つからなくても、次からは探しに行かない
 }
-console.log(`写真を探しに ${visits}ページ見に行きました`);
+console.log(`写真を ${visits}件探しました`);
 
 await writeFile("news.json", JSON.stringify({ updatedAt: new Date().toISOString(), items }, null, 2) + "\n");
 console.log(`合計 ${items.length}件を保存しました（写真あり ${items.filter((i) => i.image || i.thumb).length}件）`);
@@ -109,10 +121,15 @@ async function searchGoogle(keyword) {
 // Bingニュースで検索する（記事は少なめだが、写真・あらすじ・元のURLがある）
 // =========================================
 async function searchBing(keyword) {
-  const query = encodeURIComponent(keyword.query);
+  return fetchBing(keyword.query, keyword.label);
+}
+
+// Bingニュースに言葉を送って、記事の一覧を受け取る
+async function fetchBing(words, label) {
+  const query = encodeURIComponent(words);
   const res = await fetch(
     `https://www.bing.com/news/search?q=${query}&format=rss&setlang=ja&cc=JP&count=50`,
-    { headers: { "User-Agent": BROWSER } },
+    { headers: { "User-Agent": BROWSER }, signal: AbortSignal.timeout(8000) },
   );
   const xml = await res.text();
 
@@ -123,7 +140,7 @@ async function searchBing(keyword) {
     const thumb = pick(body, "News:Image");
     return {
       id: `bing:${realUrl}`,
-      keyword: keyword.label,
+      keyword: label,
       // Bingのタイトルは長いと「...」で切れるので、その「...」を取る
       title: pick(body, "title").replace(/\s*(\.\.\.|…)$/, ""),
       summary: pick(body, "description").slice(0, 140),
@@ -134,6 +151,52 @@ async function searchBing(keyword) {
       date: toIso(pick(body, "pubDate")),
     };
   }).filter((item) => item.link && item.title && item.date);
+}
+
+// =========================================
+// Googleの記事とよく似たタイトルの記事を、Bingで探す
+// =========================================
+async function findTwinOnBing(item) {
+  try {
+    const results = await fetchBing(item.title.slice(0, 60), item.keyword);
+    let best = null;
+    let bestScore = 0;
+    for (const r of results) {
+      const s = similarity(item.title, r.title);
+      if (s > bestScore) {
+        best = r;
+        bestScore = s;
+      }
+    }
+    // 似ている度合いが0.5以上（半分以上同じ）なら、同じ話題の記事とみなす
+    return bestScore >= 0.5 ? best : null;
+  } catch {
+    return null;
+  }
+}
+
+// 2つのタイトルがどれくらい似ているか（0〜1。1ならまったく同じ）
+// 2文字ずつの組（例：「一番」「番く」「くじ」）が、どれだけ共通しているかで比べる
+function similarity(a, b) {
+  const pairs = (text) => {
+    const t = titleKey(text, Infinity);
+    const list = [];
+    for (let i = 0; i < t.length - 1; i++) list.push(t.slice(i, i + 2));
+    return list;
+  };
+  const pa = pairs(a);
+  const pb = pairs(b);
+  // Bingのタイトルは途中で切れていることがあるので、短いほうの長さで比べる
+  const shorter = Math.min(pa.length, pb.length);
+  if (shorter < 5) return 0;
+  const bag = new Set(pb);
+  const common = pa.filter((p) => bag.has(p)).length;
+  return Math.min(1, common / shorter);
+}
+
+// 指定した時間（ミリ秒）だけ待つ
+function wait(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
 // =========================================
@@ -198,12 +261,12 @@ function daysSince(month, day) {
 
 // 重複を見つけるために、タイトルの細かい違いをそろえて、最初の20文字を比べる
 // 例：「〇〇 2枚目の写真・画像」「〇〇（インサイド）」「〇〇...」→ 同じ記事とみなす
-function titleKey(title) {
+function titleKey(title, length = 20) {
   return title
     .replace(/\s*\d+枚目の写真・画像$/, "")
     .replace(/\s*[（(][^）)]*[）)]$/, "")
     .replace(/[\s　☆！!「」『』【】“”"]/g, "")
-    .slice(0, 20);
+    .slice(0, length);
 }
 
 // 重複したときに、どちらを残すかの点数（写真・あらすじ・元のURLがあるほど高い）
