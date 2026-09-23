@@ -76,6 +76,8 @@ function isWanted(item, config) {
 
   if (has(config.excludeAll) || has(keyword.exclude)) return false; // 捨てる言葉が入っている
   if (keyword.include && !has(keyword.include)) return false;       // 残す言葉が1つも入っていない
+  // require：まとまりごとに、どれか1つは入っていないといけない（例：「抽選」と「BOX」の両方）
+  if (keyword.require && !keyword.require.every((group) => has(group))) return false;
 
   // 去年より前の年（例：2023年）が書かれていたら、昔の商品の記事なので捨てる
   const thisYear = new Date().getFullYear();
