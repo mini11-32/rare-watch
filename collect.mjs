@@ -9,7 +9,8 @@ import { readFile, writeFile } from "node:fs/promises";
 
 const KEEP_DAYS = 30;        // 何日前までの記事を残しておくか
 const MAX_ITEMS = 150;       // 最大で何件まで残しておくか
-const MAX_PAGE_VISITS = 80;  // 写真を探す記事の数の上限（1回の実行あたり）
+const MAX_PAGE_VISITS = 40;  // 写真を探す記事の数の上限（1回の実行あたり）
+const MAX_TRIES = 3;         // 写真が見つからなかった記事に、何回まで挑戦するか
 const BROWSER = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15";
 
 // ----- キーワードと「ふるい」の設定を読み込む -----
@@ -67,7 +68,12 @@ items.splice(MAX_ITEMS);
 // ----- 写真がまだない記事は、写真を探しに行く -----
 let visits = 0;
 for (const item of items) {
-  if (item.image || item.imageTried) continue;
+  if (item.image) continue;
+  // 前の版の記録（imageTried）が残っている記事は、1回挑戦したことにする
+  const tries = item.imageTries ?? (item.imageTried ? 1 : 0);
+  delete item.imageTried;
+  // 3回挑戦してだめだった記事と、Bingの小さな写真（thumb）が1回で見つかった記事は、もう探さない
+  if (tries >= MAX_TRIES || (item.thumb && tries >= 1)) continue;
   if (visits >= MAX_PAGE_VISITS) break;
   visits++;
 
@@ -81,9 +87,9 @@ for (const item of items) {
       item.thumb = twin.thumb;
       item.image = await findPageImage(twin.link);
     }
-    await wait(500); // Bingに続けて何度も頼みすぎないよう、少し間をあける
+    await wait(1500); // Bingに続けて何度も頼みすぎないよう、1.5秒あける
   }
-  item.imageTried = true; // 見つからなくても、次からは探しに行かない
+  item.imageTries = tries + 1; // 挑戦した回数を記録する（3回見つからなければ、あきらめる）
 }
 console.log(`写真を ${visits}件探しました`);
 
