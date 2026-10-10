@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-10T18:18:47.186Z",
+  "updatedAt": "2026-10-10T21:15:38.076Z",
   "items": [
+    {
+      "id": "CBMiwwFBVV95cUxNS292M3hPdm1sMldoem1MeG1TS3FuY1p3WGsyaXNST0ctZGtTRnZ3aGtXbm41NHc4Mm56V19LaFExTDBwcDMxX3FoUU5fM2RTVFRadGlxTkxpTDlBVFY1YUdRUy0xeElPWm0yeXJfaFFYaWFOVXFkdF9fQVZiNDJZLUN3eWsyZXNRVmxDd055a3czcTFCd09vaUN4aXlaOU1sTkd1S0ZIT29pLVk1ZTFCWlY5SjgxN09Sb0JVQmN6YW5iUGM",
+      "keyword": "マーベル",
+      "title": "MTG Marvel: Darkhold Destinyの予約受付が開始",
+      "source": "games.gg",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS292M3hPdm1sMldoem1MeG1TS3FuY1p3WGsyaXNST0ctZGtTRnZ3aGtXbm41NHc4Mm56V19LaFExTDBwcDMxX3FoUU5fM2RTVFRadGlxTkxpTDlBVFY1YUdRUy0xeElPWm0yeXJfaFFYaWFOVXFkdF9fQVZiNDJZLUN3eWsyZXNRVmxDd055a3czcTFCd09vaUN4aXlaOU1sTkd1S0ZIT29pLVk1ZTFCWlY5SjgxN09Sb0JVQmN6YW5iUGM?oc=5",
+      "date": "2026-10-10T15:18:53.000Z",
+      "imageTries": 1
+    },
     {
       "id": "bing:https://topics.smt.docomo.ne.jp/article/animeanime/entertainment/animeanime-103673",
       "keyword": "一番くじ",
@@ -94,7 +103,7 @@
       "source": "電撃ホビーウェブ",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pM1FYWmRncXZYQ2hzcWlaZVgxTE1kX3FkMVdTTW91RktjeDVicFFLZ0NJcXc5Q1FGd3hkWjk5NnI1TnBMZVZ6Mmdod3RmbmZ4?oc=5",
       "date": "2026-10-09T04:45:00.000Z",
-      "imageTries": 2
+      "imageTries": 1
     },
     {
       "id": "CBMif0FVX3lxTE02bUt6OUpfTmNkbWNfVGV4ekdfWjNLTG5fdk5YZFhfczZfZFRHQnFnMk9lT1NQMjJGRy1aRURublBoOUhuYmRiZUtMWDBMVE1XNGY0SVUyOVNwc1FKTGlVV1ZreVUwQ1FSYkFoTl8wcEpGTWNTRm1QcEk5czl5aW8",
@@ -116,7 +125,7 @@
       "date": "2026-10-09T04:15:00.000Z",
       "thumb": "",
       "image": "",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "bing:https://game.watch.impress.co.jp/docs/news/2145987.html",
@@ -1629,15 +1638,6 @@
       "thumb": "https://www.bing.com/th?id=ONUT.JeXQ_Ho7krM0O5xYoBWOZQ&pid=News&w=480&h=270&c=7",
       "image": "https://travel.watch.impress.co.jp/img/trw/list/2144/496/01.jpg",
       "imageTries": 1
-    },
-    {
-      "id": "CBMiiAFBVV95cUxQMTE3QjloUlBsaUJxRm5ia3VJWE1jOUg2bkZwR2F6M3dsaFdYX3dPN19vbkxXak4yX0I3Zk5iS2pUaklPdnJoaG8yMS1UQV9yZXJVSU92RW9BY1pTTTBPUGlLWVBjYUVMbE02WEZET3FJbkZEZTBuSzJWcFJVY3pHektldzJpQzk1",
-      "keyword": "大型コラボ",
-      "title": "【スタバ】初日から争奪戦？！珈琲の持ち運びに便利「ポケモンコラボ リユーザブルカップ」が激かわ！",
-      "source": "Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMTE3QjloUlBsaUJxRm5ia3VJWE1jOUg2bkZwR2F6M3dsaFdYX3dPN19vbkxXak4yX0I3Zk5iS2pUaklPdnJoaG8yMS1UQV9yZXJVSU92RW9BY1pTTTBPUGlLWVBjYUVMbE02WEZET3FJbkZEZTBuSzJWcFJVY3pHektldzJpQzk1?oc=5",
-      "date": "2026-09-30T05:12:58.000Z",
-      "imageTries": 3
     }
   ]
 }
