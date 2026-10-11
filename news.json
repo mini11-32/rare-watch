@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T18:19:38.527Z",
+  "updatedAt": "2026-10-11T21:16:48.069Z",
   "items": [
     {
       "id": "CBMie0FVX3lxTE1vR09Vc25wd195aGcyMjYtaUFVRDhqU3JJMFVlQ1pYc3ZMcDMwcURBYTJ2eTBHMmNyd1RZM1dIRGFUNlpYaFN2eXg3ODZqaW9xRzlLcXg5NGJxTURpX2RrZThSSmxXdV9HUzl1ZzFtQkZGdG1NLTJhWThZVQ",
@@ -31,6 +31,18 @@
       "date": "2026-10-11T03:00:03.000Z",
       "thumb": "https://www.bing.com/th?id=ONUT.dhHMVUgkPoNwJgno6f1xCg&pid=News&w=480&h=270&c=7",
       "image": "https://img.topics.smt.news.goo.ne.jp/picture/insidegames/m_insidegames-189103.jpg",
+      "imageTries": 1
+    },
+    {
+      "id": "bing:https://magmix.jp/post/379229",
+      "keyword": "一番くじ",
+      "title": "『ドラゴンボール』単行本表紙を再現した“豪華フィギュア”が",
+      "summary": "『ドラゴンボール』一番くじ最新作が2027年3月中旬に発売決定しました。単行本表紙の立体化や貴重なランチのフィギュアなど、豪華な上位賞の解禁にファンの期待感が高まっています。",
+      "source": "マグミクス",
+      "link": "https://magmix.jp/post/379229",
+      "thumb": "https://www.bing.com/th?id=ONUT.pZslzGDDWSZrL927WOizsw&pid=News&w=480&h=270&c=7",
+      "date": "2026-10-11T03:00:00.000Z",
+      "image": "https://magmix.jp/wp-content/uploads/2027/08/270804_dbgoku_00.jpg",
       "imageTries": 1
     },
     {
@@ -203,6 +215,8 @@
       "source": "電撃ホビーウェブ",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Qb2xZM0V4ZWJSZ09RaVFiUDNiVGxTY2tLbF9YNExsX01HR2hfR3BrTlUyYjhaY1EyOEJrb3hkUlBFamFhX2dkSU5URldRdi1G?oc=5",
       "date": "2026-10-09T04:15:00.000Z",
+      "thumb": "",
+      "image": "",
       "imageTries": 1
     },
     {
@@ -224,8 +238,6 @@
       "source": "TRILL",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zTzJLX0JLWHFPWk12ckJzamZfYWdzUXJ3NzVDdElManJkZVNXYWpZMGE5UGtVVGZIM2RPYjgteWVUcW9jbzhIT3ZNUGFfN2M?oc=5",
       "date": "2026-10-09T01:05:00.000Z",
-      "thumb": "",
-      "image": "",
       "imageTries": 1
     },
     {
@@ -235,7 +247,7 @@
       "source": "SNKRDUNK",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9FTDBzSm44R0tfeEhraUJsVkVjUzFMT1FSQzl4Z0h2dm9EbXFDdHVQeWVpOEdEMXNnaEtrTWZfTlN1SzVvbmEwUndOLXQ?oc=5",
       "date": "2026-10-09T00:32:48.000Z",
-      "imageTries": 2
+      "imageTries": 3
     },
     {
       "id": "CBMif0FVX3lxTFBvRXhUZDJWREo3bXlCUnBYT2huX3pXcmNkTWNZYnV1NndzaGdZR3gza0QxY3JaVlVrR2d6R0NpNm5GLTl5N3lJSWkxRzRGTEtpa3Y5Q0FKLTgwVHJRYmJEYkNzVEs3OXRqbTY2WjlHbVdSNzA5WWZNX2JlckNRa0E",
@@ -1632,15 +1644,6 @@
       "date": "2026-09-30T23:46:00.000Z",
       "image": "https://collabo-cafe.com/wp-content/uploads/poo-100th-anniversary-ichiban-kuji-2026-eyecatch.jpg",
       "imageTries": 1
-    },
-    {
-      "id": "CBMiQ0FVX3lxTFA5bGh5VHlMc0xjNlo1OWxKa2oyV2c2dlRJZWlPbF9ZQVc2ZzZQajFseGIzOTVOdlFFUVZISkhlYjdNYjQ",
-      "keyword": "大型コラボ",
-      "title": "『スタバ×ポケモン』やっぱり即完売 「11万人が待機…」「受注生産して」とファン悲鳴",
-      "source": "マグミクス",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA5bGh5VHlMc0xjNlo1OWxKa2oyV2c2dlRJZWlPbF9ZQVc2ZzZQajFseGIzOTVOdlFFUVZISkhlYjdNYjQ?oc=5",
-      "date": "2026-09-30T23:23:01.000Z",
-      "imageTries": 3
     }
   ]
 }
