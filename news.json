@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T03:18:10.783Z",
+  "updatedAt": "2026-10-11T06:22:11.722Z",
   "items": [
     {
       "id": "CBMif0FVX3lxTE9TOGNrSXBjdVJ4TXp0WU1KdjZQeHNzblo2b1lDcUFfOXRPOUdVSG5LY2xEUEEwWFdJemRXVmttTFNQTXJKVjdPR1Mxa3NHZFFvaEJaOXFRUXlVT2kyVV9hODZFeXNlRHIyeHRjT2RNcnlUQXpqT0lYSjZsYXllVEE",
@@ -8,6 +8,8 @@
       "source": "Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TOGNrSXBjdVJ4TXp0WU1KdjZQeHNzblo2b1lDcUFfOXRPOUdVSG5LY2xEUEEwWFdJemRXVmttTFNQTXJKVjdPR1Mxa3NHZFFvaEJaOXFRUXlVT2kyVV9hODZFeXNlRHIyeHRjT2RNcnlUQXpqT0lYSjZsYXllVEE?oc=5",
       "date": "2026-10-11T03:00:03.000Z",
+      "thumb": "https://www.bing.com/th?id=ONUT.dhHMVUgkPoNwJgno6f1xCg&pid=News&w=480&h=270&c=7",
+      "image": "https://img.topics.smt.news.goo.ne.jp/picture/insidegames/m_insidegames-189103.jpg",
       "imageTries": 1
     },
     {
@@ -17,6 +19,20 @@
       "source": "Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wTjNya2Y1bExWMmdWblhBYXNZNmZRNW1adjh0U2ZiYXZwZVlaSEFLSlRMMW9XNFp6X2pLMnVvOTFBbHlzT3ladVFLc0duc05kT1liSnd4R1VuX05Wbjd2WUIwVFpRajF4QUFCZTdKcFVrUk80NjF0Q1YyalQ1TkE?oc=5",
       "date": "2026-10-11T00:45:02.000Z",
+      "thumb": "https://www.bing.com/th?id=ONUT.MvnoTNr3fsSUWWyzYeoW0Q&pid=News&w=480&h=270&c=7",
+      "image": "",
+      "imageTries": 1
+    },
+    {
+      "id": "bing:https://news.yahoo.co.jp/articles/40c5555bd258feec94897e4dc816ddf8f7dff105",
+      "keyword": "一番くじ",
+      "title": "大人気「HUNTER&#215;HUNTER」キメラアント編の一番くじに再販予告",
+      "summary": "BANDAI SPIRITSは、「一番くじ HUNTER&#215;HUNTER CHMERA ANT （2）」を2026年11月14日より再販します。【画像】ゴンさんは約1m！“感謝するぜ”のネテロなど8体のフィギュア◆約1mもある「ゴンさん」フィギュアが登場！ 本商品は、「H",
+      "source": "Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/40c5555bd258feec94897e4dc816ddf8f7dff105",
+      "thumb": "https://www.bing.com/th?id=ONUT.JQ7_CRzAWksW19eEY0lE2g&pid=News&w=480&h=270&c=7",
+      "date": "2026-10-10T23:21:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261011-00000014-isd-000-1-view.jpg?exp=10800",
       "imageTries": 1
     },
     {
@@ -99,11 +115,11 @@
       "imageTries": 1
     },
     {
-      "id": "CBMimgFBVV95cUxPSFZfeUxaNmpsV19ZY2EtRVR0NW1MRDVvWXE0ekNDRFhQaHJLN3U0X1Z3RWFoMUhtLTFkWGwya2M3dF94a1JLTEhNUGlFOWU3aV9ENmlFUTMwenF5anlLXzR2SlNpR1JRNC12OHpYNHpBTVU1YV9nV1pkVlF4Z1F3MlpzVndxdlNQcjR1TkRHeEg0YkxTdkU5ZXh30gGaAUFVX3lxTE9IVl95TFo2amxXX1ljYS1FVHQ1bUxENW9ZcTR6Q0NEWFBocks3dTRfVndFYWgxSG0tMWRYbDJrYzd0X3hrUktMSE1QaUU5ZTdpX0Q2aUVRMzB6cXlqeUtfNHZKU2lHUlE0LXY4elg0ekFNVTVhX2dXWmRWUXhnUXcyWnNWd3F2U1ByNHVOREd4SDRiTFN2RTlleHc",
+      "id": "CBMilAFBVV95cUxPWXNjd1EwT1lDVE16TTRUbGI4Y2YtTGllTU4wMjVDQXo3MWZ3UUtET1FRS21OWDFuOWliQUtIM0N1c1R6LWxHeS13YkJPNzVYU3ZWQlo0RjdBZi1FX0Q1d0R2UUZsYWIyWWdzSkxZM2tWdXJ6bWVlRGUxekdVbGptV05TYjJNRkJDVElRS1BpRDJTTXZy0gGaAUFVX3lxTE9IVl95TFo2amxXX1ljYS1FVHQ1bUxENW9ZcTR6Q0NEWFBocks3dTRfVndFYWgxSG0tMWRYbDJrYzd0X3hrUktMSE1QaUU5ZTdpX0Q2aUVRMzB6cXlqeUtfNHZKU2lHUlE0LXY4elg0ekFNVTVhX2dXWmRWUXhnUXcyWnNWd3F2U1ByNHVOREd4SDRiTFN2RTlleHc",
       "keyword": "大型コラボ",
       "title": "おしゃれ顔してずっと歩ける。即完売の杉浦由佳子コラボ【健康サンダル】に可愛過ぎる新色登場！",
       "source": "ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSFZfeUxaNmpsV19ZY2EtRVR0NW1MRDVvWXE0ekNDRFhQaHJLN3U0X1Z3RWFoMUhtLTFkWGwya2M3dF94a1JLTEhNUGlFOWU3aV9ENmlFUTMwenF5anlLXzR2SlNpR1JRNC12OHpYNHpBTVU1YV9nV1pkVlF4Z1F3MlpzVndxdlNQcjR1TkRHeEg0YkxTdkU5ZXh30gGaAUFVX3lxTE9IVl95TFo2amxXX1ljYS1FVHQ1bUxENW9ZcTR6Q0NEWFBocks3dTRfVndFYWgxSG0tMWRYbDJrYzd0X3hrUktMSE1QaUU5ZTdpX0Q2aUVRMzB6cXlqeUtfNHZKU2lHUlE0LXY4elg0ekFNVTVhX2dXWmRWUXhnUXcyWnNWd3F2U1ByNHVOREd4SDRiTFN2RTlleHc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWXNjd1EwT1lDVE16TTRUbGI4Y2YtTGllTU4wMjVDQXo3MWZ3UUtET1FRS21OWDFuOWliQUtIM0N1c1R6LWxHeS13YkJPNzVYU3ZWQlo0RjdBZi1FX0Q1d0R2UUZsYWIyWWdzSkxZM2tWdXJ6bWVlRGUxekdVbGptV05TYjJNRkJDVElRS1BpRDJTTXZy0gGaAUFVX3lxTE9IVl95TFo2amxXX1ljYS1FVHQ1bUxENW9ZcTR6Q0NEWFBocks3dTRfVndFYWgxSG0tMWRYbDJrYzd0X3hrUktMSE1QaUU5ZTdpX0Q2aUVRMzB6cXlqeUtfNHZKU2lHUlE0LXY4elg0ekFNVTVhX2dXWmRWUXhnUXcyWnNWd3F2U1ByNHVOREd4SDRiTFN2RTlleHc?oc=5",
       "date": "2026-10-09T11:00:00.000Z",
       "imageTries": 1
     },
@@ -136,7 +152,7 @@
       "source": "電撃ホビーウェブ",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pM1FYWmRncXZYQ2hzcWlaZVgxTE1kX3FkMVdTTW91RktjeDVicFFLZ0NJcXc5Q1FGd3hkWjk5NnI1TnBMZVZ6Mmdod3RmbmZ4?oc=5",
       "date": "2026-10-09T04:45:00.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "CBMif0FVX3lxTE02bUt6OUpfTmNkbWNfVGV4ekdfWjNLTG5fdk5YZFhfczZfZFRHQnFnMk9lT1NQMjJGRy1aRURublBoOUhuYmRiZUtMWDBMVE1XNGY0SVUyOVNwc1FKTGlVV1ZreVUwQ1FSYkFoTl8wcEpGTWNTRm1QcEk5czl5aW8",
@@ -158,7 +174,7 @@
       "date": "2026-10-09T04:15:00.000Z",
       "thumb": "",
       "image": "",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "bing:https://game.watch.impress.co.jp/docs/news/2145987.html",
@@ -1627,17 +1643,6 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hWUxsdUVsTGhxalo4eHRTRllEOG80aV9iTmRveC1CNFBxcTBDcVJmUzU0NzFWbmtjWjgzcy1TOWtIV29wN2kwY0Q0dHVmQkhy?oc=5",
       "date": "2026-09-30T11:00:00.000Z",
       "imageTries": 3
-    },
-    {
-      "id": "CBMikAFBVV95cUxQVXRIWFdsN3hhRk1mQTg3UEptb0V0N0s1WGJIMDdMdFQyME03ZVBRQTVQMllwZklMOXM3Zk1MVnhsblhia1hzQ1ZkSllDRW9ZTmltV1VKLWFwUDB3WkcwLTBaM0lXRHdXb3J5cjk3Y0M2bktBUG5Hd0NaTmpyVTNlSU94bjR3eERmM3Z1S0g0Y1DSAZgBQVVfeXFMTUVQY1RFc2JNUW9qemwzN25tRHZmM1YwZC1MMU0xV1dpT2VkeFNxbFBkNEVGSERsVlY2R2ltbGNwVC1wVjhwOUhucE5QaHRCdnJlVWEtTi16bVFqdktZQXVrZlEyQklWVjBTdGNrbnpkb3NQR1RtVEZuN2RyQkNPNEtBQXJkdjVzaGU5RTdFOXROakV4eDJqUk4",
-      "keyword": "一番くじ",
-      "title": "キン肉マン × 一番くじ 10月17日発売! 超人血盟軍登場!",
-      "source": "コラボカフェ",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVXRIWFdsN3hhRk1mQTg3UEptb0V0N0s1WGJIMDdMdFQyME03ZVBRQTVQMllwZklMOXM3Zk1MVnhsblhia1hzQ1ZkSllDRW9ZTmltV1VKLWFwUDB3WkcwLTBaM0lXRHdXb3J5cjk3Y0M2bktBUG5Hd0NaTmpyVTNlSU94bjR3eERmM3Z1S0g0Y1DSAZgBQVVfeXFMTUVQY1RFc2JNUW9qemwzN25tRHZmM1YwZC1MMU0xV1dpT2VkeFNxbFBkNEVGSERsVlY2R2ltbGNwVC1wVjhwOUhucE5QaHRCdnJlVWEtTi16bVFqdktZQXVrZlEyQklWVjBTdGNrbnpkb3NQR1RtVEZuN2RyQkNPNEtBQXJkdjVzaGU5RTdFOXROakV4eDJqUk4?oc=5",
-      "date": "2026-09-30T07:00:00.000Z",
-      "thumb": "https://www.bing.com/th?id=ONUT.JpM50i-X58FrNTSwWZeZOA&pid=News&w=480&h=270&c=7",
-      "image": "https://collabo-cafe.com/wp-content/uploads/kinnikuman-kuji-ketsumeigun-gallery-2.jpg",
-      "imageTries": 1
     }
   ]
 }
