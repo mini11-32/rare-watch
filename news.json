@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T21:17:13.262Z",
+  "updatedAt": "2026-10-13T00:29:44.176Z",
   "items": [
     {
       "id": "CBMitAFBVV95cUxOUk9ZbTZVSF9YNG1kR1BpR0VTX25fdUhwTDkxcWZVbzZiRk40RWNacE5NaUEyTkhacUpkbGl1dWtsTkZ1M01HTUVJZkdDaDQzOE1WWkpYNmdLSkFWZ0Y5OG1pNEM1SlZROEdBX2VQb01sdF95Y2JSSGl1d0gwb3dvU1RIZjBKWTUtdnkwSGpsb0Z6S2RRTEt3eHh4QWlvXzRZUEtRU3NJa01rTUZ0MWludmprLXo",
@@ -1531,6 +1531,18 @@
       "imageTries": 1
     },
     {
+      "id": "bing:https://news.mynavi.jp/article/20261002-5061108/",
+      "keyword": "一番くじ",
+      "title": "RX-78-2ガンダムの胸像が登場! 一番くじ 機動戦士ガンダム UNIVERSAL",
+      "summary": "「一番くじ 機動戦士ガンダム UNIVERSAL CENTURY SAGA2」は、10月3日よりセブン‐イレブン、イトーヨーカドー、ゆめタウンなどで発売予定。価格は1回850円です。 『機動戦士ガンダム』シリーズの宇宙世紀作品にフォーカスした一番くじで、RX-78-2ガンダムの胸",
+      "source": "マイナビニュース",
+      "link": "https://news.mynavi.jp/article/20261002-5061108/",
+      "thumb": "",
+      "date": "2026-10-02T10:35:00.000Z",
+      "image": "https://news.mynavi.jp/article/20261002-5061108/ogp_images/ogp.jpg",
+      "imageTries": 1
+    },
+    {
       "id": "CBMiUkFVX3lxTE1fVUE0WHNfeGRsZDlXeVdjUGRIX3VMRkUyejZQTmczcWd6ZkJadmt3Q1R3NF9FbEpSbzlCNG1zak9VdWVfbVVaU1ptT2diSVRXOXc",
       "keyword": "一番くじ",
       "title": "UUUM「カラフルピーチ」(からぴち)の“一番くじ 第5弾”が発売決定、「一番くじ カラフルピーチ School of Color」が2027年2月中旬に発売。からぴちメンバーが“制服デコラ”姿で登場!",
@@ -1624,18 +1636,6 @@
       "date": "2026-10-02T03:05:29.000Z",
       "thumb": "https://www.bing.com/th?id=ONUT.wHXPARySipclQXlS0cJcvA&pid=News&w=480&h=270&c=7",
       "image": "https://www.inside-games.jp/imgs/ogp_f/1786459.jpg",
-      "imageTries": 1
-    },
-    {
-      "id": "bing:https://topics.smt.docomo.ne.jp/article/mycom/trend/mycom_3232726",
-      "keyword": "一番くじ",
-      "title": "【セブン‐イレブン】2026年10月発売の一番くじ一覧 ガンダム",
-      "summary": "2026年10月のセブン‐イレブンでは、「一番くじ 機動戦士ガンダム UNIVERSAL CENTURY SAGA2」「一番くじ 〈くまのプーさん〉100th Anniversary」「一番くじ ドラゴンボール SPIRIT OF THE SAIYAN」が発売されます。 人気作品",
-      "source": "dメニューニュース",
-      "link": "https://topics.smt.docomo.ne.jp/article/mycom/trend/mycom_3232726",
-      "thumb": "https://www.bing.com/th?id=ONUT.S3FVLWWupl5nrR8RfANVkw&pid=News&w=480&h=270&c=7",
-      "date": "2026-10-02T01:35:00.000Z",
-      "image": "https://img.topics.smt.news.goo.ne.jp/picture/mycom/m_mycom_3232726.jpg",
       "imageTries": 1
     }
   ]
