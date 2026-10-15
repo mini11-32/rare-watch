@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T18:30:59.025Z",
+  "updatedAt": "2026-10-15T21:30:04.872Z",
   "items": [
     {
       "id": "CBMiakFVX3lxTFBhZDJxUE5kWWhzVkZGNVU3TWd5ZkFXQl9VYkpYYjJVcnJJcjBiQ2IzLTBlOFllenMyd0E5RWl4Zk10NkFhQ3kzc3FLWFhjejJiQzF4VTdJT1kteFRZa0hoSmpXN3R5cU1IR3c",
@@ -105,7 +105,7 @@
       "source": "SNKRDUNK",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE50S1cxdWcyRmVRdF9OcEhHOWJWY2kzZ2NiNVFPdHNzTVJ5QzZpZkhoc2YxVVFITXFWQ1dDa1lsYWdsUkx5VWpoa3RPSW4?oc=5",
       "date": "2026-10-14T16:09:12.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "bing:https://www.inside-games.jp/article/2026/10/15/189290.html",
@@ -253,14 +253,15 @@
       "imageTries": 1
     },
     {
-      "id": "CBMiakFVX3lxTE5YanRJWEk1UFlHTkxpblJCY1BuV2owVVo4S3VXRzMwWDk1TTlaamJNcWhIVnVFUm9JdXRBMnMtM3BzZFZsV2tnaEE4Y2x4aFhrYy1mTzhvcTJPR1I5d19yR2lUUzNDZzFSaVE",
+      "id": "bing:https://gourmet.watch.impress.co.jp/docs/news/2147603.html",
       "keyword": "一番くじ",
-      "title": "ファミマ「一番くじ 〈モンスターズ・インク〉」を17日に発売！ ドア倉庫シーンのフィギュアや音声付きコインバンク",
+      "title": "ファミマ「一番くじ 〈モンスターズ・インク〉」を17日に発売",
+      "summary": "作中のドア倉庫シーンのフィギュアだけでなく、音声付きの〈エネルギータンク〉コインバンクなど、「モンスターズ・インク」の世界観に浸れる一番くじとなっている。",
       "source": "グルメ Watch",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YanRJWEk1UFlHTkxpblJCY1BuV2owVVo4S3VXRzMwWDk1TTlaamJNcWhIVnVFUm9JdXRBMnMtM3BzZFZsV2tnaEE4Y2x4aFhrYy1mTzhvcTJPR1I5d19yR2lUUzNDZzFSaVE?oc=5",
-      "date": "2026-10-13T04:11:13.000Z",
-      "thumb": "",
-      "image": "https://www.inside-games.jp/imgs/ogp_f/1778886.webp",
+      "link": "https://gourmet.watch.impress.co.jp/docs/news/2147603.html",
+      "thumb": "https://www.bing.com/th?id=ONUT.OlHhUi5o28TQRGS1APJH1g&pid=News&w=480&h=270&c=7",
+      "date": "2026-10-13T06:12:00.000Z",
+      "image": "https://gourmet.watch.impress.co.jp/img/grw/list/2147/603/top.jpg",
       "imageTries": 1
     },
     {
@@ -468,7 +469,7 @@
       "source": "神ゲー攻略",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MdnZ5R1JudGc4TEkyeFViNTM4M01EU19WeTBhenNIVlh2MkZvT1VVcFR3a01ZNGhabUI5emVfUDFhNnc2RGJnSlR4WDlBdGFOdXYwNjdRZnBnSkdUX3VZZnl3?oc=5",
       "date": "2026-10-11T15:35:44.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "bing:https://animeanime.jp/article/2026/10/12/103713.html",
