@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-16T21:25:37.949Z",
+  "updatedAt": "2026-10-17T00:35:35.691Z",
   "items": [
+    {
+      "id": "CBMiTEFVX3lxTE50S1cxdWcyRmVRdF9OcEhHOWJWY2kzZ2NiNVFPdHNzTVJ5QzZpZkhoc2YxVVFITXFWQ1dDa1lsYWdsUkx5VWpoa3RPSW4",
+      "keyword": "大型コラボ",
+      "title": "11/6発売｜Stranger Things × Nike Dunk Low 2colors｜抽選/販売/定価情報",
+      "source": "SNKRDUNK",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE50S1cxdWcyRmVRdF9OcEhHOWJWY2kzZ2NiNVFPdHNzTVJ5QzZpZkhoc2YxVVFITXFWQ1dDa1lsYWdsUkx5VWpoa3RPSW4?oc=5",
+      "date": "2026-10-16T19:43:55.000Z",
+      "imageTries": 1
+    },
     {
       "id": "CBMif0FVX3lxTE96Qk80U0MtUEZRMG5LLTZqODJDcFJsVThHYXFaSmRkbFN5N29DaTNRMnVNNTRHUlpxcnBwNnd0RlQzbkJLb0tvVkFFX3VwUy1vbnJzYkc3ZkhxUnp6MGgyaFVSWDNveHhVX2FKbV90cjhVd19yb3FSMzZtb3ZLaEk",
       "keyword": "一番くじ",
@@ -13,12 +22,33 @@
       "imageTries": 1
     },
     {
+      "id": "CBMiTEFVX3lxTE5BdHVBY2FkQm0zQkptRzAyU2pUTFhacUpuWld3akVieE5fc1Rab3JyN2NnLUM1NUtTZkc3STlWMjFmSkd1aWJ0YkpCOUc",
+      "keyword": "大型コラボ",
+      "title": "1/16発売｜HAL STUDIOS × Asics Gel-NYC 2.0 SSHS 2colors｜抽選/販売/定価情報",
+      "source": "SNKRDUNK",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5BdHVBY2FkQm0zQkptRzAyU2pUTFhacUpuWld3akVieE5fc1Rab3JyN2NnLUM1NUtTZkc3STlWMjFmSkd1aWJ0YkpCOUc?oc=5",
+      "date": "2026-10-16T12:44:39.000Z",
+      "imageTries": 1
+    },
+    {
       "id": "CBMikgFBVV95cUxNdVF5LVVCNDNpdF9BRzdlQWUtN0F6RWJaRHVKVHJRMEJId3VMZncyeGx3cGpFUzZTZnpEYlR4RmxTUm0zTmo0M2pUR3cyZ0p3dU4taDYzY1lGNWpZTHEzeERBMnEzNVRKa1FHT1FUWFF0d3ZDRWJtNDhtTk1tQnRoRktCcmFTbXQwbXhSLXZSdEw5QQ",
       "keyword": "一番くじ",
       "title": "ストリートファイター 一番くじ リュウとキャミィ 11月発売!",
       "source": "コラボカフェ",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdVF5LVVCNDNpdF9BRzdlQWUtN0F6RWJaRHVKVHJRMEJId3VMZncyeGx3cGpFUzZTZnpEYlR4RmxTUm0zTmo0M2pUR3cyZ0p3dU4taDYzY1lGNWpZTHEzeERBMnEzNVRKa1FHT1FUWFF0d3ZDRWJtNDhtTk1tQnRoRktCcmFTbXQwbXhSLXZSdEw5QQ?oc=5",
       "date": "2026-10-16T12:26:31.000Z",
+      "imageTries": 1
+    },
+    {
+      "id": "bing:https://www.famitsu.com/article/202610/91214",
+      "keyword": "一番くじ",
+      "title": "『ウマ娘』一番くじが本日（10/17）発売。約20センチの“金のゴルシ",
+      "summary": "“一番くじ ウマ娘 プリティーダービー 14弾”が、本日2026年10月17日より順次発売。D賞はまさかの“金のゴルシ像”。A賞～C賞には、“GOLD WEEK”イラストの衣装をまとったステイゴールド、ドリームジャーニー、オルフェーヴルのフィギュアが登場。価格は1回920円［税込",
+      "source": "ファミ通.com",
+      "link": "https://www.famitsu.com/article/202610/91214",
+      "thumb": "",
+      "date": "2026-10-16T09:31:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/91214/thumbnail_lBym.jpg?x=1280",
       "imageTries": 1
     },
     {
@@ -289,7 +319,7 @@
       "source": "SNKRDUNK",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZbDI5WmdHb21IOTk3c2YzdVdNeG9Kd1FKaVdRbV9NcVV6M2dNbUVkcDVBN2pVVkRYRnRlZEc4VV96YUFrSjJxeTlIV0k?oc=5",
       "date": "2026-10-15T07:11:50.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "CBMiUkFVX3lxTE5tNExBcmE1c2R1OERRY1RhdE8ydVMzX2JlWUpiOXNnUzZyUWRJcG41MHEycmVzV1FaQTdWUGhwY2hmXzZvWld0ZDJrY1pBYmlrUEE",
@@ -369,15 +399,6 @@
       "imageTries": 1
     },
     {
-      "id": "CBMiTEFVX3lxTE50S1cxdWcyRmVRdF9OcEhHOWJWY2kzZ2NiNVFPdHNzTVJ5QzZpZkhoc2YxVVFITXFWQ1dDa1lsYWdsUkx5VWpoa3RPSW4",
-      "keyword": "大型コラボ",
-      "title": "11/6発売｜Stranger Things × Nike Dunk Low 2colors｜抽選/販売/定価情報",
-      "source": "SNKRDUNK",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE50S1cxdWcyRmVRdF9OcEhHOWJWY2kzZ2NiNVFPdHNzTVJ5QzZpZkhoc2YxVVFITXFWQ1dDa1lsYWdsUkx5VWpoa3RPSW4?oc=5",
-      "date": "2026-10-14T16:09:12.000Z",
-      "imageTries": 3
-    },
-    {
       "id": "bing:https://www.inside-games.jp/article/2026/10/15/189290.html",
       "keyword": "一番くじ",
       "title": "「ドラゴンボール」“悟空一族”に注目した新作一番くじが胸アツ",
@@ -426,15 +447,6 @@
       "thumb": "",
       "image": "",
       "imageTries": 1
-    },
-    {
-      "id": "CBMiTEFVX3lxTE5BdHVBY2FkQm0zQkptRzAyU2pUTFhacUpuWld3akVieE5fc1Rab3JyN2NnLUM1NUtTZkc3STlWMjFmSkd1aWJ0YkpCOUc",
-      "keyword": "大型コラボ",
-      "title": "1/16発売｜HAL STUDIOS × Asics Gel-NYC 2.0 SSHS 2colors｜抽選/販売/定価情報",
-      "source": "SNKRDUNK",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5BdHVBY2FkQm0zQkptRzAyU2pUTFhacUpuWld3akVieE5fc1Rab3JyN2NnLUM1NUtTZkc3STlWMjFmSkd1aWJ0YkpCOUc?oc=5",
-      "date": "2026-10-14T08:16:18.000Z",
-      "imageTries": 3
     },
     {
       "id": "CBMiUEFVX3lxTE1OXzQ2clJIbl9HUXF4OWExRnFGTElNVUQybUc5ekxaaXhWQUJLekptc0U4a1BiV2tpd0dKWGxLN2NXbzNzWlhkVm5sQl9DYi1C",
@@ -507,6 +519,17 @@
       "date": "2026-10-13T10:15:03.000Z",
       "thumb": "https://www.bing.com/th?id=ONUT.u-ZJf61Rcr3nGx4KGVCkhA&pid=News&w=480&h=270&c=7",
       "image": "https://contents.oricon.co.jp/upimg/article/3/3405/3405313/thumb/img660/d76e8b447d2823b6040a3bdad700ccc903d04bd77b88c84646809167d060338a.jpg",
+      "imageTries": 1
+    },
+    {
+      "id": "CBMijwFBVV95cUxPbU1jelBvdnd5bXo0TEd0Z1JaNVYzR0ctYlYtdFJVblloZlQ3T2I5cnVPcVNMSS1hMHQtaE5ZLThjeXZwTTJQem0yVktsaU9fanBwVTZ3Z2toYTVIbHFDclR1MENuRzhmc3VKZFRFVExpN05oNUR3TmJGbUh5UExhcnpKNE1tWmM0TUJSOFVqWQ",
+      "keyword": "一番くじ",
+      "title": "一番くじ カグラバチ 連載3周年記念 10月24日より発売!",
+      "source": "コラボカフェ",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbU1jelBvdnd5bXo0TEd0Z1JaNVYzR0ctYlYtdFJVblloZlQ3T2I5cnVPcVNMSS1hMHQtaE5ZLThjeXZwTTJQem0yVktsaU9fanBwVTZ3Z2toYTVIbHFDclR1MENuRzhmc3VKZFRFVExpN05oNUR3TmJGbUh5UExhcnpKNE1tWmM0TUJSOFVqWQ?oc=5",
+      "date": "2026-10-13T09:58:03.000Z",
+      "thumb": "https://www.bing.com/th?id=ONUT.lzI19F2Ekbt1mTfpxOrHDg&pid=News&w=480&h=270&c=7",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261013-00000013-isd-000-1-view.jpg?exp=10800",
       "imageTries": 1
     },
     {
@@ -1074,18 +1097,6 @@
       "imageTries": 3
     },
     {
-      "id": "bing:https://game.watch.impress.co.jp/docs/news/2145987.html",
-      "keyword": "一番くじ",
-      "title": "「一番くじ くまのプーさん 100th Anniversary」本日10月10日より順次発売",
-      "summary": "BANDAI SPIRITSは、ハズレなしのキャラクターくじ「一番くじ 〈くまのプーさん〉100th Anniversary」を本日10月10日より順次発売する。価格は1回790円。セブン‐イレブン店舗、イトーヨーカドー店舗、ゆめタウン店舗などで販売される。",
-      "source": "GAME Watch",
-      "link": "https://game.watch.impress.co.jp/docs/news/2145987.html",
-      "thumb": "https://www.bing.com/th?id=ONUT.Y6ZuXk5SfKw3VLDNFnz6pg&pid=News&w=480&h=270&c=7",
-      "date": "2026-10-09T02:59:00.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2145/987/059.jpg",
-      "imageTries": 1
-    },
-    {
       "id": "CBMiTEFVX3lxTE9FTDBzSm44R0tfeEhraUJsVkVjUzFMT1FSQzl4Z0h2dm9EbXFDdHVQeWVpOEdEMXNnaEtrTWZfTlN1SzVvbmEwUndOLXQ",
       "keyword": "マーベル",
       "title": "12/11発売｜MARVEL × BAPE STA AVENGERS collection｜抽選/販売/定価情報",
@@ -1595,17 +1606,6 @@
       "date": "2026-10-07T02:46:02.000Z",
       "thumb": "",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261007-00140840-toushin-000-1-view.jpg?exp=10800",
-      "imageTries": 1
-    },
-    {
-      "id": "CBMif0FVX3lxTE9CUUN1dXI3RTlBWGhWajRWUWJCY3ZRR2Rmd2NMMlNrdXozMHozTVZleG01Q0ZaWGdnNVc3S2Z5TTVIM0k5Q2FTWlhZV05MWGl4eV9iYTg1ME1tOXc3blQ3ejRMSW85WDExcDNWaTl3WkZqN1I3YUhTVm5YalRZNlE",
-      "keyword": "一番くじ",
-      "title": "「エスターバニー」一番くじ全ラインナップ公開！A賞はふわふわなバニティポーチ、使いやすいコスメパレットも用意（インサイド）",
-      "source": "Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CUUN1dXI3RTlBWGhWajRWUWJCY3ZRR2Rmd2NMMlNrdXozMHozTVZleG01Q0ZaWGdnNVc3S2Z5TTVIM0k5Q2FTWlhZV05MWGl4eV9iYTg1ME1tOXc3blQ3ejRMSW85WDExcDNWaTl3WkZqN1I3YUhTVm5YalRZNlE?oc=5",
-      "date": "2026-10-07T01:30:02.000Z",
-      "thumb": "",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261007-00000005-isd-000-1-view.jpg?exp=10800",
       "imageTries": 1
     }
   ]
