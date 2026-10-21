@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T09:31:16.250Z",
+  "updatedAt": "2026-10-21T12:36:19.483Z",
   "items": [
     {
       "id": "bing:https://www.msn.com/ja-jp/entertainment/%E5%85%A8%E8%88%AC/%E8%A1%A3%E8%A3%85%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AF-%E8%81%96%E6%AD%8C%E9%9A%8A-%E6%98%9F%E5%BA%A7-%E4%B8%80%E7%95%AA%E3%81%8F%E3%81%98-%E5%AD%A6%E5%9C%92%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC-part7-%E6%8F%8F%E3%81%8D%E3%81%8A%E3%82%8D%E3%81%97%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%8C%E5%85%AC%E9%96%8B/ar-AA2fJ7xL",
@@ -20,7 +20,7 @@
       "source": "キャラグー",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5SUXg0MWI3TmYtV05PeUhSWU8yWDZRNzlGbE0wd2FkZzY2SGI3VlRWenJLalBZMXQ0SW9tSURBWFQtbUR6ZS14MGx4dUNfdUZZVnp0YWJncw?oc=5",
       "date": "2026-10-21T01:01:27.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "CBMiakFVX3lxTFB2QlliMEdRV292UC0wLThxS1BMcFNUeEdtWHlnaFpmT20wQnpZMkpjSkhTQklnRlA3NHFSOHZXaXNLOUhUSGxXbmRuLW9lQkhjRXB5UDh2TXZFbEVKaGRPY2xpY3hyOEp5QkE",
@@ -42,6 +42,18 @@
       "date": "2026-10-21T00:50:00.000Z",
       "thumb": "https://www.bing.com/th?id=ONUT.-qbLt4OFLeGyV2_rorsCeg&pid=News&w=480&h=270&c=7",
       "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnbzkFaw6lsw9zHUXwHcCgpmgKTG7KORjezxG0_Qhooa5l0_-TdplnDSC0-jupq7PVyy22m97USOcm5GgFwZOL5edCRbAhI7bYKgGJLVfUj5k",
+      "imageTries": 1
+    },
+    {
+      "id": "bing:https://animeanime.jp/article/2026/10/21/104062.html",
+      "keyword": "一番くじ",
+      "title": "ホロライブ「FLOW GLOW」の描きおろしメッセージを拝みたい！ T",
+      "summary": "「ホロライブプロダクション」より、ユニット「FLOW GLOW」をテーマにした「一番くじ hololive FLOW GLOW」が登場。メンバー5人のアクリルビジュアルボードやTシャツなど全ラインナップが公開された。2026年11月13日より順次発売される。",
+      "source": "アニメ！アニメ！",
+      "link": "https://animeanime.jp/article/2026/10/21/104062.html",
+      "thumb": "https://www.bing.com/th?id=ONUT.JUI6bZOBC4yW6rkm2RNjrg&pid=News&w=480&h=270&c=7",
+      "date": "2026-10-20T22:30:00.000Z",
+      "image": "https://animeanime.jp/imgs/ogp_f/946127.webp",
       "imageTries": 1
     },
     {
@@ -99,7 +111,7 @@
       "source": "TRILL",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iYnVUQWNaV0hZYTVMVkpkQ2ZLY3RkbjFCeWtuQ2pYZ2hiRDZ0SHJpQXNhT1poM3NTb0NiSGg2US1GSlFqdFlWWFlyTFRNOEU?oc=5",
       "date": "2026-10-20T12:09:01.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "CBMif0FVX3lxTE9HNG1maGtobzM0bVNOR2RpcnVUZ25yZGdHcW4wLVc5VVpxQ1hJTHlhY1RGQjJWaEFjQW1EUXFkZnhpMTc5VWRucXJjUEs3SHV5Zm0zWEItODh6V2EtcEhOWFpPZm5XSUF4c1pvT09neF9pNFdNR3FCeUQ5S2ZkM0k",
@@ -259,6 +271,15 @@
       "imageTries": 1
     },
     {
+      "id": "CBMibEFVX3lxTE95cl8zLWI1RWRRSFZoMGpwQ091WEgtenJRUTF3X0Zlc3RnODhWQm9PbGI1aDZoZUVxVTFJNGVOTW1oOE8zc3NicFpicjFGT0FxV0R1M3M2UFgwQzllMmFIaFpJYUNVendyNU1JZw",
+      "keyword": "大型コラボ",
+      "title": "牛角、アニメ『呪術廻戦』コラボ企画で“購入制限”を発表 「想定を上回る反響・ご注文」1会計につき各メニュー1点まで",
+      "source": "山陽新聞デジタル｜さんデジ",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95cl8zLWI1RWRRSFZoMGpwQ091WEgtenJRUTF3X0Zlc3RnODhWQm9PbGI1aDZoZUVxVTFJNGVOTW1oOE8zc3NicFpicjFGT0FxV0R1M3M2UFgwQzllMmFIaFpJYUNVendyNU1JZw?oc=5",
+      "date": "2026-10-19T20:57:26.000Z",
+      "imageTries": 1
+    },
+    {
       "id": "bing:https://www.cinemacafe.net/article/2026/10/20/113458.html",
       "keyword": "一番くじ",
       "title": "碇シンジ＆綾波レイほか人気キャラクターのフィギュア登場「一番",
@@ -328,7 +349,7 @@
       "source": "TRILL",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rbHRLTEVLLWQxb1dYMk5YcUY0VEVxbE5qLW5MN016a0V6LVdjbkZqY19GRG0zY2VMWC1fZVJUV3I2S3lDRVRtQjEydy0zQWM?oc=5",
       "date": "2026-10-19T12:09:00.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "CBMiSEFVX3lxTE9kNHFRRDZKNkJaeEMzNE9TZklXanFGaFZwX0VDR2ZMRUVfdlBBZjFsTmtqRWYtQ01TU0hVZnpnQ2JvM0xMUHg5RQ",
@@ -404,11 +425,11 @@
       "imageTries": 1
     },
     {
-      "id": "CBMiWkFVX3lxTE5RMEd2dERjSzNSS0xRUHBoZWhmWWhEZ1h3cWdNWWhNRVBSOEdtMldXdkZYWTdwVWZSMGZoa1FfejZ6S2p1V3RSVDNmZm03TVk0RURaS2VjZ2Q3dw",
+      "id": "CBMibEFVX3lxTE90UkZCX1ZkS3YzSWNNZFlvS0J3U3M5RDVhalVZNXk0emJuSlV5T0h3ZVAyaE11b1BEVlpuU3h4Y3NISkViNFRXdjRzcXJfS2hieE1OWm96UmpTQk4wVHNfS3FNdWlOdFRiS2thdg",
       "keyword": "一番くじ",
       "title": "『ワンピース』動物キャラの一番くじが11/14発売！ チョッパーのスタンドや特大カルー登場",
       "source": "電撃オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RMEd2dERjSzNSS0xRUHBoZWhmWWhEZ1h3cWdNWWhNRVBSOEdtMldXdkZYWTdwVWZSMGZoa1FfejZ6S2p1V3RSVDNmZm03TVk0RURaS2VjZ2Q3dw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90UkZCX1ZkS3YzSWNNZFlvS0J3U3M5RDVhalVZNXk0emJuSlV5T0h3ZVAyaE11b1BEVlpuU3h4Y3NISkViNFRXdjRzcXJfS2hieE1OWm96UmpTQk4wVHNfS3FNdWlOdFRiS2thdg?oc=5",
       "date": "2026-10-19T06:52:00.000Z",
       "imageTries": 1
     },
@@ -718,7 +739,7 @@
       "source": "玩具人 TOY PEOPLE",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Sb3NwOU9tZWRKMkJoY3RUMDJqLWkwaW9tb2FqNWlnTXdjTlhHY3B1WmJvMmhqazVEWHBOTlZ5VW9PWWhsNEdicHNydEw3ZWc?oc=5",
       "date": "2026-10-17T07:40:00.000Z",
-      "imageTries": 2
+      "imageTries": 3
     },
     {
       "id": "bing:https://news.yahoo.co.jp/articles/dd802dc3e073ea6b985cc26e39247cb8a9cf251f",
@@ -828,7 +849,7 @@
       "source": "コラボカフェ",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRzZ1MWlpUjRFaTVrN0JHVlBpVTduUW5VN2xlakJ1bkhUQTNyM01jLU05U0ZqdHNCcDRXdDRudnJla2gtMm4yakw2dU5zNVczNlMwSjR4NHFSSm5IT1VSU19jNzVudVV4X0EzYmNEcGVpZF9ESlpWcU9IT2Y1TGNvQ0ZMR3loRzdo?oc=5",
       "date": "2026-10-16T08:02:07.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "CBMiY0FVX3lxTE16V1JnS1JTMjEtcVFMeGZJbWRzVkhlLWVFTWgzVWY1Q1ZhdnBjQlpTTldhZkQ5Z09ualFBNDhKZzJhTS1wR2dhQzRlNjdZdzdGMndYQmRGYVp4bWExZ3FoZnhYMA",
@@ -888,7 +909,7 @@
       "source": "YouTube",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xXzhJZzR1T0RXOGE5ZHNpU2VCUEE2aUlzcVBvUnlvS0pVTzVfWlpIZUJmcHZaenNiakVVLXRjWm15WnFxMXFqaFZORV9iMDNmNHlHczllQzNPcktt?oc=5",
       "date": "2026-10-16T02:00:27.000Z",
-      "imageTries": 2
+      "imageTries": 3
     },
     {
       "id": "bing:https://news.livedoor.com/article/detail/32584028/",
@@ -1515,15 +1536,6 @@
       "imageTries": 1
     },
     {
-      "id": "CBMiUkFVX3lxTE13V25jOUtHR1dzY0trd1UtUUI2VGpWdWp4dG5OT0w3cEZobkZsVzN2ZmlqTlhFbG04bTlRbjZDVXY2aXVPdVdEeExLcTltSzJyMmc",
-      "keyword": "大型コラボ",
-      "title": "牛角、アニメ『呪術廻戦』コラボ企画で“購入制限”を発表 「想定を上回る反響・ご注文」1会計につき各メニュー1点まで",
-      "source": "山陽新聞",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13V25jOUtHR1dzY0trd1UtUUI2VGpWdWp4dG5OT0w3cEZobkZsVzN2ZmlqTlhFbG04bTlRbjZDVXY2aXVPdVdEeExLcTltSzJyMmc?oc=5",
-      "date": "2026-10-11T20:33:44.000Z",
-      "imageTries": 3
-    },
-    {
       "id": "bing:https://animeanime.jp/article/2026/10/12/103724.html",
       "keyword": "一番くじ",
       "title": "シャア謀ったな！「ガンダム」大きすぎるガルマ・ザビが話題に☆",
@@ -1606,18 +1618,6 @@
       "date": "2026-10-11T03:00:03.000Z",
       "thumb": "https://www.bing.com/th?id=ONUT.dhHMVUgkPoNwJgno6f1xCg&pid=News&w=480&h=270&c=7",
       "image": "https://img.topics.smt.news.goo.ne.jp/picture/insidegames/m_insidegames-189103.jpg",
-      "imageTries": 1
-    },
-    {
-      "id": "bing:https://magmix.jp/post/379229",
-      "keyword": "一番くじ",
-      "title": "『ドラゴンボール』単行本表紙を再現した“豪華フィギュア”が",
-      "summary": "『ドラゴンボール』一番くじ最新作が2027年3月中旬に発売決定しました。単行本表紙の立体化や貴重なランチのフィギュアなど、豪華な上位賞の解禁にファンの期待感が高まっています。",
-      "source": "マグミクス",
-      "link": "https://magmix.jp/post/379229",
-      "thumb": "https://www.bing.com/th?id=ONUT.pZslzGDDWSZrL927WOizsw&pid=News&w=480&h=270&c=7",
-      "date": "2026-10-11T03:00:00.000Z",
-      "image": "https://magmix.jp/wp-content/uploads/2027/08/270804_dbgoku_00.jpg",
       "imageTries": 1
     }
   ]
