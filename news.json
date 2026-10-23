@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-23T14:10:34.482Z",
+  "updatedAt": "2026-10-23T19:01:39.347Z",
   "items": [
+    {
+      "id": "CBMiZ0FVX3lxTE1YR25qSkxIQ3A5SFEwb0tKbS1VaGVUX3M3U0JuR05qM1lNbUZkMkhnQ3lwZXhpLThLOFYwOXFxT1ozT2thSFRrbUUxN2xPWFlKX1JzVmN3VF9pRFdpbHdUX0pCcWRkNk0",
+      "keyword": "一番くじ",
+      "title": "「一番くじ カグラバチ」本日より順次発売",
+      "source": "hobby Watch",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YR25qSkxIQ3A5SFEwb0tKbS1VaGVUX3M3U0JuR05qM1lNbUZkMkhnQ3lwZXhpLThLOFYwOXFxT1ozT2thSFRrbUUxN2xPWFlKX1JzVmN3VF9pRFdpbHdUX0pCcWRkNk0?oc=5",
+      "date": "2026-10-23T15:00:00.000Z",
+      "thumb": "",
+      "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1486382752789071352/origin_1.jpg",
+      "imageTries": 1
+    },
     {
       "id": "CBMiQ0FVX3lxTE03OF9xSnhRWDZBQnltODRRZVJpYXhOVDc2MzgyUTdpMDk5UVZlZDdYYTFfelV3R2llNmVkYlZHQjFxU28",
       "keyword": "大型コラボ",
@@ -65,6 +76,30 @@
       "imageTries": 1
     },
     {
+      "id": "bing:https://game.watch.impress.co.jp/docs/news/2149132.html",
+      "keyword": "一番くじ",
+      "title": "【本日発売】ツノの生えたトカゲのぬいぐるみも！ 「一番くじ",
+      "summary": "BANDAI SPIRITSは、ハズレなしのキャラクターくじ「一番くじ すみっコぐらし～もしもすみっコが進化したら？～」を10月24日より順次発売する。価格は1回750円。ファミリーマート、その他コンビニエンスストア、すみっコぐらしショップ（一部の店舗を除く）、書店、ホビーショッ",
+      "source": "GAME Watch",
+      "link": "https://game.watch.impress.co.jp/docs/news/2149132.html",
+      "thumb": "https://www.bing.com/th?id=ONUT.s6EGVnD1D4mr5TeTYYbxYQ&pid=News&w=480&h=270&c=7",
+      "date": "2026-10-23T03:01:00.000Z",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2149/132/046.jpg",
+      "imageTries": 1
+    },
+    {
+      "id": "bing:https://www.chiba-tv.com/plus/detail/2026102151379",
+      "keyword": "一番くじ",
+      "title": "「一番くじ カグラバチ」本日より順次発売連載3周年記念！ラスト",
+      "summary": "「一番くじ カグラバチ」本日より順次発売連載3周年記念！ ラストワン賞で妖刀「淵天」の能力「涅」を発動させた六平千鉱のフィギュアが登場 【一番くじ カグラバチ】 10月24日 順次発売 価格：1回850円 BANDAI SPIRITSは ...",
+      "source": "チバテレ｜千葉テレビ放送株式会社",
+      "link": "https://www.chiba-tv.com/plus/detail/2026102151379",
+      "thumb": "",
+      "date": "2026-10-23T03:01:00.000Z",
+      "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1486382752789071352/origin_1.jpg",
+      "imageTries": 1
+    },
+    {
       "id": "CBMiakFVX3lxTE50TGNuVzFxSWNDVE90SnRSUERaZUk1YVRLdHg3WmZkS1hXUy1vZUJxM2piZEpINVo2UU1HQXQzaXZHQy1qcTFwTHNoc3hVTGw4Vkdhd0dvQ1BiR1F3X1kyb1o0anBadHhqOVE",
       "keyword": "一番くじ",
       "title": "「薬屋のひとりごと」新作一番くじの全ラインナップ公開！劇場版衣装の「猫猫」「壬氏」が、世界観をプラスした“新ブランド”で立体化",
@@ -93,7 +128,7 @@
       "source": "ウォーカープラス",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZWXF4ZHZIaWN2UUNrRGZJR3Z0VGxmbE95OWtINkhSMUV0bG9tSU5PZ1BUMkhJOW5nZlJfQ3VhN1dGYmdyZ3J0cllCNWdiUW1tNU1fdDhXZUM5TU9NYURKOUlOUVcxTldoM2tR?oc=5",
       "date": "2026-10-23T00:55:27.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "CBMimAFBVV95cUxNR3N4ekJobGFuVUR5SlkyVE5lNWxxSUNoeXNVVFNScDdwTmg5M0trQmxMOHZ4dkFkakRxOEpGTGpfbU9hbktzR0JHQmpUZ3pZOGxvdjZZa0gyRzN5bXNoZDBmNTBQNElOSFB6NUdqUUd1RHJtN2pwVmd6cWxUTnAyeXZRbmI4QzVMS3VDWW9yTlBVX0l5UE43ag",
@@ -681,7 +716,7 @@
       "source": "SNKRDUNK",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oazlxSVNjaWJZY3Q5Z2xKTXVKVmhEeU1GeTQybkh4QTRiaGYwRFpZRGhKVV82UjVTNm1Dc1VnNlB6amVIY0dpT3lZQU4?oc=5",
       "date": "2026-10-19T20:01:41.000Z",
-      "imageTries": 2
+      "imageTries": 3
     },
     {
       "id": "bing:https://s.inside-games.jp/article/2026/10/20/189561.html",
@@ -814,7 +849,7 @@
       "source": "電撃オンライン",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96ODcwOW9uLVk3bXBObTZuQ2hNbEVFRE1Ua3YzLUtwQWRSSS1vTlBUXzUyUkM4YkhyV2tQeVB4emd0bEV2V0JIZVEyMGpLYzRkQmRlazN5SXNBZXZBcXpBQ0ZaazVmamRaYk14WA?oc=5",
       "date": "2026-10-19T06:52:00.000Z",
-      "imageTries": 2
+      "imageTries": 3
     },
     {
       "id": "CBMiTEFVX3lxTFBTcFNtTXhwb1lzd3gyVHM2elQzV2NCb2ZQS195bzgwR0NGaE9MSUIyR1hLYy1mQV9FdzhpemRfWjZUengwenBydjltUUI",
@@ -1600,35 +1635,6 @@
       "date": "2026-10-14T15:44:00.000Z",
       "image": "https://www.inside-games.jp/imgs/ogp_f/1782083.webp",
       "imageTries": 1
-    },
-    {
-      "id": "CBMiUEFVX3lxTE1mRDJScncySGx3aEl3YjNaOVh1c2NmOUt0a1lhNkV0Z3ZLZjZWc1l1dTJiUTV3NW9Td1RqVWk3SkpHbkxBYTZKUVdoNERkWEph",
-      "keyword": "一番くじ",
-      "title": "「一番くじ 『デジモン』シリーズ -Matrix Evolution-」賞品公開！『デジモンテイマーズ』25周年記念の豪華ラインナップ",
-      "source": "玩具人 TOY PEOPLE",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mRDJScncySGx3aEl3YjNaOVh1c2NmOUt0a1lhNkV0Z3ZLZjZWc1l1dTJiUTV3NW9Td1RqVWk3SkpHbkxBYTZKUVdoNERkWEph?oc=5",
-      "date": "2026-10-14T14:21:52.000Z",
-      "thumb": "",
-      "image": "https://cimg.kgl-systems.io/camion/files/90601/ogp_jMyo.jpg?x=1280",
-      "imageTries": 1
-    },
-    {
-      "id": "CBMiTEFVX3lxTFBLS1ByNENEWnVPMUN5N05keVZFb0lSWm8tRG9EMExEMXhwYW9oMFlMdU1tX2FFXzFyZ3NROHdSRnBIeXpraDdORkNHZGQ",
-      "keyword": "大型コラボ",
-      "title": "2/13発売｜Central Cee × Nike Air Force 1 Low 3colors｜抽選/販売/定価情報",
-      "source": "SNKRDUNK",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLS1ByNENEWnVPMUN5N05keVZFb0lSWm8tRG9EMExEMXhwYW9oMFlMdU1tX2FFXzFyZ3NROHdSRnBIeXpraDdORkNHZGQ?oc=5",
-      "date": "2026-10-14T13:22:52.000Z",
-      "imageTries": 3
-    },
-    {
-      "id": "CBMiYkFVX3lxTE90REFtQmZ0aTlTY0E5dVJaczBPYW5keG1rQjBIY21Oc2x4c3JFVHhYb0M3Y3RzTXE0Z0JuNGhsOXdWcDlPcUwxSE1DVnBUUnBrMTQweUFuMDhDVVZDT2V6Nm5n",
-      "keyword": "大型コラボ",
-      "title": "【FGO】 霊地争奪戦「等々力」の攻略とギミック一覧｜サムライレムナントコラボ",
-      "source": "神ゲー攻略",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90REFtQmZ0aTlTY0E5dVJaczBPYW5keG1rQjBIY21Oc2x4c3JFVHhYb0M3Y3RzTXE0Z0JuNGhsOXdWcDlPcUwxSE1DVnBUUnBrMTQweUFuMDhDVVZDT2V6Nm5n?oc=5",
-      "date": "2026-10-14T11:58:19.000Z",
-      "imageTries": 3
     }
   ]
 }
