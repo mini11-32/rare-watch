@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T19:28:30.034Z",
+  "updatedAt": "2026-11-02T00:30:29.475Z",
   "items": [
     {
       "id": "CBMiXEFVX3lxTFBER2VPM3lQaF8xQVNuYks5ejhfZFhYcnR6Ujdpa0lhNmxTNjVVWFpCaEFqWWdFTzhESmJobGFVekpjMlhIWXp3VU9MOGxGV2kwUEpndjEyR3IyWFM4",
@@ -8,7 +8,9 @@
       "source": "YouTube",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBER2VPM3lQaF8xQVNuYks5ejhfZFhYcnR6Ujdpa0lhNmxTNjVVWFpCaEFqWWdFTzhESmJobGFVekpjMlhIWXp3VU9MOGxGV2kwUEpndjEyR3IyWFM4?oc=5",
       "date": "2026-11-01T09:30:01.000Z",
-      "imageTries": 1
+      "imageTries": 2,
+      "thumb": "",
+      "image": "https://contents.oricon.co.jp/upimg/article/3/3297/3297396/thumb/img660/1f4f01802f088e6ef859d52e7789a23a1e48eb0927afe301ba8e0b59654f6d37.jpg"
     },
     {
       "id": "CBMiakFVX3lxTE1UbVZoaVIydEtzNVNXQmotX09GckhpYmJiam1BUzRQNnRoZzZEZ1B3dlh6QjNQVUw5bVljSUQyODlxY3pFLVNUQ2JLbE1yS0Q5aGhQZnJJbHBKSkxFQUNPTXoyTHVkSDluYmc",
@@ -17,6 +19,8 @@
       "source": "インサイド",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UbVZoaVIydEtzNVNXQmotX09GckhpYmJiam1BUzRQNnRoZzZEZ1B3dlh6QjNQVUw5bVljSUQyODlxY3pFLVNUQ2JLbE1yS0Q5aGhQZnJJbHBKSkxFQUNPTXoyTHVkSDluYmc?oc=5",
       "date": "2026-11-01T07:30:03.000Z",
+      "thumb": "https://www.bing.com/th?id=ONUT.T0MdBJfyIte4VS_gqTXB5g&pid=News&w=480&h=270&c=7",
+      "image": "https://contents.oricon.co.jp/upimg/article/3/3424/3424409/thumb/img660/d7de1df5432db59079cc5844270eff218ea643cf5bfa9bb69de58cfb7c33173d.jpg",
       "imageTries": 1
     },
     {
@@ -26,6 +30,18 @@
       "source": "SNKRDUNK",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBQSmZfUmlZSTJTUEU4aDJNOFJJZHdoUnUxQW9MX1NZWjVHLTh4WnRVQ2JDR1FlTnpiV2ItQTNpR2J0eTRCUUFicEt2UGs?oc=5",
       "date": "2026-11-01T03:33:36.000Z",
+      "imageTries": 2
+    },
+    {
+      "id": "bing:https://animeanime.jp/article/img/2026/11/01/104385/950025.html",
+      "keyword": "一番くじ",
+      "title": "“当てればよかろうなのだァァァァッ!!”「ジョジョ」ディオ",
+      "summary": "アニメ『ジョジョの奇妙な冒険』シリーズより、ディオ・ブランドーやカーズなどの宿敵フィギュアや限定グッズが揃う一番くじが登場。2026年11月21日（土）より順次発売される。 （C）荒木飛呂彦＆LUCKY LAND COMMUNICATIONS/集英社・ジョジョの奇妙な冒険THE ",
+      "source": "アニメ！アニメ！",
+      "link": "https://animeanime.jp/article/img/2026/11/01/104385/950025.html",
+      "thumb": "https://www.bing.com/th?id=ONUT.ep1bc99YIaJ5eMl1pZQrDg&pid=News&w=480&h=270&c=7",
+      "date": "2026-11-01T03:01:00.000Z",
+      "image": "https://animeanime.jp/imgs/ogp_f/950025.jpg",
       "imageTries": 1
     },
     {
@@ -51,15 +67,27 @@
       "imageTries": 1
     },
     {
-      "id": "bing:https://www.excite.co.jp/news/article/Animeanime_104385/",
+      "id": "bing:https://news.infoseek.co.jp/article/inside_190205/",
       "keyword": "一番くじ",
-      "title": "“当てればよかろうなのだァァァァッ!!”「ジョジョ」ディオ",
-      "summary": "アニメ『ジョジョの奇妙な冒険』シリーズより、ディオ・ブランドーやカーズなどの宿敵フィギュアや限定グッズが揃う一番くじが登場。2026年11月21日（土）より順次発売される。 『ジョジョの奇妙な冒険』は、1986年に「週刊少年ジャンプ」で連載が開始されて以来、世界中で絶大な人気を誇",
-      "source": "エキサイト",
-      "link": "https://www.excite.co.jp/news/article/Animeanime_104385/",
-      "thumb": "https://www.bing.com/th?id=ONUT.5DCgrC6TmrYcbvlKGBVGDw&pid=News&w=480&h=270&c=7",
-      "date": "2026-10-31T22:50:00.000Z",
-      "image": "",
+      "title": "一番く「鬼滅の刃」遊郭編テーマの新作一番くじが発売決定！先行",
+      "summary": "本商品は、「鬼滅の刃」遊郭編をテーマにしたハズレなしくじです。今回は先行して、“音柱”「宇髄天元」の「MASTERLISE」フィギュアが公開。特殊な刀を両手に持ち、挑発するような姿が立体化されています。衣装のシワや風になびく装飾の躍動感など、見どころ満載です。",
+      "source": "Infoseekニュース",
+      "link": "https://news.infoseek.co.jp/article/inside_190205/",
+      "thumb": "https://www.bing.com/th?id=ONUT.HduLUiROAsrDfwYZejHE-Q&pid=News&w=480&h=270&c=7",
+      "date": "2026-11-01T00:31:00.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/inside/inside_190205_0-enlarge.jpg",
+      "imageTries": 1
+    },
+    {
+      "id": "bing:https://dtimes.jp/post-1441111/",
+      "keyword": "一番くじ",
+      "title": "ミゲルとヘクターのフィギュアがA賞！セブン‐イレブン『一番くじ",
+      "summary": "セブン‐イレブン・ジャパンの『一番くじ 〈 リメンバー・ミー 〉 Colorful Memories』は、ハズレなし全8等級25種＋ラストワン賞で、1回781円（税込）。ミゲルとヘクターのシーンフィギュアやライトなどが、2026年10月31日10:00から順次発売されています。",
+      "source": "dtimes",
+      "link": "https://dtimes.jp/post-1441111/",
+      "thumb": "https://www.bing.com/th?id=ONUT.X8MP6V6noDdXhODulA7iJA&pid=News&w=480&h=270&c=7",
+      "date": "2026-10-31T22:48:00.000Z",
+      "image": "https://dtimes.jp/wp-content/uploads/2026/11/dtimes-engine-8e9582e2b30e2b1a4d7a64ae1f9dc0e5-20261101-60d14c.jpg",
       "imageTries": 1
     },
     {
@@ -69,7 +97,7 @@
       "source": "SNKRDUNK",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yb3pCMGtJYmdEeVlSbm1PdGVIaFFvVFJyai1WSDJKU20tS2FWMEVuazBhOXN5eWlyR0t4SldLQ3BBOGtZYUZiWW9NZVg?oc=5",
       "date": "2026-10-31T14:06:26.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "CBMiakFVX3lxTE40YmJoQmNJLTdYZ2o5RUdOTjVHU1ppS2Zoa0pQNjVJcDZNSnhqanFJZUJheWNvUWVUSEYxRUFDU3lncHJvcWtjajRfRGpSM0Vka29ILVozSEE1OGFYaWpBQk85ZWxGb0lnT2c",
@@ -107,7 +135,7 @@
       "source": "YouTube",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yT2VlNmFDM3ZOeXdDLWxLU3Y2b2V4ZWNlNDhhaTQzWUxwaTFvYmlHMUNGODhBWUxNbVp1bDJ3ZTRTNzBibTNxWXRnZ1dtWVJiUkNIS1NwLU1peEVW?oc=5",
       "date": "2026-10-31T06:05:06.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "CBMiTEFVX3lxTFB3RDN3Z1NxTHp0R0J1YTJfbVc3eS1UWnR4XzZYbHFEdEREUzFveExGYlJBREEtaGFfT3ZOUlRqZy13a1lUMGVBaVJSMnI",
@@ -386,6 +414,8 @@
       "source": "玩具人 TOY PEOPLE",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WNUNBNGJBcURLRzVqQWF4QTRwV3ZDZHNGdkNGRk5PdWxsSTRuOGN3WmhpRVgwUnpya294ZWgzTEJYOWJDRkcxNG02R1lVRzhZ?oc=5",
       "date": "2026-10-30T07:16:39.000Z",
+      "thumb": "https://www.bing.com/th?id=ONUT.n2jqolA0NztuyifQFLQ-mQ&pid=News&w=480&h=270&c=7",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/main-98.jpg",
       "imageTries": 1
     },
     {
@@ -741,7 +771,7 @@
       "source": "SNKRDUNK",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBXUDNtZjJlMVFTSkY2MnRlYi1TcFU2RF9BQ08wUTR3VnhUZ1VLUnhDNmRNcHdkelUxODNTMndpT2NKWEl2NHc4ZExTdUM?oc=5",
       "date": "2026-10-29T07:00:00.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "CBMiakFVX3lxTE1EQzFGbEpqZVIwMEIzd3RsbHJxRUFhSHlYYl9XWWxzNmZOMTNSRGFhTzJxd2FZdjlSNk1xQUc3elBwbGoxak96T3cwMjBsYUpmNFNCcEt4MnJ6MGVIMk5hRW9QNm02OVdld0E",
@@ -782,7 +812,7 @@
       "source": "ウォーカープラス",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvZGNYSW5abW1yZkJVbjZOeVlCa3FsOGJLRldnQVJqN3VMR3dTSW9XTThFeWs0SDNUQmFUYTlGQlQ0WlVvSE1NbmZKdTdYc2lvc3R0Yk1YMmE2Zkd3bno1czViaEl3RDFLRHFJ?oc=5",
       "date": "2026-10-29T02:57:44.000Z",
-      "imageTries": 2
+      "imageTries": 3
     },
     {
       "id": "CBMiT0FVX3lxTFA5TW55SHdoSHRPSGI2dFJTSDg3MVAwd3RBNmR2am1McDlfTGJXSUhlMVJia05sMC1OUE1QcW5MUUktMnJLTjhtcGU5R0tVYkU",
@@ -1066,7 +1096,7 @@
       "source": "キャラグー",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ORkpqVmlCcnV1a21SM0hZVC1TX2tsZ1JNeGUyblFUdUFsb3B6Y1J4RDd6R1dZQlpXTjdOdXRhdGNSbkI5SDVoM2RKZlc5TG10cXFxdUVvVQ?oc=5",
       "date": "2026-10-27T23:49:07.000Z",
-      "imageTries": 2
+      "imageTries": 3
     },
     {
       "id": "bing:https://collabo-cafe.com/events/collabo/nikke-ichiban-kuji-chapter9-2027/",
@@ -1212,7 +1242,7 @@
       "source": "Foro3D",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRmY5cm5fVXpyWHVreUhWb2xCc2dDNWdaSEVoeEVmY2JZaURhX2tnSG5NeWhZWG1JVVo0UU9hSEEwM1VZRUI1YjU5NUt4dmZONGhjSWo5REFTaWo5RmhJTElvMkxJUGd4YkJyUFlHcHZWZlhMVEt6Z2MyY1RjTnNFWWptQ1RPY2xkTjA0Wml1UElxUGNTc3VYdFZhVjB1UG1hdkJqRHhlNzYxQU91bW1j?oc=5",
       "date": "2026-10-27T07:00:00.000Z",
-      "imageTries": 2
+      "imageTries": 3
     },
     {
       "id": "CBMiUEFVX3lxTE40MmhoRzdNdi1FbWEyVmRoT3FpVTF5V1dpeUttMThhM25wTkE5S0swSWdmekROM255d3B1Qm5jZVFpZ1Q4bTB6LTc5R0lmakRw",
@@ -1392,7 +1422,7 @@
       "source": "Unisba Media",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYV91UHJiV012M1V2aXZiSU9RTFVTWllsMGR0a0JIeXB2Q1RVNkJLUURSS3BobklPdVk3UklXTTVKRWlFMHZqakh6YUpMOW91d3J2TTB2NFlDcXVSZVM0alRpT2RFeGhQRGQ0VkJjaXd2WWQwRTd1ZDVoT0FWbEVzSG1n?oc=5",
       "date": "2026-10-25T19:37:42.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "CBMiZ0FVX3lxTE14dDVkUmxHaEVKNjVJSlBVbTRIc1gyZU1nUEpkQkd3Y1Z2eU9JYnBkZlZjcXpaSjhVT1MzS2dQc2dlcU9fclU3ZzVYM3VfWHl5M2RCZkdIbEIxd1lkSGRHa1J5UUJKUjA",
@@ -1515,18 +1545,6 @@
       "imageTries": 1
     },
     {
-      "id": "bing:https://dengekionline.com/article/images/202610/91968/910569",
-      "keyword": "一番くじ",
-      "title": "『NARUTO』一番くじ“飛段・角都編”10月26日発売。シカマルやアスマ",
-      "summary": "【8.5点】今やSRPGもタイパ重視の時代!?『デモンズナイトフィーバー』レビュー。全方位に毒を吐く尖ったシナリオと、王道の裏をかく“悪行”のカタルシス インタビューや使用レポートなどで、世界No.1アニメ画像生成AI・PixAIの魅力に迫ります！ 『悠久幻想曲リバイバル』シリー",
-      "source": "電撃オンライン",
-      "link": "https://dengekionline.com/article/images/202610/91968/910569",
-      "thumb": "",
-      "date": "2026-10-24T17:00:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/dengeki/91968/aae566253288191ce5d879e51dae1d8c3.jpg?x=1280",
-      "imageTries": 1
-    },
-    {
       "id": "bing:https://dengekionline.com/article/202610/91997",
       "keyword": "一番くじ",
       "title": "『NIKKE』一番くじ第9弾のラストワン賞はリトルマーメイドの",
@@ -1611,17 +1629,6 @@
       "date": "2026-10-23T23:00:37.000Z",
       "thumb": "https://www.bing.com/th?id=ONUT.Dp7XWqQF7uv0CD2YHy-fYA&pid=News&w=480&h=270&c=7",
       "image": "",
-      "imageTries": 1
-    },
-    {
-      "id": "CBMiWkFVX3lxTE5sTXUyWkdEbklaWWFGdWFySW9HQmpPRGRkQkZTUlY5dGpMWUQxZE5HRWlwMFRpWE9qdWl3ZzNNUE5PVUtobWZYWGtkNS1kcUlYODh1dkpTZktlQQ",
-      "keyword": "一番くじ",
-      "title": "とかげ・ぺんぎん？・えびふらいのしっぽが進化したら!?『すみっコぐらし』新作一番くじが販売開始。進化すみっコたちをオリジナルアートでグッズ化！",
-      "source": "電撃オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sTXUyWkdEbklaWWFGdWFySW9HQmpPRGRkQkZTUlY5dGpMWUQxZE5HRWlwMFRpWE9qdWl3ZzNNUE5PVUtobWZYWGtkNS1kcUlYODh1dkpTZktlQQ?oc=5",
-      "date": "2026-10-23T21:50:00.000Z",
-      "thumb": "",
-      "image": "https://news.mynavi.jp/assets/common/logo_ogp-f44b720a365aa20669d9aaed97d5885986aa7c8a16d71dc16c758ac1e4fef112.png",
       "imageTries": 1
     }
   ]
