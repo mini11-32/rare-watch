@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-11-07T19:19:33.933Z",
+  "updatedAt": "2026-11-08T00:20:21.910Z",
   "items": [
+    {
+      "id": "CBMiQ0FVX3lxTFBFck5SRUJaNlFyWF9iZGVxak8zamlLYTVhaERKVnFmbl9zZjV4R0ZqaHdHa25XSkN0RXEyX0JYTHVWQWc",
+      "keyword": "一番くじ",
+      "title": "「金欠が加速」一番くじ「仮面ライダー マイス＆ゼッツ」全賞品公開 発売は11月27日",
+      "source": "マグミクス",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBFck5SRUJaNlFyWF9iZGVxak8zamlLYTVhaERKVnFmbl9zZjV4R0ZqaHdHa25XSkN0RXEyX0JYTHVWQWc?oc=5",
+      "date": "2026-11-08T00:10:00.000Z",
+      "thumb": "https://www.bing.com/th?id=ONUT.bcnbDZsv-FPVr5dhckKqbA&pid=News&w=480&h=270&c=7",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/magmix/magmix_384418_0.jpg",
+      "imageTries": 1
+    },
+    {
+      "id": "bing:https://news.infoseek.co.jp/article/magmix_384418/",
+      "keyword": "一番くじ",
+      "title": "「金欠が加速しますね」「仮面ライダーマイス＆ゼッツ」くじ全",
+      "summary": "2026年11月5日、BANDAI SPIRITSはキャラクターくじ「一番くじ 仮面ライダーマイス＆仮面ライダーゼッツ」の全ラインナップを公開しました。『仮面ライダーマイス』と『仮面ライダーゼッツ』の2作品を題材とした、A賞からH賞、ラストワン賞までの全貌が明らかになっており、S",
+      "source": "Infoseekニュース",
+      "link": "https://news.infoseek.co.jp/article/magmix_384418/",
+      "thumb": "https://www.bing.com/th?id=ONUT.bcnbDZsv-FPVr5dhckKqbA&pid=News&w=480&h=270&c=7",
+      "date": "2026-11-07T15:59:00.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/magmix/magmix_384418_0.jpg",
+      "imageTries": 1
+    },
+    {
+      "id": "bing:https://magmix.jp/post/384498",
+      "keyword": "一番くじ",
+      "title": "『キン肉マン』4月1日発売の新作くじに「神」「期待を遥かに",
+      "summary": "BANDAI SPIRITSは2026年11月6日（金）、キャラクターくじ「一番くじ キン肉マン 最強のコンビ編」を、2027年4月1日（木）より順次発売すると発表しました。先行してA賞からD賞、そしてラストワン賞の賞品が公開されており、なかでもラストワン賞には、ファンなら思わず",
+      "source": "マグミクス",
+      "link": "https://magmix.jp/post/384498",
+      "thumb": "https://www.bing.com/th?id=ONUT.GF6WD8Kvhgz6M_FB-ZjIHw&pid=News&w=480&h=270&c=7",
+      "date": "2026-11-07T15:59:00.000Z",
+      "image": "https://magmix.jp/wp-content/uploads/2027/11/261106-knt-01.jpg",
+      "imageTries": 1
+    },
+    {
+      "id": "CBMiR0FVX3lxTFBmUU0zeVR3R2o3UWN4TlRrODdlVkNyWi02Z3JlVzVWcUdseHZSblhhUTVib1lsdHp2Y05CTlYwZmQyMVE1ZFZN",
+      "keyword": "大型コラボ",
+      "title": "ファミリーマートが氣志團と初コラボの新年福袋を抽選販売へ 11月6日受付開始",
+      "source": "Dellows News",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBmUU0zeVR3R2o3UWN4TlRrODdlVkNyWi02Z3JlVzVWcUdseHZSblhhUTVib1lsdHp2Y05CTlYwZmQyMVE1ZFZN?oc=5",
+      "date": "2026-11-07T10:20:04.000Z",
+      "thumb": "https://www.bing.com/th?id=ONUT.fLBgZBPUpOss2e1Qq1w5ZQ&pid=News&w=480&h=270&c=7",
+      "image": "https://www.sankei.com/resizer/v2/J45KXNRE2JNUTNBTKXDKD6XEJU.jpg?auth=b0c05408b29ba9ca6ca86d457f4d0e412d862fb1a6534119648f79c3621c6809&quality=50&smart=true&width=1200&height=675",
+      "imageTries": 1
+    },
     {
       "id": "bing:https://www.excite.co.jp/news/article/Animeanime_104555/",
       "keyword": "一番くじ",
@@ -348,7 +394,7 @@
       "source": "コンビニ チェッカー",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sUWdEaVAxYS1WVFBNVEVlbklLbmREdkV1eHd3bmg5ck5YUzFSUS0zcnB4aHFZeXlhWTdGb1Z0bXFsblFvdVNReGpfU0RydGR3NVE?oc=5",
       "date": "2026-11-05T09:13:18.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "CBMiV0FVX3lxTE1OdWhrbTZaTDR2UDk3TXNjcHpUZlNuRzlaSGRmR2xxQXYtcWQ3NndHM09jSXVPY0pnQnpPN1JIXy1oUFJ3Qk1HdUhmeWp2c1Q2NkZZQnF1UQ",
@@ -591,7 +637,7 @@
       "source": "玩具人 TOY PEOPLE",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ETkJYWmtMelVRb1Q2UE1rcVh2S3dKOFExa1BYLXlmQWFqZ19Bd2R1aHNCd2U1RDVOOXpiZGFaUklZbEVNaDBEMXNPTFgxNENx?oc=5",
       "date": "2026-11-04T08:05:25.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "CBMif0FVX3lxTFBUUU12eXhjeDZJQ0dQakFGbXczSXlNR0FFNUphQ3BwQmgzY241a1BIRlR4UVUzSzBPOVBfcmZBSzU1ZF9TZXZVOVExMjVnRXhKTldGb1VjeXZWVkdRYnhyMmhPeVpxUmZyRE1SYjVZaXMzWXE5V3Yyekhhb0hpWE0",
@@ -956,7 +1002,7 @@
       "source": "山陽新聞",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13V25jOUtHR1dzY0trd1UtUUI2VGpWdWp4dG5OT0w3cEZobkZsVzN2ZmlqTlhFbG04bTlRbjZDVXY2aXVPdVdEeExLcTltSzJyMmc?oc=5",
       "date": "2026-11-01T18:42:14.000Z",
-      "imageTries": 2
+      "imageTries": 3
     },
     {
       "id": "bing:https://www.cinemacafe.net/article/2026/11/02/113784.html",
@@ -1100,7 +1146,7 @@
       "source": "キャラグー",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmVW9pd2xlcHFGam1taVhwZHpaWWl0T2RvZTdCTmszTmhWa3pPYklEYzRXb19JaE1kdlhxLW1IQ0Q2R0FyMXpsdmx5TQ?oc=5",
       "date": "2026-10-31T19:54:09.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "CBMiV0FVX3lxTFA2ZjBEazVYT1BNMlQzNjhsSG1hVnVRa1JCMkthdU5DN1BjdjhIcHB2OFU5SGV3RUpjT2VzekFqcFdZYVhnNG9nZVh1WG1uUkx4T3NNQ3FrMA",
@@ -1593,53 +1639,6 @@
       "thumb": "https://www.bing.com/th?id=ONUT.JEHFg2sjwmTy3vhH85Pu5g&pid=News&w=480&h=270&c=7",
       "date": "2026-10-30T01:10:00.000Z",
       "image": "https://collabo-cafe.com/wp-content/uploads/heroaca-ichibankuji-taiikusai-keyvisual.jpg",
-      "imageTries": 1
-    },
-    {
-      "id": "bing:https://collabo-cafe.com/events/collabo/zelda-ichibankuji-hyrule-collection-2026/",
-      "keyword": "一番くじ",
-      "title": "ゼルダの伝説 一番くじ ハイラルコレクション 12月5日より順次発売!",
-      "summary": "「ゼルダの伝説」の一番くじ最新作「一番くじ ゼルダの伝説 ハイラルコレクション」が、2026年12月5日よりローソンやNintendo TOKYOなどで順次発売。A賞のマスターソードの目覚まし時計や、割れるツボ型貯金箱などが登場!",
-      "source": "collabo-cafe",
-      "link": "https://collabo-cafe.com/events/collabo/zelda-ichibankuji-hyrule-collection-2026/",
-      "thumb": "https://www.bing.com/th?id=ONUT.gHR1d6fyo70g8IB0u5j4uQ&pid=News&w=480&h=270&c=7",
-      "date": "2026-10-29T23:49:00.000Z",
-      "image": "https://collabo-cafe.com/wp-content/uploads/zelda-ichibankuji-hyrule-2026-keyvisual.jpg",
-      "imageTries": 1
-    },
-    {
-      "id": "CBMiW0FVX3lxTE9MVzlYMGwwTThNdkNKMXQ0U2djaGRZNnBPRHhKUGFxRVJseUp2dXJiT1BlUkVhemJKSnhzQkxTZVFEWWZpM3NFV3c1bktnSXV1MmV0VHRlREJFNjg",
-      "keyword": "大型コラボ",
-      "title": "ファミマでまた争奪戦になるぞ…！シリーズ累計販売数880万食突破！人気コラボグルメの第3弾",
-      "source": "スポーツ報知",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MVzlYMGwwTThNdkNKMXQ0U2djaGRZNnBPRHhKUGFxRVJseUp2dXJiT1BlUkVhemJKSnhzQkxTZVFEWWZpM3NFV3c1bktnSXV1MmV0VHRlREJFNjg?oc=5",
-      "date": "2026-10-29T23:00:00.000Z",
-      "thumb": "https://www.bing.com/th?id=ONUT.VNKj13-Ktqjg1U7dbLdXgg&pid=News&w=480&h=270&c=7",
-      "image": "",
-      "imageTries": 1
-    },
-    {
-      "id": "bing:https://hobby.watch.impress.co.jp/docs/news/2152744.html",
-      "keyword": "一番くじ",
-      "title": "歴代ジョジョの宿敵が集結。「一番くじ ジョジョの奇妙な冒険 The",
-      "summary": "BANDAI SPIRITSは、キャラクターくじ「一番くじ ジョジョの奇妙な冒険 The Gathering of RIVALS」の全ラインナップを公開した。店頭販売は11月21日、オンライン販売は11月25日17時より順次発売する。価格は1回850円。",
-      "source": "HOBBY Watch",
-      "link": "https://hobby.watch.impress.co.jp/docs/news/2152744.html",
-      "thumb": "https://www.bing.com/th?id=ONUT.b2dtwcoYo1cfYk6hwuPXNg&pid=News&w=480&h=270&c=7",
-      "date": "2026-10-29T20:59:00.000Z",
-      "image": "https://hobby.watch.impress.co.jp/img/hbw/list/2152/744/main.jpg",
-      "imageTries": 1
-    },
-    {
-      "id": "bing:https://collabo-cafe.com/events/collabo/ichibankuji-jojo-gathering-of-rivals-2026/",
-      "keyword": "一番くじ",
-      "title": "ジョジョ The Gathering of RIVALS 一番くじ 11月21日より発売!",
-      "summary": "「一番くじ ジョジョの奇妙な冒険 The Gathering of RIVALS」が、11月21日より全国のローソンや書店、ホビーショップなどで順次発売!ディオ・ブランドーやカーズ、DIO、川尻浩作、ディアボロ、エンリコ・Pといったシリーズ歴代の宿敵達がMASTERLISEシリー",
-      "source": "collabo-cafe",
-      "link": "https://collabo-cafe.com/events/collabo/ichibankuji-jojo-gathering-of-rivals-2026/",
-      "thumb": "https://www.bing.com/th?id=ONUT.Yk1GGEYMV6GovOGkkxSgsw&pid=News&w=480&h=270&c=7",
-      "date": "2026-10-29T20:30:00.000Z",
-      "image": "https://collabo-cafe.com/wp-content/uploads/jojo-gathering-of-rivals-kuji-eyecatch.jpg",
       "imageTries": 1
     }
   ]
