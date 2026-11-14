@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T01:22:54.140Z",
+  "updatedAt": "2026-11-14T10:02:07.763Z",
   "items": [
     {
       "id": "CBMif0FVX3lxTFB2ZkNkdDdpaEY0aWFMQ0VHYlFfR1E3cWdtNFk5RnFZcnFLblMtVmVFRFlrOWE2aUd1dHBtMlpYU2ttSk1WQWg4cmtVLXFNTDVGZ0Jpak5hcmNJcUR1dV9DbnEyVHIyV1ZnTVVlTENnRjlLUWNoVF9GQk9ZZGZPT1k",
@@ -21,6 +21,18 @@
       "date": "2026-11-13T23:30:00.000Z",
       "thumb": "https://www.bing.com/th?id=ONUT.LgGzT7B2TxB3sw2QnY-Z1Q&pid=News&w=480&h=270&c=7",
       "image": "",
+      "imageTries": 1
+    },
+    {
+      "id": "bing:https://collabo-cafe.com/events/collabo/battlecats-ichibankuji-resale-2026/",
+      "keyword": "一番くじ",
+      "title": "にゃんこ大戦争 一番くじ ペリペリするにゃ 11月20日より再販!",
+      "summary": "PONOS (ポノス) の人気アプリゲーム「にゃんこ大戦争」の一番くじ「～みんなでペリペリするにゃ～」が、2026年11月20日よりローソンや書店などで順次再販売。A賞の覚醒のネコムートフィギュアや、ラストワン賞のタンクネコ超ビッグぬいぐるみが再登場!",
+      "source": "collabo-cafe",
+      "link": "https://collabo-cafe.com/events/collabo/battlecats-ichibankuji-resale-2026/",
+      "thumb": "https://www.bing.com/th?id=ONUT.A1iXCM2aTKsg3SnaBbYzwA&pid=News&w=480&h=270&c=7",
+      "date": "2026-11-13T16:00:00.000Z",
+      "image": "https://collabo-cafe.com/wp-content/uploads/battlecats-ichibankuji-resale-2026-top.jpg",
       "imageTries": 1
     },
     {
@@ -55,7 +67,7 @@
       "date": "2026-11-13T15:00:00.000Z",
       "thumb": "",
       "image": "",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "CBMiT0FVX3lxTE9NVHNPNVF5UWN1aVJPUmhCQjFheE4zLVV4YkJibFFCV3J4aDBINDgzYnVoRDNraUdkRXFMU3pOZ09hc2xfQXBGLWdISmVXTjQ",
@@ -64,7 +76,7 @@
       "source": "TRILL",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NVHNPNVF5UWN1aVJPUmhCQjFheE4zLVV4YkJibFFCV3J4aDBINDgzYnVoRDNraUdkRXFMU3pOZ09hc2xfQXBGLWdISmVXTjQ?oc=5",
       "date": "2026-11-13T12:08:30.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "CBMif0FVX3lxTE1GLVZPM3h0RlA1SzRVUm90Ql9YYUNnZTJ6d0VuQ1dwRTNxMW5jZ3B5WW5wbW5uRG1ucURfaUtmYS1QQ3JZbU5TYldBbFlFdkpZZl9TaXlvREhJUXVOMXYtcFNBLXRDWUp3MnFQMVZwM1NvNV9zZHhlX0haTTIwY3c",
@@ -119,7 +131,7 @@
       "source": "インサイド",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IWWdNdXVuOUZoQUh1enkyZHR1VXphQXhud1I0RHZlNXQ2QmxTTkxZRDk1SlZhNE1XRFlUbW5JWXBKVVpaaFlNeFdEeDVTVlFqZGZESnIzeHQ4S3gxanp6VXIwMlI3SzlEN2c?oc=5",
       "date": "2026-11-13T05:15:03.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "CBMiUEFVX3lxTFB1a2xNQjIwbXVhbzM4Qlh2eFdOMGk4dTdac1dsTk11bzFNcmY1TzlfUEQwX2tQZ0VQakh5bk5yWEVrQm5vZ256UUtWZFQ2X0VG",
@@ -264,7 +276,7 @@
       "source": "TRILL",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKY0dsZTNuQmJ4SjYtaVpUb2hJaUVISGgwNERsVy1UU1JuaFRjVGxRa0U3bGJaWndGelFnVVByajVuU0xZN0NnOGRGbzNsRzg?oc=5",
       "date": "2026-11-12T12:07:39.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "CBMiX0FVX3lxTE5IUktxZDI5V2xSWThJQ1J4cXVTUW42cUJHZEtXUVJFd21UTWJXaWpKa080WlM4dldRRGo5SDN5cUx5eW41TXdhSjV1Q1BsY2YzTXJjWDJyVm9hVVVuMl9j",
@@ -286,7 +298,7 @@
       "date": "2026-11-12T10:07:00.000Z",
       "thumb": "",
       "image": "",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "bing:https://www.famitsu.com/article/202611/93829",
@@ -507,7 +519,7 @@
       "source": "Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaYk9KbG10ZHoyYUZCNTMwLXVMd0dBbFBnWnp4ZTdyN0Q3Z0JPVTdNUGp4LTV2Y3dIX0ZIY2VteUxHcXhrZGlpN0cwSzRvMnByUzlmM2hwb2NONXB5YzFidlp3YkVZc25tZC1vcTJ3LVlPWlRVcDhVTmVheTVPTWs?oc=5",
       "date": "2026-11-11T07:00:03.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "CBMiXEFVX3lxTE92d0JRa3BiM25aX3ZrS3BRNXJjTUlXaE4xcXZZMVplcWE5TDY1eFJrSGlNLS1pOG41MjIzMlB5NE4zNlI0aUNtSlNVQW5ubTFKNFBuRnFoV0lOaU8y",
@@ -561,7 +573,7 @@
       "source": "スニーカーウォーズ",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VLUxnTGhtUl9BM2hlenNDemZ2NmR1UTVzVjExTk03WG1WWUpMZXY2LU5xMV81LVNTZGRNaVEtRDZySWpLdlNiSExMdHhtX3RJ?oc=5",
       "date": "2026-11-10T22:30:00.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "CBMiV0FVX3lxTFBsQnRCalFBS09ZdnEtNHFrRWpFU3pOOGI0TGRwbVZ6VmtXWnVjNUx2YkR4RDJNV2lWeXhsQnFUMmNVaG9kZmthZUtNUUh3RTVxOFpNbkZ3UQ",
@@ -592,7 +604,7 @@
       "source": "スニーカーウォーズ",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyNlZnbXJaLTlsanR0cmx0blpBeTJtdk83em1QdlMyZHAzSTQzREdNT01fQUE3emZacE1nRmNvcDZvQk41aEpXMVdJVUFoenRp?oc=5",
       "date": "2026-11-10T21:00:51.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "CBMiWEFVX3lxTE44T1otemRQZU04RWluSlVWMXRmWlRNb1lab0dGSmVlSWN5WlB0ZTBhSVZiMS04OFJZcXZiUmhpaUQ4TEZLSzgtQjFzQ21QOXd2M292YXVfVlY",
@@ -634,7 +646,7 @@
       "source": "ウォーカープラス",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TRUx5NUsxTDJCaUtIdExJUUNLVFRRd1hEMmJlWnppSFd4MThRcTJ6bnNlX3RiQVRzM1ozcWRUS0NBREgzeE5SeWZORDRvZ2lWc2xGaFZRVjFCclBJQnhDX3FQQ19SYW5aMkFER1Z3?oc=5",
       "date": "2026-11-10T14:35:28.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "bing:https://www.msn.com/ja-jp/entertainment/%E5%85%A8%E8%88%AC/candy-tune%E3%81%AE%E7%A6%8F%E5%B1%B1%E6%A2%A8%E4%B9%83%E3%81%95%E3%82%93-%E6%9D%91%E5%B7%9D%E7%B7%8B%E6%9D%8F%E3%81%95%E3%82%93%E3%81%8C%E5%87%BA%E6%BC%94%E3%81%99%E3%82%8B-%E4%B8%80%E7%95%AA%E3%81%8F%E3%81%98-tamagotchi-%E5%A4%9C%E7%A9%BA%E3%81%A7%E7%99%BA%E8%A6%8B-12%E6%98%9F%E5%BA%A7%E3%81%A8%E3%81%9F%E3%81%BE%E3%81%94%E3%81%A3%E3%81%A1-%E6%96%B0tvcm%E3%81%8C11%E6%9C%8814%E6%97%A5%E3%82%88%E3%82%8A%E6%94%BE%E6%98%A0/ar-AA2hayOw",
@@ -1066,7 +1078,7 @@
       "source": "ウォーカープラス",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvZGNYSW5abW1yZkJVbjZOeVlCa3FsOGJLRldnQVJqN3VMR3dTSW9XTThFeWs0SDNUQmFUYTlGQlQ0WlVvSE1NbmZKdTdYc2lvc3R0Yk1YMmE2Zkd3bno1czViaEl3RDFLRHFJ?oc=5",
       "date": "2026-11-08T09:42:23.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "CBMif0FVX3lxTE1TeE80d2RjNW5tSmZWQWpKcENNM0x1RWFvTlVFc2U3WUUxMWdVSFNrelp0RlFUZEVrc1Y3V1JxdDI4TlU1SlBzWDRvRTdRTnRtU0I1cnV1OWRjbXhaeE1fbW9oU1FYdVVrcTFCWmVMOHJSbU5zVWkwcTN1ZHlrdGs",
@@ -1109,7 +1121,7 @@
       "source": "キャラグー",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ORkpqVmlCcnV1a21SM0hZVC1TX2tsZ1JNeGUyblFUdUFsb3B6Y1J4RDd6R1dZQlpXTjdOdXRhdGNSbkI5SDVoM2RKZlc5TG10cXFxdUVvVQ?oc=5",
       "date": "2026-11-07T23:47:19.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "CBMiV0FVX3lxTE9ZZzRlek4yVDVGem5pMHRHVkIzLWE0SmZqR2hRenN0OWNiSGczOU5rMzJIUXIwMW1FbkVhaWFGTHUzOGswXzFmZUVVck90d3dPZkZDZ2s1WQ",
@@ -1633,17 +1645,6 @@
       "date": "2026-11-05T03:50:00.000Z",
       "thumb": "https://www.bing.com/th?id=ONUT.FZaKjzTM4PMvKuFW17qYGQ&pid=News&w=480&h=270&c=7",
       "image": "https://magmix.jp/wp-content/uploads/2027/11/261105-ucsi-00.jpg",
-      "imageTries": 1
-    },
-    {
-      "id": "CBMiiAFBVV95cUxOLUhNbXk5OV9falM1NndubGdZaWZYdnA5LTZPM3FhS0RHNTVfTFEtRGdRd0VpakhCeVNtOUM5UmZvZzg2emM0UW1SaWoyRUFZMHQ1azhTcVFCU3dlUHVyRUpqNUVxQXZST1JPMDM2UDhFQktnNXRIZnB4Vm8zQ1pHb1NZUU9haDNp",
-      "keyword": "大型コラボ",
-      "title": "予約争奪戦！『Her lip to』コラボ フェスティブアフタヌーンティーが大阪で《コンラッド大阪》（Gaya Sachiko） - エキスパート",
-      "source": "Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLUhNbXk5OV9falM1NndubGdZaWZYdnA5LTZPM3FhS0RHNTVfTFEtRGdRd0VpakhCeVNtOUM5UmZvZzg2emM0UW1SaWoyRUFZMHQ1azhTcVFCU3dlUHVyRUpqNUVxQXZST1JPMDM2UDhFQktnNXRIZnB4Vm8zQ1pHb1NZUU9haDNp?oc=5",
-      "date": "2026-11-04T22:07:17.000Z",
-      "thumb": "https://www.bing.com/th?id=ONUT.g85TJDX7kjk675-j1ZS62Q&pid=News&w=480&h=270&c=7",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/gayasachiko/02759003/title-1793807205807.jpeg?exp=10800",
       "imageTries": 1
     }
   ]
