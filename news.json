@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-23T01:29:55.094Z",
+  "updatedAt": "2026-11-23T12:07:07.226Z",
   "items": [
+    {
+      "id": "bing:https://collabo-cafe.com/events/collabo/choigosim-kuji-ichiban-kuji-2026/",
+      "keyword": "一番くじ",
+      "title": "一番くじ チェゴシム 冬の描きおろしで12月5日より順次発売!",
+      "summary": "韓国発のキャラクター「チェゴシム」が一番くじに初登場し、「一番くじ チェゴシム」が2026年12月5日から順次発売されます。1回750円(税込)で、ホットココアや雪だるまなど冬をテーマにした描きおろしイラストが公開されています。",
+      "source": "collabo-cafe",
+      "link": "https://collabo-cafe.com/events/collabo/choigosim-kuji-ichiban-kuji-2026/",
+      "thumb": "https://www.bing.com/th?id=ONUT.mx1ApE30oJnPMdcS9fe07Q&pid=News&w=480&h=270&c=7",
+      "date": "2026-11-23T00:04:00.000Z",
+      "image": "https://collabo-cafe.com/wp-content/uploads/choigosim-kuji-ichiban-kuji-2026-eyecatch.jpg",
+      "imageTries": 1
+    },
     {
       "id": "bing:https://livepocket.jp/e/0d5mm",
       "keyword": "ポケモンカード",
@@ -9,7 +21,7 @@
       "source": "livepocket.jp",
       "link": "https://livepocket.jp/e/0d5mm",
       "thumb": "",
-      "date": "2026-11-22T16:00:00.000Z",
+      "date": "2026-11-22T11:22:00.000Z",
       "image": "",
       "imageTries": 1
     },
@@ -66,7 +78,7 @@
       "source": "キャラグー",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZZzRlek4yVDVGem5pMHRHVkIzLWE0SmZqR2hRenN0OWNiSGczOU5rMzJIUXIwMW1FbkVhaWFGTHUzOGswXzFmZUVVck90d3dPZkZDZ2s1WQ?oc=5",
       "date": "2026-11-21T23:52:22.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "CBMiWEFVX3lxTE1kblZVSUZDUXI0LUpFMGdUc1VXc1BnRmxfanpvR2lNTXJVU0xaeGlvWG8yclpHTmhKQkhsdGtKWVJqR29JMEI5QUZjYmpycjl6SDZBOWZ1eDQ",
@@ -77,7 +89,7 @@
       "date": "2026-11-21T21:59:18.000Z",
       "thumb": "",
       "image": "",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "CBMiTkFVX3lxTE5RN2JPcGx2VTNUdVAyQW1RQzBuOG1ZM0JCM21VZ19YWUQtUF9HdzZZcWhlLTdudWt0Rmw1SmlLUjVhd0x5TjJsanBndVJfQQ",
@@ -461,7 +473,7 @@
       "source": "VOCO News",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9veW1HTkJmcEZ2dWtiZUVBOE1fNlBfZ0MzWVA5aGxNa3ZDVHZiNTFoN1B3bmFFWkZFQ0lOYmpDd3BlRlZYY2VXc2hWNFBUcVY3VzF0WTVKNjN3Y1ctbGZKc01IeVF6UExLaHpreklldXVfU2VqUmVlMWwzMA?oc=5",
       "date": "2026-11-20T05:12:49.000Z",
-      "imageTries": 3
+      "imageTries": 1
     },
     {
       "id": "CBMiaEFVX3lxTE9QV1JKUUs3UjlUSVN1M0NlZFZNNlFuaktjMEZLdE9sRnlNdGQ5Z0V3QzdxMHFzeFhBd2p2WkMySk03WEgtYnprcW45N2NGRzZyVTl6cWNobHRnUDZfQjZEeVAwUWU1eFpf",
@@ -542,6 +554,17 @@
       "thumb": "",
       "date": "2026-11-20T00:30:00.000Z",
       "image": "https://www.asahi.com/and/ogp/ogp_and.png",
+      "imageTries": 1
+    },
+    {
+      "id": "CBMiV0FVX3lxTFBIWWJzR2E5SllpM1NfbnI5aGtEeXhQTzcwR2pPMktxRjVlMlNJNmRHZHlJNl8tNWhsUTlRNF8yRk9URzBYVXVPOVlIMlltcE1HV0tJNi1BSQ",
+      "keyword": "大型コラボ",
+      "title": "これで最後。【Suicaのペンギン】『キタムラコラボバッグ』が11/21先行発売。数量限定で争奪戦の予感",
+      "source": "朝日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIWWJzR2E5SllpM1NfbnI5aGtEeXhQTzcwR2pPMktxRjVlMlNJNmRHZHlJNl8tNWhsUTlRNF8yRk9URzBYVXVPOVlIMlltcE1HV0tJNi1BSQ?oc=5",
+      "date": "2026-11-19T22:50:00.000Z",
+      "thumb": "",
+      "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/11/1795141714_388ae8b4dd5bcac953566aeb13601bb9.jpg",
       "imageTries": 1
     },
     {
@@ -688,7 +711,7 @@
       "source": "コラボカフェ",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRlVqb1I0MXItZU54cFdTNEp4RGVudWUySHNKQ2xxRldDNi1xLUNGRkcyN0tCdU1wRWRqS2VvekdvdHE0ZTV1Rk04TmNzV3lmR1Q1NjhuRzQyUWZXRGxoajZDdy02SmhVcVpNTm4xN1ZYaWwyTE9GUWp0VGJGZEotTHR5ZVpYV3hSX3ZCX21Ia1ZON0hQdFHSAZ4BQVVfeXFMTzMzelMxdHZEVjBmRzdXcWRBZzlCS2FhS0VHX2p3M1pkRGRPc01RdlkzSDgyaDBndW9rMkhhaExJbTZHb3d3ck9xcGNjTVFjbVJvWkFCTzF1aFpGb1VqVkZYa3k2ejNLaFVhLVhuT0tKU3IyZldqZGFYcDVLV3FpMWNjZ2FrY0xDbkpUdnJ2LS1DQzI3UnQtTm5hWW1hbkE?oc=5",
       "date": "2026-11-19T10:17:01.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "CBMiS0FVX3lxTE1sVHZxZU1DR2R6WTQtNmFhemtZOGtLRXFLNzJsRGRTZDVpN0xDOXF3alZWQjg5aUh5Zjg3WTRsUEZpUkNqRTZVZ2ZBZw",
@@ -742,7 +765,7 @@
       "source": "ONE PIECE.com",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Gemx4LTBPcUR3a1NTM09mbFRTOENiSjhXTi00ekdjY0U0MDZLckpvR21ueTZVeUt3THFRSWVBeF9vM1UydWR3c1U3ejZtMGV6UDc5NXlR?oc=5",
       "date": "2026-11-19T03:02:16.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "CBMif0FVX3lxTE5GWUZ3bDNRWTRnMlZfR0QteXhRNlNzR01HeEluU28yQTQ2T1lXYkMyZlFjTS1UY1h1THNwYk9KWmxYbXZEeE5KZFFDck9sbmEwbl9kNl9DZzFlenB2Y29wSm8yLTItY2Z6QmlQckRFZXc3MDlzVkNBd0xDQ1FtUVk",
@@ -884,7 +907,7 @@
       "source": "ウォーカープラス",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZWXF4ZHZIaWN2UUNrRGZJR3Z0VGxmbE95OWtINkhSMUV0bG9tSU5PZ1BUMkhJOW5nZlJfQ3VhN1dGYmdyZ3J0cllCNWdiUW1tNU1fdDhXZUM5TU9NYURKOUlOUVcxTldoM2tR?oc=5",
       "date": "2026-11-18T07:08:55.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "CBMiV0FVX3lxTE1QdEZQZ3VtN3Y0V1NfcndveTBtbVZXUC1tb3JCSlZtVUxseWptcXRIcUF6cGlFZEdLMXhGV2VkRzlhTGN2TG04V3JEUXphRkZ2UnFsa3Rkcw",
@@ -937,7 +960,7 @@
       "source": "ウォーカープラス",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByLTd6YnJSX0REX3pyekdNNkZjQ1M4RGhyWTMwQVhRQWtZR0lGSzNZQUFpQVAwM1NKMmdheXV3amhfaFVCSDBWdFhLdXhQV1ZUUjdNTUJad2QyWU1kN0czVURfeTJYZ2lOWkIwT1RB?oc=5",
       "date": "2026-11-17T23:14:19.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "CBMiXEFVX3lxTE42dTJHS0w4emo2OGh2WkJtcDJGQ2MzX1RBQVdVN3IwTzJINUdZZkVnNlV3MDZ4UEtoSW9GZDdrSDJJWWRtdnZxSFF0SDZ2cnlmXzNVWG51V2tOeFhG",
@@ -946,7 +969,7 @@
       "source": "山陽新聞",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42dTJHS0w4emo2OGh2WkJtcDJGQ2MzX1RBQVdVN3IwTzJINUdZZkVnNlV3MDZ4UEtoSW9GZDdrSDJJWWRtdnZxSFF0SDZ2cnlmXzNVWG51V2tOeFhG?oc=5",
       "date": "2026-11-17T22:50:18.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "CBMikgFBVV95cUxQQ3VjUzBvc3JKQVRRVUQ1eWxEaDR6RHgwUHdsVlkxcmgxQXV4bEl1bTJVakVGQ1RhVFROYm9ZSldlSDRIRGdEZGpHdWxNYjRlQ1NDRVRwWXVNSEtuTEQ5clctZXhpaXp4cFdZVnJqYm1tbmo2M1g1Vm9nWnVBWWdjZTdESE85UGFULUVKck9EaFhWZw",
@@ -955,7 +978,7 @@
       "source": "トイハコ",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ3VjUzBvc3JKQVRRVUQ1eWxEaDR6RHgwUHdsVlkxcmgxQXV4bEl1bTJVakVGQ1RhVFROYm9ZSldlSDRIRGdEZGpHdWxNYjRlQ1NDRVRwWXVNSEtuTEQ5clctZXhpaXp4cFdZVnJqYm1tbmo2M1g1Vm9nWnVBWWdjZTdESE85UGFULUVKck9EaFhWZw?oc=5",
       "date": "2026-11-17T16:02:18.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "CBMiiwFBVV95cUxPampoX0pWSGJWTk5XYWh2c084RXZ5emYzckVFXzllTmtFRkpEVWVwTWJROU1aQmFpZEIxeG1QR0NyZV9EQTEtOTIwNThpMEduTl96YXVoU2l5ZXFzallzVFpHQjN6bXQ3S042NzNiZzBnbXBfVGE3S3puRkdOZjBWVkdodXJIaENzVU1n",
@@ -964,7 +987,7 @@
       "source": "トイハコ",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPampoX0pWSGJWTk5XYWh2c084RXZ5emYzckVFXzllTmtFRkpEVWVwTWJROU1aQmFpZEIxeG1QR0NyZV9EQTEtOTIwNThpMEduTl96YXVoU2l5ZXFzallzVFpHQjN6bXQ3S042NzNiZzBnbXBfVGE3S3puRkdOZjBWVkdodXJIaENzVU1n?oc=5",
       "date": "2026-11-17T16:02:18.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "CBMijwFBVV95cUxOOHlQQUk0WTQzamtMUW1sQ3RxQVRia1RtOWVPVG8zSDRldXhwbm5EZFF0Z3ZOZkFmSTUzS2s3RkxtQTR5OGtBU3B4Nld2RW5taWQ3YlhOMnI4QlJObkhHbjBXdUY1eU0yUThrNkloRm0tN3l1Slh1Z0JQNVdOS0loMm5qUHJfQzRBZi1UQ0cxVQ",
@@ -1040,7 +1063,7 @@
       "source": "電ファミニコゲーマー",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uUFJJTjlKaHprVVRXQVhGYm1acnlUOHNGeDVGdGxfNGltNTJHR2tPM183WlRUUHNtbEVhQUxsUXVNYzJxdmJCcW9ZelUyWkF0bWgydDRLcndvQQ?oc=5",
       "date": "2026-11-17T10:49:00.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "CBMiakFVX3lxTE1pejVnZHFrSy1FSGk1VjQ1TW1vYUd5clR3enFGNkEzSmcxNHhLQ0FoVEJrYXI4YU13bTFjb2tpaV9LalI4Tjg3VnZDcWJhSHV0Zm45ZDNhaWxwSTNQc0FMZFNOMHhENWU3NGc",
@@ -1244,7 +1267,7 @@
       "source": "ウォーカープラス",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TRUx5NUsxTDJCaUtIdExJUUNLVFRRd1hEMmJlWnppSFd4MThRcTJ6bnNlX3RiQVRzM1ozcWRUS0NBREgzeE5SeWZORDRvZ2lWc2xGaFZRVjFCclBJQnhDX3FQQ19SYW5aMkFER1Z3?oc=5",
       "date": "2026-11-16T21:30:31.000Z",
-      "imageTries": 2
+      "imageTries": 1
     },
     {
       "id": "bing:https://www.excite.co.jp/news/article/Oricon_2493348/",
@@ -1303,7 +1326,7 @@
       "source": "Unisba Media",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaFltNF9CLTBNNlVoTDhNNzB4c1VNb28yZWRIaS1UelY3YTR3eEd5akQxYzZDcDNHU0FOMEVSMGxwWGpvWHFQRlJmdHpPbE1YRDNoeFNFejNBcHM5eXZsOEJwd0ViajFfODdPcTYweXl3elJrclN6WlRPT0E2a29kRXJ6dw?oc=5",
       "date": "2026-11-16T06:15:43.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "bing:https://4yuuu.com/articles/view/30060859",
@@ -1586,17 +1609,6 @@
       "imageTries": 1
     },
     {
-      "id": "CBMiekFVX3lxTE0yLU1TYlZtR2NqdnNTNlBKQzhKcWxGYWh2QUJzU0hNcjk2MEFnYXl1NDkxR0tzVDRaOWprTzNSUUNTeGpzOVZkMGVlYzVGVVJ4d05IcDJYQlAzV0U4NEtGWDNrX0VHbEJXWjFobW1lcEMyV243NzVxRXJ30gF_QVVfeXFMT2g3c1B5VW13Y3hGdXJhTkZMQlBpMnJYLS1sc1padlA3ZjZFSlRtc0JyQmtxRmJMQmN0bU9IaV9TQ2tvTTM0NzdEWFQxa3pSdkFqMVZkYm93N3IyY05VOGItTHpWVzkzWGlhYXpLUVZiU3ZydkFuN0l2ekUwRFMwbw",
-      "keyword": "大型コラボ",
-      "title": "【付録】ハローキティ×アリソンブラウンコラボ！もこもこボアポーチ＆トートが可愛すぎて争奪戦の予感♡【otonaSWEET1月号増刊＆特別】",
-      "source": "ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yLU1TYlZtR2NqdnNTNlBKQzhKcWxGYWh2QUJzU0hNcjk2MEFnYXl1NDkxR0tzVDRaOWprTzNSUUNTeGpzOVZkMGVlYzVGVVJ4d05IcDJYQlAzV0U4NEtGWDNrX0VHbEJXWjFobW1lcEMyV243NzVxRXJ30gF_QVVfeXFMT2g3c1B5VW13Y3hGdXJhTkZMQlBpMnJYLS1sc1padlA3ZjZFSlRtc0JyQmtxRmJMQmN0bU9IaV9TQ2tvTTM0NzdEWFQxa3pSdkFqMVZkYm93N3IyY05VOGItTHpWVzkzWGlhYXpLUVZiU3ZydkFuN0l2ekUwRFMwbw?oc=5",
-      "date": "2026-11-13T09:30:00.000Z",
-      "thumb": "https://www.bing.com/th?id=ONUT.d_pXyYi2rFn_P7h6sDCOkQ&pid=News&w=480&h=270&c=7",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261105-00000023-impgrw-000-1-view.jpg?exp=10800",
-      "imageTries": 1
-    },
-    {
       "id": "bing:https://www.cinemacafe.net/article/2026/11/13/114102.html",
       "keyword": "一番くじ",
       "title": "『ゴジラ-1.0』『ゴジラ-0.0』からも登場！「一番くじ ゴジラ 怪獣",
@@ -1606,6 +1618,17 @@
       "thumb": "https://www.bing.com/th?id=ONUT.vWw4EBmuxtulRHLoeuKoUg&pid=News&w=480&h=270&c=7",
       "date": "2026-11-13T09:30:00.000Z",
       "image": "https://www.cinemacafe.net/imgs/ogp_f/846567.webp",
+      "imageTries": 1
+    },
+    {
+      "id": "CBMiekFVX3lxTE0yLU1TYlZtR2NqdnNTNlBKQzhKcWxGYWh2QUJzU0hNcjk2MEFnYXl1NDkxR0tzVDRaOWprTzNSUUNTeGpzOVZkMGVlYzVGVVJ4d05IcDJYQlAzV0U4NEtGWDNrX0VHbEJXWjFobW1lcEMyV243NzVxRXJ30gF_QVVfeXFMT2g3c1B5VW13Y3hGdXJhTkZMQlBpMnJYLS1sc1padlA3ZjZFSlRtc0JyQmtxRmJMQmN0bU9IaV9TQ2tvTTM0NzdEWFQxa3pSdkFqMVZkYm93N3IyY05VOGItTHpWVzkzWGlhYXpLUVZiU3ZydkFuN0l2ekUwRFMwbw",
+      "keyword": "大型コラボ",
+      "title": "【付録】ハローキティ×アリソンブラウンコラボ！もこもこボアポーチ＆トートが可愛すぎて争奪戦の予感♡【otonaSWEET1月号増刊＆特別】",
+      "source": "ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yLU1TYlZtR2NqdnNTNlBKQzhKcWxGYWh2QUJzU0hNcjk2MEFnYXl1NDkxR0tzVDRaOWprTzNSUUNTeGpzOVZkMGVlYzVGVVJ4d05IcDJYQlAzV0U4NEtGWDNrX0VHbEJXWjFobW1lcEMyV243NzVxRXJ30gF_QVVfeXFMT2g3c1B5VW13Y3hGdXJhTkZMQlBpMnJYLS1sc1padlA3ZjZFSlRtc0JyQmtxRmJMQmN0bU9IaV9TQ2tvTTM0NzdEWFQxa3pSdkFqMVZkYm93N3IyY05VOGItTHpWVzkzWGlhYXpLUVZiU3ZydkFuN0l2ekUwRFMwbw?oc=5",
+      "date": "2026-11-13T09:30:00.000Z",
+      "thumb": "https://www.bing.com/th?id=ONUT.d_pXyYi2rFn_P7h6sDCOkQ&pid=News&w=480&h=270&c=7",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261105-00000023-impgrw-000-1-view.jpg?exp=10800",
       "imageTries": 1
     },
     {
@@ -1630,26 +1653,6 @@
       "thumb": "https://www.bing.com/th?id=ONUT.0IG4ZkbwLW_5MtZnNl6uhg&pid=News&w=480&h=270&c=7",
       "date": "2026-11-13T08:30:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/93987/thumbnail_yzJb.jpg?x=1280",
-      "imageTries": 1
-    },
-    {
-      "id": "CBMif0FVX3lxTFBqdDVFcU54QVM2aW5rLXJYTVdRVkpZWTlwcVFYYkJOOVNSVmFKTDktRGdrRWhNLVp6cTVVMG9WaU10TmV5X3A3d1ZkZXVBeWVBQ29VR3NlX0k2ejdEaUJma1NyWElFSDFRZVR3UXBadWo5SjJqTW1vRmNldjNpa2c",
-      "keyword": "一番くじ",
-      "title": "「一番くじ 新テニスの王子様」に乾汁タンブラー、部室の鍵風チャームなどユニークなグッズがずらり！フィギュアも含めた全ラインナップ公開（インサイド）",
-      "source": "Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqdDVFcU54QVM2aW5rLXJYTVdRVkpZWTlwcVFYYkJOOVNSVmFKTDktRGdrRWhNLVp6cTVVMG9WaU10TmV5X3A3d1ZkZXVBeWVBQ29VR3NlX0k2ejdEaUJma1NyWElFSDFRZVR3UXBadWo5SjJqTW1vRmNldjNpa2c?oc=5",
-      "date": "2026-11-13T05:15:03.000Z",
-      "imageTries": 3
-    },
-    {
-      "id": "CBMiUEFVX3lxTFB1a2xNQjIwbXVhbzM4Qlh2eFdOMGk4dTdac1dsTk11bzFNcmY1TzlfUEQwX2tQZ0VQakh5bk5yWEVrQm5vZ256UUtWZFQ2X0VG",
-      "keyword": "一番くじ",
-      "title": "「一番くじ ラブライブ！ ～μ’s～」が発売決定！メインビジュアルが公開!!",
-      "source": "電撃ホビーウェブ",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1a2xNQjIwbXVhbzM4Qlh2eFdOMGk4dTdac1dsTk11bzFNcmY1TzlfUEQwX2tQZ0VQakh5bk5yWEVrQm5vZ256UUtWZFQ2X0VG?oc=5",
-      "date": "2026-11-13T04:30:00.000Z",
-      "thumb": "https://www.bing.com/th?id=ONUT.4vddEanTiQamynp9-OrMtw&pid=News&w=480&h=270&c=7",
-      "image": "",
       "imageTries": 1
     }
   ]
