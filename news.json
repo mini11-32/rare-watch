@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T19:23:00.365Z",
+  "updatedAt": "2026-11-23T01:29:55.094Z",
   "items": [
     {
       "id": "bing:https://livepocket.jp/e/0d5mm",
@@ -9,7 +9,7 @@
       "source": "livepocket.jp",
       "link": "https://livepocket.jp/e/0d5mm",
       "thumb": "",
-      "date": "2026-11-22T11:22:00.000Z",
+      "date": "2026-11-22T16:00:00.000Z",
       "image": "",
       "imageTries": 1
     },
@@ -57,6 +57,15 @@
       "thumb": "https://www.bing.com/th?id=ONUT.zpfPAetw8d_eCXte_iq4TA&pid=News&w=480&h=270&c=7",
       "date": "2026-11-22T01:00:00.000Z",
       "image": "",
+      "imageTries": 1
+    },
+    {
+      "id": "CBMiV0FVX3lxTE9ZZzRlek4yVDVGem5pMHRHVkIzLWE0SmZqR2hRenN0OWNiSGczOU5rMzJIUXIwMW1FbkVhaWFGTHUzOGswXzFmZUVVck90d3dPZkZDZ2s1WQ",
+      "keyword": "マーベル",
+      "title": "MARVEL スパイダーマン めじるしアクセサリーの設置場所・発売日・ラインナップ｜ガチャガチャ",
+      "source": "キャラグー",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZZzRlek4yVDVGem5pMHRHVkIzLWE0SmZqR2hRenN0OWNiSGczOU5rMzJIUXIwMW1FbkVhaWFGTHUzOGswXzFmZUVVck90d3dPZkZDZ2s1WQ?oc=5",
+      "date": "2026-11-21T23:52:22.000Z",
       "imageTries": 1
     },
     {
@@ -279,6 +288,17 @@
       "imageTries": 1
     },
     {
+      "id": "CBMiUEFVX3lxTFAyNlZnbXJaLTlsanR0cmx0blpBeTJtdk83em1QdlMyZHAzSTQzREdNT01fQUE3emZacE1nRmNvcDZvQk41aEpXMVdJVUFoenRp",
+      "keyword": "マーベル",
+      "title": "【国内12月5日発売予定】マーベル × アディダス アンソニー・エドワーズ 3 \"ドクター・ドゥーム\"(HP4158)",
+      "source": "スニーカーウォーズ",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyNlZnbXJaLTlsanR0cmx0blpBeTJtdk83em1QdlMyZHAzSTQzREdNT01fQUE3emZacE1nRmNvcDZvQk41aEpXMVdJVUFoenRp?oc=5",
+      "date": "2026-11-20T11:03:34.000Z",
+      "thumb": "",
+      "image": "https://www.fashion-press.net/img/news/153675/top.jpg?1795145366",
+      "imageTries": 1
+    },
+    {
       "id": "CBMiTEFVX3lxTFBKZ05HQUNuM09sZnJpeVlic0NwV3VyeTdhM3Z5Q0NkZnN4RlRWTkVCMGhqS05NNldtOUstQ1NiQWVBbmtWQ1FoUm1oQVY",
       "keyword": "大型コラボ",
       "title": "11/21発売｜Supreme × Dickies 26FW Week14｜抽選/販売/定価情報",
@@ -441,7 +461,7 @@
       "source": "VOCO News",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9veW1HTkJmcEZ2dWtiZUVBOE1fNlBfZ0MzWVA5aGxNa3ZDVHZiNTFoN1B3bmFFWkZFQ0lOYmpDd3BlRlZYY2VXc2hWNFBUcVY3VzF0WTVKNjN3Y1ctbGZKc01IeVF6UExLaHpreklldXVfU2VqUmVlMWwzMA?oc=5",
       "date": "2026-11-20T05:12:49.000Z",
-      "imageTries": 2
+      "imageTries": 3
     },
     {
       "id": "CBMiaEFVX3lxTE9QV1JKUUs3UjlUSVN1M0NlZFZNNlFuaktjMEZLdE9sRnlNdGQ5Z0V3QzdxMHFzeFhBd2p2WkMySk03WEgtYnprcW45N2NGRzZyVTl6cWNobHRnUDZfQjZEeVAwUWU1eFpf",
@@ -742,7 +762,7 @@
       "source": "トイハコ",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlTVI3SVRPMnU3TjNmYmVZdzUxUmF6S3hJNjBuaTRpX3g3amJmUHFhXzFwU1ZxdW0wN041Mkh3S2FSdWZ5R3RZMUllZ19LSXNkVzhyVy1nQVBlaTJLOVg2XzhXMDFPbENHVmktR1RKOTRXYW1LM0Z0UnJtX1o?oc=5",
       "date": "2026-11-19T02:19:50.000Z",
-      "imageTries": 2
+      "imageTries": 3
     },
     {
       "id": "CBMif0FVX3lxTFBRWkswbWxqWDlrQkVDd1Vpd2x2VlUtdTg1NmJCcWpkNXBadnk1X2pNZ2NwZ05zbmUzd1B4Zko3TEU2YWlWYUJZQVdDYzhQM0otZVFoMDJ1SjhhX1VlelJ1OWs5anp6VHNaYVJiRW5DaTFKOTdpSnJCZnZlOWNRZWc",
@@ -953,7 +973,7 @@
       "source": "トイハコ",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOHlQQUk0WTQzamtMUW1sQ3RxQVRia1RtOWVPVG8zSDRldXhwbm5EZFF0Z3ZOZkFmSTUzS2s3RkxtQTR5OGtBU3B4Nld2RW5taWQ3YlhOMnI4QlJObkhHbjBXdUY1eU0yUThrNkloRm0tN3l1Slh1Z0JQNVdOS0loMm5qUHJfQzRBZi1UQ0cxVQ?oc=5",
       "date": "2026-11-17T16:02:18.000Z",
-      "imageTries": 2
+      "imageTries": 3
     },
     {
       "id": "bing:https://www.inside-games.jp/article/2026/11/18/191159.html",
@@ -1182,7 +1202,7 @@
       "source": "LAWSON",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sWUxzekJXVFk1SjVGTlozSXRXVVNOay13YVU2VVhaMUVQTnY4dGtwTDhMQk9kSUR3VFpYZ0UxM3RoOGtHMHRUaTBDM1pTQmF3dDc0RzQ5QWw1Y2FqckxxUjNrcGttb2gxM0tiVmt5dzVTWjI3WnNfVnNFdGtDTmc?oc=5",
       "date": "2026-11-17T01:10:08.000Z",
-      "imageTries": 2
+      "imageTries": 3
     },
     {
       "id": "CBMickFVX3lxTE1aaEozSHNHLUl3VFl1SmpQOWs3WFN0dEdQbmRqeEZMaTFpblh0UVlmd2NIb2NCWGVhN0NyV1czNnlsNkI5dDIyb0JpNGhSc0dSZUxXM09CQjdoNWlOTzBKN2dUWlRvdmxhcVJkUmRIZnBnQQ",
@@ -1224,7 +1244,7 @@
       "source": "ウォーカープラス",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TRUx5NUsxTDJCaUtIdExJUUNLVFRRd1hEMmJlWnppSFd4MThRcTJ6bnNlX3RiQVRzM1ozcWRUS0NBREgzeE5SeWZORDRvZ2lWc2xGaFZRVjFCclBJQnhDX3FQQ19SYW5aMkFER1Z3?oc=5",
       "date": "2026-11-16T21:30:31.000Z",
-      "imageTries": 1
+      "imageTries": 2
     },
     {
       "id": "bing:https://www.excite.co.jp/news/article/Oricon_2493348/",
@@ -1275,6 +1295,15 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ESno0cGFLX3ZlcHY4SEVmQmdOY2JmTDcxd00yeUNGVG1VQ1RUN0NWSEdPYTQ4a2doM2wwS3c4bnJ4cU9SQnk2bXBQaGo0b3RaZTFPTU5mMmllNHBLSzhQX3ZVWFJoN1pOUF9CSGtMal90WE9CVjFzOFpFUTZDbG8?oc=5",
       "date": "2026-11-16T07:37:47.000Z",
       "imageTries": 3
+    },
+    {
+      "id": "CBMigwFBVV95cUxPaFltNF9CLTBNNlVoTDhNNzB4c1VNb28yZWRIaS1UelY3YTR3eEd5akQxYzZDcDNHU0FOMEVSMGxwWGpvWHFQRlJmdHpPbE1YRDNoeFNFejNBcHM5eXZsOEJwd0ViajFfODdPcTYweXl3elJrclN6WlRPT0E2a29kRXJ6dw",
+      "keyword": "マーベル",
+      "title": "MIYAVI JAPAN Circuit 2026 “SAMURAI 45 -Back To BASICS-“ チケット一般発売開始！ Marvel Rivals (lGCrKBSP4Q)",
+      "source": "Unisba Media",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaFltNF9CLTBNNlVoTDhNNzB4c1VNb28yZWRIaS1UelY3YTR3eEd5akQxYzZDcDNHU0FOMEVSMGxwWGpvWHFQRlJmdHpPbE1YRDNoeFNFejNBcHM5eXZsOEJwd0ViajFfODdPcTYweXl3elJrclN6WlRPT0E2a29kRXJ6dw?oc=5",
+      "date": "2026-11-16T06:15:43.000Z",
+      "imageTries": 1
     },
     {
       "id": "bing:https://4yuuu.com/articles/view/30060859",
@@ -1389,15 +1418,6 @@
       "thumb": "https://www.bing.com/th?id=ONUT.z6XsyB_sJsrEvYt5hyG4zA&pid=News&w=480&h=270&c=7",
       "image": "",
       "imageTries": 1
-    },
-    {
-      "id": "CBMiV0FVX3lxTE9ZZzRlek4yVDVGem5pMHRHVkIzLWE0SmZqR2hRenN0OWNiSGczOU5rMzJIUXIwMW1FbkVhaWFGTHUzOGswXzFmZUVVck90d3dPZkZDZ2s1WQ",
-      "keyword": "マーベル",
-      "title": "MARVEL スパイダーマン めじるしアクセサリーの設置場所・発売日・ラインナップ｜ガチャガチャ",
-      "source": "キャラグー",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZZzRlek4yVDVGem5pMHRHVkIzLWE0SmZqR2hRenN0OWNiSGczOU5rMzJIUXIwMW1FbkVhaWFGTHUzOGswXzFmZUVVck90d3dPZkZDZ2s1WQ?oc=5",
-      "date": "2026-11-14T23:46:27.000Z",
-      "imageTries": 3
     },
     {
       "id": "CBMijgFBVV95cUxNNEpBUXpXU0xJQzhBUFBURU1xQnIyaWpVM0pMQmZDZGZEQVBPbkpMRUV0b0NtN0k5eGNselZHOVdicGxkYkpYaWZyci1lLWFzeGd6ZUlGQkhxSlNobEsyclE1SlgxVmZ5SnY2Y3kwbXRManVfMEZmdGR5bDAtbWNMcXYxcjJSX2lJcktFZFdn",
@@ -1577,6 +1597,18 @@
       "imageTries": 1
     },
     {
+      "id": "bing:https://www.cinemacafe.net/article/2026/11/13/114102.html",
+      "keyword": "一番くじ",
+      "title": "『ゴジラ-1.0』『ゴジラ-0.0』からも登場！「一番くじ ゴジラ 怪獣",
+      "summary": "1954年に初めて姿を現して以来、日本のみならず世界中を魅了し衝撃を与え続けてきた怪獣ゴジラ。『ゴジラ-1.0』に引き続き山崎貴が監督・脚本・VFXを務める、公開中の 『ゴジラ-0.0』 が話題となっている。",
+      "source": "シネマカフェ",
+      "link": "https://www.cinemacafe.net/article/2026/11/13/114102.html",
+      "thumb": "https://www.bing.com/th?id=ONUT.vWw4EBmuxtulRHLoeuKoUg&pid=News&w=480&h=270&c=7",
+      "date": "2026-11-13T09:30:00.000Z",
+      "image": "https://www.cinemacafe.net/imgs/ogp_f/846567.webp",
+      "imageTries": 1
+    },
+    {
       "id": "bing:https://www.famitsu.com/article/202611/93983",
       "keyword": "一番くじ",
       "title": "『ワンピース』チョッパーたち“動物キャラ”のグッズが当たる",
@@ -1618,39 +1650,6 @@
       "date": "2026-11-13T04:30:00.000Z",
       "thumb": "https://www.bing.com/th?id=ONUT.4vddEanTiQamynp9-OrMtw&pid=News&w=480&h=270&c=7",
       "image": "",
-      "imageTries": 1
-    },
-    {
-      "id": "CBMiUEFVX3lxTE9HTnhWNFU0VGdKMmQwUlRxa0RCMENaNno1UGRvenpnU3NuVW1sLU1nT05tODFQMUtpdlJIVmtnY0dBdXNwcWNINFREQkdMbVEw",
-      "keyword": "一番くじ",
-      "title": "ラストワン賞は「バオウ･ザケルガ」フィギュア！「一番くじ 金色のガッシュ！！」全ラインナップが公開!!12月12日（土）発売！",
-      "source": "電撃ホビーウェブ",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HTnhWNFU0VGdKMmQwUlRxa0RCMENaNno1UGRvenpnU3NuVW1sLU1nT05tODFQMUtpdlJIVmtnY0dBdXNwcWNINFREQkdMbVEw?oc=5",
-      "date": "2026-11-13T04:15:00.000Z",
-      "thumb": "https://www.bing.com/th?id=ONUT.wjb_hTpcu-zOcetp0u_6qg&pid=News&w=480&h=270&c=7",
-      "image": "https://contents.oricon.co.jp/upimg/article/3/3435/3435418/thumb/img660/60629158490c40f4b820715b553c1668e27991eff044c321dc13221171395ad5.jpg",
-      "imageTries": 1
-    },
-    {
-      "id": "CBMiREFVX3lxTE5NZmdhUmpnbG1WVEIwR3N4eXF5WWNjd2lRdlVTTWVWQnpaZ0ZkRERkd1dYV1ZfTkljR3lmenhLcUt2VHVD",
-      "keyword": "ポケモンカード",
-      "title": "【2026.11.13】抽選販売「ポケモンカードゲームMEGA 拡張パック ストームエメラルダ （再販）」",
-      "source": "ホビーステーション",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5NZmdhUmpnbG1WVEIwR3N4eXF5WWNjd2lRdlVTTWVWQnpaZ0ZkRERkd1dYV1ZfTkljR3lmenhLcUt2VHVD?oc=5",
-      "date": "2026-11-13T03:01:11.000Z",
-      "thumb": "",
-      "image": "https://www.4gamer.net/games/256/G025620/20260821033/SS/001.jpg",
-      "imageTries": 1
-    },
-    {
-      "id": "CBMif0FVX3lxTE9OLUlRNmRWOF9tdVpGbldJVl9mM056OERKRDNPTUNKYUR5Wm42SkpxZjRFaDFvb1BSSnhuNEpyaGdkSXI3Qm81aDdNMVJtMks1WTJqRHRaQjdyU2lHVWZjTUE0c3o2aElKMGJZMDRJVks3aDhlRVgyTEtDS0Utak0",
-      "keyword": "大型コラボ",
-      "title": "【プロント】福袋は『パンどろぼう』とコラボ！「価格バグでは…？」「争奪戦になりそう」“神コスパ”にSNS歓喜（LASISA）",
-      "source": "Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OLUlRNmRWOF9tdVpGbldJVl9mM056OERKRDNPTUNKYUR5Wm42SkpxZjRFaDFvb1BSSnhuNEpyaGdkSXI3Qm81aDdNMVJtMks1WTJqRHRaQjdyU2lHVWZjTUE0c3o2aElKMGJZMDRJVks3aDhlRVgyTEtDS0Utak0?oc=5",
-      "date": "2026-11-13T02:35:00.000Z",
-      "thumb": "",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261113-10169377-lasisa-000-5-view.jpg?exp=10800",
       "imageTries": 1
     }
   ]
